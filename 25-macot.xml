@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Daf Hayomi — Macot — Rav Daniel Faour</title>
+    <title>Daf Hayomi — Makot — Rav Daniel Faour</title>
     <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
-    <description>Daf Hayomi — Masechet Macot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <description>Daf Hayomi — Masechet Makot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:32:44 +0000</lastBuildDate>
 
 <copyright>© 2026 Rav Daniel Faour</copyright>
-<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/25-macot.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/25-macot.xml" rel="self" type="application/rss+xml" />
 <itunes:owner>
   <itunes:name>Rav Daniel Faour</itunes:name>
   <itunes:email>refam5518@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:author>Rav Daniel Faour</itunes:author>
-<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/macot.jpg"/>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/macot.jpg" />
 <image>
   <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/macot.jpg</url>
-  <title>Daf Hayomi — Macot — Rav Daniel Faour</title>
+  <title>Daf Hayomi — Makot — Rav Daniel Faour</title>
   <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
 </image>
 <itunes:type>episodic</itunes:type>
@@ -27,8 +27,8 @@
       <itunes:category text="Judaism" />
     </itunes:category>
     <item>
-      <title>Macot 24</title>
-      <description>Daf Hayomi — Macot 24, com Rav Daniel Faour.</description>
+      <title>Makot 24</title>
+      <description>Daf Hayomi — Makot 24, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-024.mp3" length="29949363" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
@@ -38,8 +38,8 @@
       <itunes:duration>00:31:15</itunes:duration>
     </item>
     <item>
-      <title>Macot 23</title>
-      <description>Daf Hayomi — Macot 23, com Rav Daniel Faour.</description>
+      <title>Makot 23</title>
+      <description>Daf Hayomi — Makot 23, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-023.mp3" length="40179877" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
@@ -49,8 +49,8 @@
       <itunes:duration>00:41:56</itunes:duration>
     </item>
     <item>
-      <title>Macot 22</title>
-      <description>Daf Hayomi — Macot 22, com Rav Daniel Faour.</description>
+      <title>Makot 22</title>
+      <description>Daf Hayomi — Makot 22, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-022.mp3" length="23457343" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
@@ -60,8 +60,8 @@
       <itunes:duration>00:24:29</itunes:duration>
     </item>
     <item>
-      <title>Macot 21</title>
-      <description>Daf Hayomi — Macot 21, com Rav Daniel Faour.</description>
+      <title>Makot 21</title>
+      <description>Daf Hayomi — Makot 21, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-021.mp3" length="36757141" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
@@ -71,8 +71,8 @@
       <itunes:duration>00:38:22</itunes:duration>
     </item>
     <item>
-      <title>Macot 20</title>
-      <description>Daf Hayomi — Macot 20, com Rav Daniel Faour.</description>
+      <title>Makot 20</title>
+      <description>Daf Hayomi — Makot 20, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-020.mp3" length="24962820" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
@@ -82,8 +82,8 @@
       <itunes:duration>00:23:08</itunes:duration>
     </item>
     <item>
-      <title>Macot 19</title>
-      <description>Daf Hayomi — Macot 19, com Rav Daniel Faour.</description>
+      <title>Makot 19</title>
+      <description>Daf Hayomi — Makot 19, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-019.mp3" length="27727840" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
@@ -93,8 +93,8 @@
       <itunes:duration>00:28:56</itunes:duration>
     </item>
     <item>
-      <title>Macot 18</title>
-      <description>Daf Hayomi — Macot 18, com Rav Daniel Faour.</description>
+      <title>Makot 18</title>
+      <description>Daf Hayomi — Makot 18, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-018.mp3" length="28785516" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
@@ -104,8 +104,8 @@
       <itunes:duration>00:30:02</itunes:duration>
     </item>
     <item>
-      <title>Macot 17</title>
-      <description>Daf Hayomi — Macot 17, com Rav Daniel Faour.</description>
+      <title>Makot 17</title>
+      <description>Daf Hayomi — Makot 17, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-017.mp3" length="32268970" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
@@ -115,8 +115,8 @@
       <itunes:duration>00:38:54</itunes:duration>
     </item>
     <item>
-      <title>Macot 16</title>
-      <description>Daf Hayomi — Macot 16, com Rav Daniel Faour.</description>
+      <title>Makot 16</title>
+      <description>Daf Hayomi — Makot 16, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-016.mp3" length="30003588" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
@@ -126,8 +126,8 @@
       <itunes:duration>00:38:54</itunes:duration>
     </item>
     <item>
-      <title>Macot 15</title>
-      <description>Daf Hayomi — Macot 15, com Rav Daniel Faour.</description>
+      <title>Makot 15</title>
+      <description>Daf Hayomi — Makot 15, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-015.mp3" length="36740100" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
@@ -137,8 +137,8 @@
       <itunes:duration>00:49:06</itunes:duration>
     </item>
     <item>
-      <title>Macot 14</title>
-      <description>Daf Hayomi — Macot 14, com Rav Daniel Faour.</description>
+      <title>Makot 14</title>
+      <description>Daf Hayomi — Makot 14, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-014.mp3" length="31970820" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
@@ -148,8 +148,8 @@
       <itunes:duration>00:39:28</itunes:duration>
     </item>
     <item>
-      <title>Macot 13</title>
-      <description>Daf Hayomi — Macot 13, com Rav Daniel Faour.</description>
+      <title>Makot 13</title>
+      <description>Daf Hayomi — Makot 13, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-013.mp3" length="27594564" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
@@ -159,8 +159,8 @@
       <itunes:duration>00:28:48</itunes:duration>
     </item>
     <item>
-      <title>Macot 12</title>
-      <description>Daf Hayomi — Macot 12, com Rav Daniel Faour.</description>
+      <title>Makot 12</title>
+      <description>Daf Hayomi — Makot 12, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-012.mp3" length="48105543" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
@@ -170,8 +170,8 @@
       <itunes:duration>00:50:13</itunes:duration>
     </item>
     <item>
-      <title>Macot 11</title>
-      <description>Daf Hayomi — Macot 11, com Rav Daniel Faour.</description>
+      <title>Makot 11</title>
+      <description>Daf Hayomi — Makot 11, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-011.mp3" length="32420868" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
@@ -181,8 +181,8 @@
       <itunes:duration>00:39:38</itunes:duration>
     </item>
     <item>
-      <title>Macot 10</title>
-      <description>Daf Hayomi — Macot 10, com Rav Daniel Faour.</description>
+      <title>Makot 10</title>
+      <description>Daf Hayomi — Makot 10, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-010.mp3" length="48162180" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
@@ -192,8 +192,8 @@
       <itunes:duration>00:47:16</itunes:duration>
     </item>
     <item>
-      <title>Macot 9</title>
-      <description>Daf Hayomi — Macot 9, com Rav Daniel Faour.</description>
+      <title>Makot 9</title>
+      <description>Daf Hayomi — Makot 9, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-009.mp3" length="19450500" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
@@ -203,8 +203,8 @@
       <itunes:duration>00:51:43</itunes:duration>
     </item>
     <item>
-      <title>Macot 8</title>
-      <description>Daf Hayomi — Macot 8, com Rav Daniel Faour.</description>
+      <title>Makot 8</title>
+      <description>Daf Hayomi — Makot 8, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-008.mp3" length="37718532" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
@@ -214,8 +214,8 @@
       <itunes:duration>00:43:07</itunes:duration>
     </item>
     <item>
-      <title>Macot 7</title>
-      <description>Daf Hayomi — Macot 7, com Rav Daniel Faour.</description>
+      <title>Makot 7</title>
+      <description>Daf Hayomi — Makot 7, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-007.mp3" length="31136388" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
@@ -225,8 +225,8 @@
       <itunes:duration>00:40:02</itunes:duration>
     </item>
     <item>
-      <title>Macot 6</title>
-      <description>Daf Hayomi — Macot 6, com Rav Daniel Faour.</description>
+      <title>Makot 6</title>
+      <description>Daf Hayomi — Makot 6, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-006.mp3" length="26473860" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
@@ -236,8 +236,8 @@
       <itunes:duration>00:23:41</itunes:duration>
     </item>
     <item>
-      <title>Macot 5</title>
-      <description>Daf Hayomi — Macot 5, com Rav Daniel Faour.</description>
+      <title>Makot 5</title>
+      <description>Daf Hayomi — Makot 5, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-005.mp3" length="47324338" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
@@ -247,8 +247,8 @@
       <itunes:duration>00:49:24</itunes:duration>
     </item>
     <item>
-      <title>Macot 4</title>
-      <description>Daf Hayomi — Macot 4, com Rav Daniel Faour.</description>
+      <title>Makot 4</title>
+      <description>Daf Hayomi — Makot 4, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-004.mp3" length="24117252" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
@@ -258,8 +258,8 @@
       <itunes:duration>00:37:43</itunes:duration>
     </item>
     <item>
-      <title>Macot 3</title>
-      <description>Daf Hayomi — Macot 3, com Rav Daniel Faour.</description>
+      <title>Makot 3</title>
+      <description>Daf Hayomi — Makot 3, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-003.mp3" length="21906948" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
@@ -269,8 +269,8 @@
       <itunes:duration>00:38:41</itunes:duration>
     </item>
     <item>
-      <title>Macot 2</title>
-      <description>Daf Hayomi — Macot 2, com Rav Daniel Faour.</description>
+      <title>Makot 2</title>
+      <description>Daf Hayomi — Makot 2, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-macot-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/25-Macot-002.mp3" length="35067012" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>

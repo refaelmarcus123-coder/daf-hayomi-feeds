@@ -1,0 +1,14 @@
+VALIDAÇÃO DOS 10 XML
+==================================================
+08-betsa.xml: Beitzá — 39 episódios — OK
+21-bava-cama.xml: Bava Kamá — 118 episódios — OK
+22-bava-metsia.xml: Bava Metziá — 118 episódios — OK
+24-san-hedrin.xml: Sanhedrin — 112 episódios — OK
+25-macot.xml: Makot — 23 episódios — OK
+35-keretot.xml: Keritot — 27 episódios — OK
+38-pea.xml: Mishná Peá — 8 episódios — OK
+39-demai.xml: Mishná Demai — 7 episódios — OK
+41-kilayim.xml: Mishná Kilaim — 9 episódios — OK
+40-sheviit.xml: Mishná Sheviit — 10 episódios — OK
+
+RESULTADO FINAL: 10/10 OK

@@ -1,0 +1,25 @@
+10 XML — NOMES VISÍVEIS CORRIGIDOS
+
+1. 08-betsa.xml: Betsá -> Beitzá
+2. 21-bava-cama.xml: Bavá Camá -> Bava Kamá
+3. 22-bava-metsia.xml: Bavá Metsiá -> Bava Metziá
+4. 24-san-hedrin.xml: San'Hedrin -> Sanhedrin
+5. 25-macot.xml: Macot -> Makot
+6. 35-keretot.xml: Keretot -> Keritot
+7. 38-pea.xml: Peá -> Mishná Peá
+8. 39-demai.xml: Demai -> Mishná Demai
+9. 41-kilayim.xml: Kilayim -> Mishná Kilaim
+10. 40-sheviit.xml: Sheviit -> Mishná Sheviit
+
+ALTERADO EM CADA XML:
+- nome do álbum/canal
+- descrição do canal
+- título RSS da imagem
+- título de todos os episódios
+- descrição de todos os episódios
+
+MANTIDO SEM ALTERAÇÃO:
+- URLs dos áudios
+- GUIDs
+- atom:link
+- URL técnica da capa

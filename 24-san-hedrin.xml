@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Daf Hayomi — San'Hedrin — Rav Daniel Faour</title>
+    <title>Daf Hayomi — Sanhedrin — Rav Daniel Faour</title>
     <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
-    <description>Daf Hayomi — Masechet San'Hedrin, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <description>Daf Hayomi — Masechet Sanhedrin, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:32:42 +0000</lastBuildDate>
 
 <copyright>© 2026 Rav Daniel Faour</copyright>
-<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/24-san-hedrin.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/24-san-hedrin.xml" rel="self" type="application/rss+xml" />
 <itunes:owner>
   <itunes:name>Rav Daniel Faour</itunes:name>
   <itunes:email>refam5518@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:author>Rav Daniel Faour</itunes:author>
-<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/san-hedrin.jpg"/>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/san-hedrin.jpg" />
 <image>
   <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/san-hedrin.jpg</url>
-  <title>Daf Hayomi — San'Hedrin — Rav Daniel Faour</title>
+  <title>Daf Hayomi — Sanhedrin — Rav Daniel Faour</title>
   <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
 </image>
 <itunes:type>episodic</itunes:type>
@@ -27,8 +27,8 @@
       <itunes:category text="Judaism" />
     </itunes:category>
     <item>
-      <title>San'Hedrin 113</title>
-      <description>Daf Hayomi — San'Hedrin 113, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 113</title>
+      <description>Daf Hayomi — Sanhedrin 113, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-113</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-113.mp3" length="22832677" type="audio/mpeg" />
       <itunes:episode>113</itunes:episode>
@@ -38,8 +38,8 @@
       <itunes:duration>00:23:49</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 112</title>
-      <description>Daf Hayomi — San'Hedrin 112, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 112</title>
+      <description>Daf Hayomi — Sanhedrin 112, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-112</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-112.mp3" length="49222788" type="audio/mpeg" />
       <itunes:episode>112</itunes:episode>
@@ -49,8 +49,8 @@
       <itunes:duration>00:59:56</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 111</title>
-      <description>Daf Hayomi — San'Hedrin 111, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 111</title>
+      <description>Daf Hayomi — Sanhedrin 111, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-111</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-111.mp3" length="22534788" type="audio/mpeg" />
       <itunes:episode>111</itunes:episode>
@@ -60,8 +60,8 @@
       <itunes:duration>00:27:05</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 110</title>
-      <description>Daf Hayomi — San'Hedrin 110, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 110</title>
+      <description>Daf Hayomi — Sanhedrin 110, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-110</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-110.mp3" length="25810308" type="audio/mpeg" />
       <itunes:episode>110</itunes:episode>
@@ -71,8 +71,8 @@
       <itunes:duration>00:34:45</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 109</title>
-      <description>Daf Hayomi — San'Hedrin 109, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 109</title>
+      <description>Daf Hayomi — Sanhedrin 109, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-109</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-109.mp3" length="36982020" type="audio/mpeg" />
       <itunes:episode>109</itunes:episode>
@@ -82,8 +82,8 @@
       <itunes:duration>00:42:14</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 108</title>
-      <description>Daf Hayomi — San'Hedrin 108, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 108</title>
+      <description>Daf Hayomi — Sanhedrin 108, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-108</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-108.mp3" length="39133572" type="audio/mpeg" />
       <itunes:episode>108</itunes:episode>
@@ -93,8 +93,8 @@
       <itunes:duration>00:42:00</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 107</title>
-      <description>Daf Hayomi — San'Hedrin 107, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 107</title>
+      <description>Daf Hayomi — Sanhedrin 107, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-107</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-107.mp3" length="38185860" type="audio/mpeg" />
       <itunes:episode>107</itunes:episode>
@@ -104,8 +104,8 @@
       <itunes:duration>00:47:18</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 106</title>
-      <description>Daf Hayomi — San'Hedrin 106, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 106</title>
+      <description>Daf Hayomi — Sanhedrin 106, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-106</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-106.mp3" length="31972740" type="audio/mpeg" />
       <itunes:episode>106</itunes:episode>
@@ -115,8 +115,8 @@
       <itunes:duration>00:33:49</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 105</title>
-      <description>Daf Hayomi — San'Hedrin 105, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 105</title>
+      <description>Daf Hayomi — Sanhedrin 105, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-105</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-105.mp3" length="38761092" type="audio/mpeg" />
       <itunes:episode>105</itunes:episode>
@@ -126,8 +126,8 @@
       <itunes:duration>00:41:23</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 104</title>
-      <description>Daf Hayomi — San'Hedrin 104, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 104</title>
+      <description>Daf Hayomi — Sanhedrin 104, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-104</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-104.mp3" length="33539460" type="audio/mpeg" />
       <itunes:episode>104</itunes:episode>
@@ -137,8 +137,8 @@
       <itunes:duration>00:27:46</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 103</title>
-      <description>Daf Hayomi — San'Hedrin 103, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 103</title>
+      <description>Daf Hayomi — Sanhedrin 103, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-103</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-103.mp3" length="38196372" type="audio/mpeg" />
       <itunes:episode>103</itunes:episode>
@@ -148,8 +148,8 @@
       <itunes:duration>00:39:52</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 102</title>
-      <description>Daf Hayomi — San'Hedrin 102, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 102</title>
+      <description>Daf Hayomi — Sanhedrin 102, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-102</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-102.mp3" length="29202180" type="audio/mpeg" />
       <itunes:episode>102</itunes:episode>
@@ -159,8 +159,8 @@
       <itunes:duration>00:41:26</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 101</title>
-      <description>Daf Hayomi — San'Hedrin 101, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 101</title>
+      <description>Daf Hayomi — Sanhedrin 101, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-101</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-101.mp3" length="36463620" type="audio/mpeg" />
       <itunes:episode>101</itunes:episode>
@@ -170,8 +170,8 @@
       <itunes:duration>00:25:30</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 100</title>
-      <description>Daf Hayomi — San'Hedrin 100, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 100</title>
+      <description>Daf Hayomi — Sanhedrin 100, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-100</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-100.mp3" length="31318788" type="audio/mpeg" />
       <itunes:episode>100</itunes:episode>
@@ -181,8 +181,8 @@
       <itunes:duration>00:26:10</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 99</title>
-      <description>Daf Hayomi — San'Hedrin 99, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 99</title>
+      <description>Daf Hayomi — Sanhedrin 99, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-99</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-099.mp3" length="40642692" type="audio/mpeg" />
       <itunes:episode>99</itunes:episode>
@@ -192,8 +192,8 @@
       <itunes:duration>00:25:49</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 98</title>
-      <description>Daf Hayomi — San'Hedrin 98, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 98</title>
+      <description>Daf Hayomi — Sanhedrin 98, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-98</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-098.mp3" length="36324228" type="audio/mpeg" />
       <itunes:episode>98</itunes:episode>
@@ -203,8 +203,8 @@
       <itunes:duration>00:28:29</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 97</title>
-      <description>Daf Hayomi — San'Hedrin 97, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 97</title>
+      <description>Daf Hayomi — Sanhedrin 97, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-97</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-097.mp3" length="27168900" type="audio/mpeg" />
       <itunes:episode>97</itunes:episode>
@@ -214,8 +214,8 @@
       <itunes:duration>00:28:26</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 96</title>
-      <description>Daf Hayomi — San'Hedrin 96, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 96</title>
+      <description>Daf Hayomi — Sanhedrin 96, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-96</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-096.mp3" length="37879812" type="audio/mpeg" />
       <itunes:episode>96</itunes:episode>
@@ -225,8 +225,8 @@
       <itunes:duration>00:31:24</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 95</title>
-      <description>Daf Hayomi — San'Hedrin 95, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 95</title>
+      <description>Daf Hayomi — Sanhedrin 95, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-95</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-095.mp3" length="34611972" type="audio/mpeg" />
       <itunes:episode>95</itunes:episode>
@@ -236,8 +236,8 @@
       <itunes:duration>00:30:28</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 94</title>
-      <description>Daf Hayomi — San'Hedrin 94, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 94</title>
+      <description>Daf Hayomi — Sanhedrin 94, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-94</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-094.mp3" length="38894340" type="audio/mpeg" />
       <itunes:episode>94</itunes:episode>
@@ -247,8 +247,8 @@
       <itunes:duration>00:21:54</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 93</title>
-      <description>Daf Hayomi — San'Hedrin 93, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 93</title>
+      <description>Daf Hayomi — Sanhedrin 93, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-93</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-093.mp3" length="39145860" type="audio/mpeg" />
       <itunes:episode>93</itunes:episode>
@@ -258,8 +258,8 @@
       <itunes:duration>00:28:36</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 92</title>
-      <description>Daf Hayomi — San'Hedrin 92, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 92</title>
+      <description>Daf Hayomi — Sanhedrin 92, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-92</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-092.mp3" length="36946692" type="audio/mpeg" />
       <itunes:episode>92</itunes:episode>
@@ -269,8 +269,8 @@
       <itunes:duration>00:28:18</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 91</title>
-      <description>Daf Hayomi — San'Hedrin 91, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 91</title>
+      <description>Daf Hayomi — Sanhedrin 91, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-91</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-091.mp3" length="35070468" type="audio/mpeg" />
       <itunes:episode>91</itunes:episode>
@@ -280,8 +280,8 @@
       <itunes:duration>00:25:49</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 90</title>
-      <description>Daf Hayomi — San'Hedrin 90, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 90</title>
+      <description>Daf Hayomi — Sanhedrin 90, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-90</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-090.mp3" length="37787268" type="audio/mpeg" />
       <itunes:episode>90</itunes:episode>
@@ -291,8 +291,8 @@
       <itunes:duration>00:29:21</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 89</title>
-      <description>Daf Hayomi — San'Hedrin 89, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 89</title>
+      <description>Daf Hayomi — Sanhedrin 89, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-89</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-089.mp3" length="45722628" type="audio/mpeg" />
       <itunes:episode>89</itunes:episode>
@@ -302,8 +302,8 @@
       <itunes:duration>00:24:15</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 88</title>
-      <description>Daf Hayomi — San'Hedrin 88, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 88</title>
+      <description>Daf Hayomi — Sanhedrin 88, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-88</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-088.mp3" length="28347012" type="audio/mpeg" />
       <itunes:episode>88</itunes:episode>
@@ -313,8 +313,8 @@
       <itunes:duration>00:20:08</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 87</title>
-      <description>Daf Hayomi — San'Hedrin 87, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 87</title>
+      <description>Daf Hayomi — Sanhedrin 87, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-87</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-087.mp3" length="36211332" type="audio/mpeg" />
       <itunes:episode>87</itunes:episode>
@@ -324,8 +324,8 @@
       <itunes:duration>00:32:15</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 86</title>
-      <description>Daf Hayomi — San'Hedrin 86, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 86</title>
+      <description>Daf Hayomi — Sanhedrin 86, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-86</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-086.mp3" length="41632260" type="audio/mpeg" />
       <itunes:episode>86</itunes:episode>
@@ -335,8 +335,8 @@
       <itunes:duration>00:41:52</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 85</title>
-      <description>Daf Hayomi — San'Hedrin 85, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 85</title>
+      <description>Daf Hayomi — Sanhedrin 85, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-85</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-085.mp3" length="28535940" type="audio/mpeg" />
       <itunes:episode>85</itunes:episode>
@@ -346,8 +346,8 @@
       <itunes:duration>00:31:19</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 84</title>
-      <description>Daf Hayomi — San'Hedrin 84, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 84</title>
+      <description>Daf Hayomi — Sanhedrin 84, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-84</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-084.mp3" length="34846980" type="audio/mpeg" />
       <itunes:episode>84</itunes:episode>
@@ -357,8 +357,8 @@
       <itunes:duration>00:35:10</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 83</title>
-      <description>Daf Hayomi — San'Hedrin 83, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 83</title>
+      <description>Daf Hayomi — Sanhedrin 83, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-83</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-083.mp3" length="28148100" type="audio/mpeg" />
       <itunes:episode>83</itunes:episode>
@@ -368,8 +368,8 @@
       <itunes:duration>00:19:26</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 82</title>
-      <description>Daf Hayomi — San'Hedrin 82, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 82</title>
+      <description>Daf Hayomi — Sanhedrin 82, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-82</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-082.mp3" length="30585348" type="audio/mpeg" />
       <itunes:episode>82</itunes:episode>
@@ -379,8 +379,8 @@
       <itunes:duration>00:21:58</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 81</title>
-      <description>Daf Hayomi — San'Hedrin 81, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 81</title>
+      <description>Daf Hayomi — Sanhedrin 81, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-81</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-081.mp3" length="32094852" type="audio/mpeg" />
       <itunes:episode>81</itunes:episode>
@@ -390,8 +390,8 @@
       <itunes:duration>00:20:40</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 80</title>
-      <description>Daf Hayomi — San'Hedrin 80, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 80</title>
+      <description>Daf Hayomi — Sanhedrin 80, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-80</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-080.mp3" length="30097668" type="audio/mpeg" />
       <itunes:episode>80</itunes:episode>
@@ -401,8 +401,8 @@
       <itunes:duration>00:32:02</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 79</title>
-      <description>Daf Hayomi — San'Hedrin 79, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 79</title>
+      <description>Daf Hayomi — Sanhedrin 79, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-79</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-079.mp3" length="26547972" type="audio/mpeg" />
       <itunes:episode>79</itunes:episode>
@@ -412,8 +412,8 @@
       <itunes:duration>00:31:14</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 78</title>
-      <description>Daf Hayomi — San'Hedrin 78, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 78</title>
+      <description>Daf Hayomi — Sanhedrin 78, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-78</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-078.mp3" length="37948548" type="audio/mpeg" />
       <itunes:episode>78</itunes:episode>
@@ -423,8 +423,8 @@
       <itunes:duration>00:47:34</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 77</title>
-      <description>Daf Hayomi — San'Hedrin 77, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 77</title>
+      <description>Daf Hayomi — Sanhedrin 77, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-77</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-077.mp3" length="37655172" type="audio/mpeg" />
       <itunes:episode>77</itunes:episode>
@@ -434,8 +434,8 @@
       <itunes:duration>00:44:16</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 76</title>
-      <description>Daf Hayomi — San'Hedrin 76, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 76</title>
+      <description>Daf Hayomi — Sanhedrin 76, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-76</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-076.mp3" length="27565572" type="audio/mpeg" />
       <itunes:episode>76</itunes:episode>
@@ -445,8 +445,8 @@
       <itunes:duration>00:20:15</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 75</title>
-      <description>Daf Hayomi — San'Hedrin 75, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 75</title>
+      <description>Daf Hayomi — Sanhedrin 75, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-75</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-075.mp3" length="41774340" type="audio/mpeg" />
       <itunes:episode>75</itunes:episode>
@@ -456,8 +456,8 @@
       <itunes:duration>00:44:54</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 74</title>
-      <description>Daf Hayomi — San'Hedrin 74, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 74</title>
+      <description>Daf Hayomi — Sanhedrin 74, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-74</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-074.mp3" length="37253508" type="audio/mpeg" />
       <itunes:episode>74</itunes:episode>
@@ -467,8 +467,8 @@
       <itunes:duration>00:35:10</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 73</title>
-      <description>Daf Hayomi — San'Hedrin 73, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 73</title>
+      <description>Daf Hayomi — Sanhedrin 73, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-73</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-073.mp3" length="26794500" type="audio/mpeg" />
       <itunes:episode>73</itunes:episode>
@@ -478,8 +478,8 @@
       <itunes:duration>00:48:06</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 72</title>
-      <description>Daf Hayomi — San'Hedrin 72, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 72</title>
+      <description>Daf Hayomi — Sanhedrin 72, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-72</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-072.mp3" length="38432772" type="audio/mpeg" />
       <itunes:episode>72</itunes:episode>
@@ -489,8 +489,8 @@
       <itunes:duration>00:54:29</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 71</title>
-      <description>Daf Hayomi — San'Hedrin 71, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 71</title>
+      <description>Daf Hayomi — Sanhedrin 71, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-71</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-071.mp3" length="31930500" type="audio/mpeg" />
       <itunes:episode>71</itunes:episode>
@@ -500,8 +500,8 @@
       <itunes:duration>00:36:23</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 70</title>
-      <description>Daf Hayomi — San'Hedrin 70, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 70</title>
+      <description>Daf Hayomi — Sanhedrin 70, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-70</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-070.mp3" length="35581188" type="audio/mpeg" />
       <itunes:episode>70</itunes:episode>
@@ -511,8 +511,8 @@
       <itunes:duration>00:30:53</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 69</title>
-      <description>Daf Hayomi — San'Hedrin 69, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 69</title>
+      <description>Daf Hayomi — Sanhedrin 69, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-69</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-069.mp3" length="31977732" type="audio/mpeg" />
       <itunes:episode>69</itunes:episode>
@@ -522,8 +522,8 @@
       <itunes:duration>00:36:55</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 68</title>
-      <description>Daf Hayomi — San'Hedrin 68, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 68</title>
+      <description>Daf Hayomi — Sanhedrin 68, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-68</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-068.mp3" length="26055300" type="audio/mpeg" />
       <itunes:episode>68</itunes:episode>
@@ -533,8 +533,8 @@
       <itunes:duration>00:16:02</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 67</title>
-      <description>Daf Hayomi — San'Hedrin 67, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 67</title>
+      <description>Daf Hayomi — Sanhedrin 67, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-67</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-067.mp3" length="30778500" type="audio/mpeg" />
       <itunes:episode>67</itunes:episode>
@@ -544,8 +544,8 @@
       <itunes:duration>00:27:39</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 66</title>
-      <description>Daf Hayomi — San'Hedrin 66, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 66</title>
+      <description>Daf Hayomi — Sanhedrin 66, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-66</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-066.mp3" length="32822493" type="audio/mpeg" />
       <itunes:episode>66</itunes:episode>
@@ -555,8 +555,8 @@
       <itunes:duration>00:34:15</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 65</title>
-      <description>Daf Hayomi — San'Hedrin 65, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 65</title>
+      <description>Daf Hayomi — Sanhedrin 65, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-65</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-065.mp3" length="35168387" type="audio/mpeg" />
       <itunes:episode>65</itunes:episode>
@@ -566,8 +566,8 @@
       <itunes:duration>00:39:52</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 64</title>
-      <description>Daf Hayomi — San'Hedrin 64, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 64</title>
+      <description>Daf Hayomi — Sanhedrin 64, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-64</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-064.mp3" length="34082051" type="audio/mpeg" />
       <itunes:episode>64</itunes:episode>
@@ -577,8 +577,8 @@
       <itunes:duration>00:36:49</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 63</title>
-      <description>Daf Hayomi — San'Hedrin 63, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 63</title>
+      <description>Daf Hayomi — Sanhedrin 63, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-63</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-063.mp3" length="37424388" type="audio/mpeg" />
       <itunes:episode>63</itunes:episode>
@@ -588,8 +588,8 @@
       <itunes:duration>00:38:51</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 62</title>
-      <description>Daf Hayomi — San'Hedrin 62, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 62</title>
+      <description>Daf Hayomi — Sanhedrin 62, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-62</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-062.mp3" length="31196292" type="audio/mpeg" />
       <itunes:episode>62</itunes:episode>
@@ -599,8 +599,8 @@
       <itunes:duration>00:25:35</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 61</title>
-      <description>Daf Hayomi — San'Hedrin 61, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 61</title>
+      <description>Daf Hayomi — Sanhedrin 61, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-61</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-061.mp3" length="36175620" type="audio/mpeg" />
       <itunes:episode>61</itunes:episode>
@@ -610,8 +610,8 @@
       <itunes:duration>00:41:25</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 60</title>
-      <description>Daf Hayomi — San'Hedrin 60, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 60</title>
+      <description>Daf Hayomi — Sanhedrin 60, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-60</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-060.mp3" length="29235972" type="audio/mpeg" />
       <itunes:episode>60</itunes:episode>
@@ -621,8 +621,8 @@
       <itunes:duration>00:37:42</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 59</title>
-      <description>Daf Hayomi — San'Hedrin 59, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 59</title>
+      <description>Daf Hayomi — Sanhedrin 59, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-59</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-059.mp3" length="37605252" type="audio/mpeg" />
       <itunes:episode>59</itunes:episode>
@@ -632,8 +632,8 @@
       <itunes:duration>00:49:47</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 58</title>
-      <description>Daf Hayomi — San'Hedrin 58, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 58</title>
+      <description>Daf Hayomi — Sanhedrin 58, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-58</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-058.mp3" length="34702980" type="audio/mpeg" />
       <itunes:episode>58</itunes:episode>
@@ -643,8 +643,8 @@
       <itunes:duration>00:45:53</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 57</title>
-      <description>Daf Hayomi — San'Hedrin 57, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 57</title>
+      <description>Daf Hayomi — Sanhedrin 57, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-57</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-057.mp3" length="34950660" type="audio/mpeg" />
       <itunes:episode>57</itunes:episode>
@@ -654,8 +654,8 @@
       <itunes:duration>00:20:53</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 56</title>
-      <description>Daf Hayomi — San'Hedrin 56, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 56</title>
+      <description>Daf Hayomi — Sanhedrin 56, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-56</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-056.mp3" length="37685508" type="audio/mpeg" />
       <itunes:episode>56</itunes:episode>
@@ -665,8 +665,8 @@
       <itunes:duration>00:40:57</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 55</title>
-      <description>Daf Hayomi — San'Hedrin 55, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 55</title>
+      <description>Daf Hayomi — Sanhedrin 55, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-55</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-055.mp3" length="21442308" type="audio/mpeg" />
       <itunes:episode>55</itunes:episode>
@@ -676,8 +676,8 @@
       <itunes:duration>00:19:19</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 54</title>
-      <description>Daf Hayomi — San'Hedrin 54, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 54</title>
+      <description>Daf Hayomi — Sanhedrin 54, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-54</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-054.mp3" length="29060100" type="audio/mpeg" />
       <itunes:episode>54</itunes:episode>
@@ -687,8 +687,8 @@
       <itunes:duration>00:37:52</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 53</title>
-      <description>Daf Hayomi — San'Hedrin 53, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 53</title>
+      <description>Daf Hayomi — Sanhedrin 53, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-53</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-053.mp3" length="44258820" type="audio/mpeg" />
       <itunes:episode>53</itunes:episode>
@@ -698,8 +698,8 @@
       <itunes:duration>00:58:26</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 52</title>
-      <description>Daf Hayomi — San'Hedrin 52, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 52</title>
+      <description>Daf Hayomi — Sanhedrin 52, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-52</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-052.mp3" length="43562628" type="audio/mpeg" />
       <itunes:episode>52</itunes:episode>
@@ -709,8 +709,8 @@
       <itunes:duration>00:49:32</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 51</title>
-      <description>Daf Hayomi — San'Hedrin 51, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 51</title>
+      <description>Daf Hayomi — Sanhedrin 51, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-51</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-051.mp3" length="46012039" type="audio/mpeg" />
       <itunes:episode>51</itunes:episode>
@@ -720,8 +720,8 @@
       <itunes:duration>00:48:01</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 50</title>
-      <description>Daf Hayomi — San'Hedrin 50, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 50</title>
+      <description>Daf Hayomi — Sanhedrin 50, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-50</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-050.mp3" length="31934340" type="audio/mpeg" />
       <itunes:episode>50</itunes:episode>
@@ -731,8 +731,8 @@
       <itunes:duration>00:42:30</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 49</title>
-      <description>Daf Hayomi — San'Hedrin 49, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 49</title>
+      <description>Daf Hayomi — Sanhedrin 49, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-49</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-049.mp3" length="48369337" type="audio/mpeg" />
       <itunes:episode>49</itunes:episode>
@@ -742,8 +742,8 @@
       <itunes:duration>00:50:29</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 48</title>
-      <description>Daf Hayomi — San'Hedrin 48, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 48</title>
+      <description>Daf Hayomi — Sanhedrin 48, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-48</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-048.mp3" length="40477572" type="audio/mpeg" />
       <itunes:episode>48</itunes:episode>
@@ -753,8 +753,8 @@
       <itunes:duration>00:20:05</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 47</title>
-      <description>Daf Hayomi — San'Hedrin 47, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 47</title>
+      <description>Daf Hayomi — Sanhedrin 47, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-47</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-047.mp3" length="40030980" type="audio/mpeg" />
       <itunes:episode>47</itunes:episode>
@@ -764,8 +764,8 @@
       <itunes:duration>00:47:22</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 46</title>
-      <description>Daf Hayomi — San'Hedrin 46, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 46</title>
+      <description>Daf Hayomi — Sanhedrin 46, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-46</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-046.mp3" length="38633988" type="audio/mpeg" />
       <itunes:episode>46</itunes:episode>
@@ -775,8 +775,8 @@
       <itunes:duration>00:48:21</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 45</title>
-      <description>Daf Hayomi — San'Hedrin 45, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 45</title>
+      <description>Daf Hayomi — Sanhedrin 45, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-45</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-045.mp3" length="36721668" type="audio/mpeg" />
       <itunes:episode>45</itunes:episode>
@@ -786,8 +786,8 @@
       <itunes:duration>00:40:00</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 44</title>
-      <description>Daf Hayomi — San'Hedrin 44, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 44</title>
+      <description>Daf Hayomi — Sanhedrin 44, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-44</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-044.mp3" length="40241028" type="audio/mpeg" />
       <itunes:episode>44</itunes:episode>
@@ -797,8 +797,8 @@
       <itunes:duration>00:48:04</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 43</title>
-      <description>Daf Hayomi — San'Hedrin 43, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 43</title>
+      <description>Daf Hayomi — Sanhedrin 43, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-43</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-043.mp3" length="30827268" type="audio/mpeg" />
       <itunes:episode>43</itunes:episode>
@@ -808,8 +808,8 @@
       <itunes:duration>00:23:48</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 42</title>
-      <description>Daf Hayomi — San'Hedrin 42, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 42</title>
+      <description>Daf Hayomi — Sanhedrin 42, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-42</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-042.mp3" length="45511812" type="audio/mpeg" />
       <itunes:episode>42</itunes:episode>
@@ -819,8 +819,8 @@
       <itunes:duration>00:49:58</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 41</title>
-      <description>Daf Hayomi — San'Hedrin 41, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 41</title>
+      <description>Daf Hayomi — Sanhedrin 41, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-41</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-041.mp3" length="32546052" type="audio/mpeg" />
       <itunes:episode>41</itunes:episode>
@@ -830,8 +830,8 @@
       <itunes:duration>00:19:13</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 40</title>
-      <description>Daf Hayomi — San'Hedrin 40, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 40</title>
+      <description>Daf Hayomi — Sanhedrin 40, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-40</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-040.mp3" length="39593992" type="audio/mpeg" />
       <itunes:episode>40</itunes:episode>
@@ -841,8 +841,8 @@
       <itunes:duration>00:41:19</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 39</title>
-      <description>Daf Hayomi — San'Hedrin 39, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 39</title>
+      <description>Daf Hayomi — Sanhedrin 39, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-39</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-039.mp3" length="43331980" type="audio/mpeg" />
       <itunes:episode>39</itunes:episode>
@@ -852,8 +852,8 @@
       <itunes:duration>00:45:14</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 38</title>
-      <description>Daf Hayomi — San'Hedrin 38, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 38</title>
+      <description>Daf Hayomi — Sanhedrin 38, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-38</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-038.mp3" length="32719494" type="audio/mpeg" />
       <itunes:episode>38</itunes:episode>
@@ -863,8 +863,8 @@
       <itunes:duration>00:34:09</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 37</title>
-      <description>Daf Hayomi — San'Hedrin 37, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 37</title>
+      <description>Daf Hayomi — Sanhedrin 37, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-37</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-037.mp3" length="24350340" type="audio/mpeg" />
       <itunes:episode>37</itunes:episode>
@@ -874,8 +874,8 @@
       <itunes:duration>00:21:54</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 36</title>
-      <description>Daf Hayomi — San'Hedrin 36, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 36</title>
+      <description>Daf Hayomi — Sanhedrin 36, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-36</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-036.mp3" length="32238852" type="audio/mpeg" />
       <itunes:episode>36</itunes:episode>
@@ -885,8 +885,8 @@
       <itunes:duration>00:34:05</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 35</title>
-      <description>Daf Hayomi — San'Hedrin 35, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 35</title>
+      <description>Daf Hayomi — Sanhedrin 35, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-035.mp3" length="33602820" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
@@ -896,8 +896,8 @@
       <itunes:duration>00:43:12</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 34</title>
-      <description>Daf Hayomi — San'Hedrin 34, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 34</title>
+      <description>Daf Hayomi — Sanhedrin 34, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-034.mp3" length="30493572" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
@@ -907,8 +907,8 @@
       <itunes:duration>00:29:20</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 33</title>
-      <description>Daf Hayomi — San'Hedrin 33, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 33</title>
+      <description>Daf Hayomi — Sanhedrin 33, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-033.mp3" length="27569412" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
@@ -918,8 +918,8 @@
       <itunes:duration>00:48:47</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 32</title>
-      <description>Daf Hayomi — San'Hedrin 32, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 32</title>
+      <description>Daf Hayomi — Sanhedrin 32, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-032.mp3" length="29397252" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
@@ -929,8 +929,8 @@
       <itunes:duration>00:34:10</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 31</title>
-      <description>Daf Hayomi — San'Hedrin 31, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 31</title>
+      <description>Daf Hayomi — Sanhedrin 31, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-031.mp3" length="30670980" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
@@ -940,8 +940,8 @@
       <itunes:duration>00:45:22</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 30</title>
-      <description>Daf Hayomi — San'Hedrin 30, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 30</title>
+      <description>Daf Hayomi — Sanhedrin 30, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-030.mp3" length="51628548" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
@@ -951,8 +951,8 @@
       <itunes:duration>00:51:31</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 29</title>
-      <description>Daf Hayomi — San'Hedrin 29, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 29</title>
+      <description>Daf Hayomi — Sanhedrin 29, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-029.mp3" length="24944388" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
@@ -962,8 +962,8 @@
       <itunes:duration>00:36:13</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 28</title>
-      <description>Daf Hayomi — San'Hedrin 28, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 28</title>
+      <description>Daf Hayomi — Sanhedrin 28, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-028.mp3" length="51074052" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
@@ -973,8 +973,8 @@
       <itunes:duration>01:07:10</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 27</title>
-      <description>Daf Hayomi — San'Hedrin 27, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 27</title>
+      <description>Daf Hayomi — Sanhedrin 27, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-027.mp3" length="15826307" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
@@ -984,8 +984,8 @@
       <itunes:duration>00:22:50</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 26</title>
-      <description>Daf Hayomi — San'Hedrin 26, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 26</title>
+      <description>Daf Hayomi — Sanhedrin 26, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-026.mp3" length="44702242" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
@@ -995,8 +995,8 @@
       <itunes:duration>00:46:39</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 25</title>
-      <description>Daf Hayomi — San'Hedrin 25, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 25</title>
+      <description>Daf Hayomi — Sanhedrin 25, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-025.mp3" length="32436768" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
@@ -1006,8 +1006,8 @@
       <itunes:duration>00:33:51</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 24</title>
-      <description>Daf Hayomi — San'Hedrin 24, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 24</title>
+      <description>Daf Hayomi — Sanhedrin 24, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-024.mp3" length="46193851" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
@@ -1017,8 +1017,8 @@
       <itunes:duration>00:48:13</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 23</title>
-      <description>Daf Hayomi — San'Hedrin 23, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 23</title>
+      <description>Daf Hayomi — Sanhedrin 23, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-023.mp3" length="46087680" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
@@ -1028,8 +1028,8 @@
       <itunes:duration>00:48:06</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 22</title>
-      <description>Daf Hayomi — San'Hedrin 22, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 22</title>
+      <description>Daf Hayomi — Sanhedrin 22, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-022.mp3" length="40672509" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
@@ -1039,8 +1039,8 @@
       <itunes:duration>00:42:27</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 21</title>
-      <description>Daf Hayomi — San'Hedrin 21, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 21</title>
+      <description>Daf Hayomi — Sanhedrin 21, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-021.mp3" length="41940615" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
@@ -1050,8 +1050,8 @@
       <itunes:duration>00:43:46</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 20</title>
-      <description>Daf Hayomi — San'Hedrin 20, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 20</title>
+      <description>Daf Hayomi — Sanhedrin 20, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-020.mp3" length="25861380" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
@@ -1061,8 +1061,8 @@
       <itunes:duration>00:25:54</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 19</title>
-      <description>Daf Hayomi — San'Hedrin 19, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 19</title>
+      <description>Daf Hayomi — Sanhedrin 19, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-019.mp3" length="46200270" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
@@ -1072,8 +1072,8 @@
       <itunes:duration>00:48:13</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 18</title>
-      <description>Daf Hayomi — San'Hedrin 18, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 18</title>
+      <description>Daf Hayomi — Sanhedrin 18, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-018.mp3" length="32744514" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
@@ -1083,8 +1083,8 @@
       <itunes:duration>00:34:10</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 17</title>
-      <description>Daf Hayomi — San'Hedrin 17, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 17</title>
+      <description>Daf Hayomi — Sanhedrin 17, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-017.mp3" length="49167225" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
@@ -1094,8 +1094,8 @@
       <itunes:duration>00:51:19</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 16</title>
-      <description>Daf Hayomi — San'Hedrin 16, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 16</title>
+      <description>Daf Hayomi — Sanhedrin 16, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-016.mp3" length="38639217" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
@@ -1105,8 +1105,8 @@
       <itunes:duration>00:40:20</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 15</title>
-      <description>Daf Hayomi — San'Hedrin 15, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 15</title>
+      <description>Daf Hayomi — Sanhedrin 15, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-015.mp3" length="32518917" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
@@ -1116,8 +1116,8 @@
       <itunes:duration>00:33:56</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 14</title>
-      <description>Daf Hayomi — San'Hedrin 14, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 14</title>
+      <description>Daf Hayomi — Sanhedrin 14, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-014.mp3" length="40315983" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
@@ -1127,8 +1127,8 @@
       <itunes:duration>00:42:05</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 13</title>
-      <description>Daf Hayomi — San'Hedrin 13, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 13</title>
+      <description>Daf Hayomi — Sanhedrin 13, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-013.mp3" length="17751299" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
@@ -1138,8 +1138,8 @@
       <itunes:duration>00:29:14</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 12</title>
-      <description>Daf Hayomi — San'Hedrin 12, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 12</title>
+      <description>Daf Hayomi — Sanhedrin 12, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-012.mp3" length="34750954" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
@@ -1149,8 +1149,8 @@
       <itunes:duration>00:36:16</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 11</title>
-      <description>Daf Hayomi — San'Hedrin 11, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 11</title>
+      <description>Daf Hayomi — Sanhedrin 11, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-011.mp3" length="26650893" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
@@ -1160,8 +1160,8 @@
       <itunes:duration>00:27:49</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 10</title>
-      <description>Daf Hayomi — San'Hedrin 10, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 10</title>
+      <description>Daf Hayomi — Sanhedrin 10, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-010.mp3" length="38843392" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
@@ -1171,8 +1171,8 @@
       <itunes:duration>00:40:32</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 9</title>
-      <description>Daf Hayomi — San'Hedrin 9, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 9</title>
+      <description>Daf Hayomi — Sanhedrin 9, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-009.mp3" length="35946657" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
@@ -1182,8 +1182,8 @@
       <itunes:duration>00:31:31</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 8</title>
-      <description>Daf Hayomi — San'Hedrin 8, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 8</title>
+      <description>Daf Hayomi — Sanhedrin 8, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-008.mp3" length="27001590" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
@@ -1193,8 +1193,8 @@
       <itunes:duration>00:28:11</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 7</title>
-      <description>Daf Hayomi — San'Hedrin 7, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 7</title>
+      <description>Daf Hayomi — Sanhedrin 7, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-007.mp3" length="36134307" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
@@ -1204,8 +1204,8 @@
       <itunes:duration>00:37:43</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 6</title>
-      <description>Daf Hayomi — San'Hedrin 6, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 6</title>
+      <description>Daf Hayomi — Sanhedrin 6, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-006.mp3" length="23420292" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
@@ -1215,8 +1215,8 @@
       <itunes:duration>00:25:20</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 5</title>
-      <description>Daf Hayomi — San'Hedrin 5, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 5</title>
+      <description>Daf Hayomi — Sanhedrin 5, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-005.mp3" length="43250248" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
@@ -1226,8 +1226,8 @@
       <itunes:duration>00:45:08</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 4</title>
-      <description>Daf Hayomi — San'Hedrin 4, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 4</title>
+      <description>Daf Hayomi — Sanhedrin 4, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-004.mp3" length="34005522" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
@@ -1237,8 +1237,8 @@
       <itunes:duration>00:35:29</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 3</title>
-      <description>Daf Hayomi — San'Hedrin 3, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 3</title>
+      <description>Daf Hayomi — Sanhedrin 3, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-003.mp3" length="32595898" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
@@ -1248,8 +1248,8 @@
       <itunes:duration>00:34:01</itunes:duration>
     </item>
     <item>
-      <title>San'Hedrin 2</title>
-      <description>Daf Hayomi — San'Hedrin 2, com Rav Daniel Faour.</description>
+      <title>Sanhedrin 2</title>
+      <description>Daf Hayomi — Sanhedrin 2, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-san-hedrin-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/24-San-Hedrin-002.mp3" length="38362338" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
