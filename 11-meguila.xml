@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Meguilá — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-meguila-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Meguilá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:27:41 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Meguilá 32</title>
+      <description>Daf Hayomi — Meguilá 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-32.mp3" length="17092001" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:22</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 31</title>
+      <description>Daf Hayomi — Meguilá 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-31.mp3" length="28031997" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 12 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:51</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 30</title>
+      <description>Daf Hayomi — Meguilá 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-30.mp3" length="31033146" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 11 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:26</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 29</title>
+      <description>Daf Hayomi — Meguilá 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-29.mp3" length="40147098" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 10 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:46</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 28</title>
+      <description>Daf Hayomi — Meguilá 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-28.mp3" length="36880755" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:29</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 27</title>
+      <description>Daf Hayomi — Meguilá 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-27.mp3" length="33083535" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 08 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:18</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 26</title>
+      <description>Daf Hayomi — Meguilá 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-26.mp3" length="34653123" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 07 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:16</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 25</title>
+      <description>Daf Hayomi — Meguilá 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-25.mp3" length="30392217" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:02</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 24</title>
+      <description>Daf Hayomi — Meguilá 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-24.mp3" length="27139200" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 05 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:54</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 23</title>
+      <description>Daf Hayomi — Meguilá 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-23.mp3" length="23224159" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 04 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:17</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 22</title>
+      <description>Daf Hayomi — Meguilá 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-22.mp3" length="35021089" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:45</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 21</title>
+      <description>Daf Hayomi — Meguilá 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-21.mp3" length="22157473" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:55</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 20</title>
+      <description>Daf Hayomi — Meguilá 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-20.mp3" length="20570371" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 01 Jan 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:50</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 19</title>
+      <description>Daf Hayomi — Meguilá 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-19.mp3" length="31042737" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 31 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:11</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 18</title>
+      <description>Daf Hayomi — Meguilá 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-18.mp3" length="36482919" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:10</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 17</title>
+      <description>Daf Hayomi — Meguilá 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-17.mp3" length="36313617" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 29 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:50</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 16</title>
+      <description>Daf Hayomi — Meguilá 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-16.mp3" length="31461405" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:39</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 15</title>
+      <description>Daf Hayomi — Meguilá 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-15.mp3" length="27701733" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 27 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:41</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 14</title>
+      <description>Daf Hayomi — Meguilá 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-14.mp3" length="34781142" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 26 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:26</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 13</title>
+      <description>Daf Hayomi — Meguilá 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-13.mp3" length="29348883" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 25 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:17</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 12</title>
+      <description>Daf Hayomi — Meguilá 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-12.mp3" length="30018993" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:27</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 11</title>
+      <description>Daf Hayomi — Meguilá 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-11.mp3" length="41127882" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 23 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:27</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 10</title>
+      <description>Daf Hayomi — Meguilá 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-010.mp3" length="33756573" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 22 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:44</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 9</title>
+      <description>Daf Hayomi — Meguilá 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-09.mp3" length="32874618" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 21 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:39</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 8</title>
+      <description>Daf Hayomi — Meguilá 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-08.mp3" length="37837924" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 20 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:25</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 7</title>
+      <description>Daf Hayomi — Meguilá 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-07.mp3" length="35966845" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 19 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:12</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 6</title>
+      <description>Daf Hayomi — Meguilá 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-06.mp3" length="28021155" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 18 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:01</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 5</title>
+      <description>Daf Hayomi — Meguilá 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-05.mp3" length="25692627" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 17 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:41</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 4</title>
+      <description>Daf Hayomi — Meguilá 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-04.mp3" length="29565723" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 16 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:36</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 3</title>
+      <description>Daf Hayomi — Meguilá 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-03.mp3" length="32367301" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:07</itunes:duration>
+    </item>
+    <item>
+      <title>Meguilá 2</title>
+      <description>Daf Hayomi — Meguilá 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-11-meguila-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/11-Meguila-02.mp3" length="29388072" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:32</itunes:duration>
+    </item>
+  </channel>
+</rss>

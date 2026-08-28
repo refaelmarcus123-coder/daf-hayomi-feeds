@@ -1,0 +1,1216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Menachot — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-menachot-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Menachot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:33:10 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Menachot 110</title>
+      <description>Daf Hayomi — Menachot 110, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-110</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-110.mp3" length="15123973" type="audio/mpeg" />
+      <itunes:episode>110</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 01 May 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:09</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 109</title>
+      <description>Daf Hayomi — Menachot 109, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-109</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-109.mp3" length="20870150" type="audio/mpeg" />
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:03</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 108</title>
+      <description>Daf Hayomi — Menachot 108, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-108</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-108.mp3" length="26142470" type="audio/mpeg" />
+      <itunes:episode>108</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:46</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 107</title>
+      <description>Daf Hayomi — Menachot 107, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-107</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-107.mp3" length="27473030" type="audio/mpeg" />
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:18</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 106</title>
+      <description>Daf Hayomi — Menachot 106, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-106</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-106.mp3" length="25817990" type="audio/mpeg" />
+      <itunes:episode>106</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:38</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 105</title>
+      <description>Daf Hayomi — Menachot 105, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-105</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-105.mp3" length="28493702" type="audio/mpeg" />
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 26 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:21</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 104</title>
+      <description>Daf Hayomi — Menachot 104, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-104</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-104.mp3" length="19799174" type="audio/mpeg" />
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 25 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:52</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 103</title>
+      <description>Daf Hayomi — Menachot 103, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-103</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-103.mp3" length="32434310" type="audio/mpeg" />
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:30</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 102</title>
+      <description>Daf Hayomi — Menachot 102, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-102</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-102.mp3" length="24292742" type="audio/mpeg" />
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:43</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 101</title>
+      <description>Daf Hayomi — Menachot 101, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-101</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-101.mp3" length="45922310" type="audio/mpeg" />
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:58:28</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 100</title>
+      <description>Daf Hayomi — Menachot 100, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-100</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-100.mp3" length="20975750" type="audio/mpeg" />
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:33</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 99</title>
+      <description>Daf Hayomi — Menachot 99, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-99</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-099.mp3" length="23944451" type="audio/mpeg" />
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:49</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 98</title>
+      <description>Daf Hayomi — Menachot 98, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-98</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-098.mp3" length="34252931" type="audio/mpeg" />
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 19 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:04</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 97</title>
+      <description>Daf Hayomi — Menachot 97, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-97</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-097.mp3" length="36782339" type="audio/mpeg" />
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 18 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:40</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 96</title>
+      <description>Daf Hayomi — Menachot 96, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-96</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-096.mp3" length="32634371" type="audio/mpeg" />
+      <itunes:episode>96</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:35</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 95</title>
+      <description>Daf Hayomi — Menachot 95, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-95</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-095.mp3" length="30939011" type="audio/mpeg" />
+      <itunes:episode>95</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:46</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 94</title>
+      <description>Daf Hayomi — Menachot 94, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-94</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-094.mp3" length="22423427" type="audio/mpeg" />
+      <itunes:episode>94</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:14</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 93</title>
+      <description>Daf Hayomi — Menachot 93, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-93</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-093.mp3" length="28921091" type="audio/mpeg" />
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:46</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 92</title>
+      <description>Daf Hayomi — Menachot 92, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-92</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-092.mp3" length="26162051" type="audio/mpeg" />
+      <itunes:episode>92</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 13 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:00</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 91</title>
+      <description>Daf Hayomi — Menachot 91, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-91</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-091.mp3" length="40820867" type="audio/mpeg" />
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 12 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:25</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 90</title>
+      <description>Daf Hayomi — Menachot 90, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-90</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-090.mp3" length="36048131" type="audio/mpeg" />
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:46</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 89</title>
+      <description>Daf Hayomi — Menachot 89, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-89</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-089.mp3" length="29159171" type="audio/mpeg" />
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:28</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 88</title>
+      <description>Daf Hayomi — Menachot 88, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-88</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-088.mp3" length="28619651" type="audio/mpeg" />
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:39</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 87</title>
+      <description>Daf Hayomi — Menachot 87, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-87</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-087.mp3" length="26763011" type="audio/mpeg" />
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 08 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:19</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 86</title>
+      <description>Daf Hayomi — Menachot 86, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-86</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-086.mp3" length="24048131" type="audio/mpeg" />
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:16</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 85</title>
+      <description>Daf Hayomi — Menachot 85, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-85</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-085.mp3" length="19600259" type="audio/mpeg" />
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 06 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:04</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 84</title>
+      <description>Daf Hayomi — Menachot 84, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-84</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-084.mp3" length="26628227" type="audio/mpeg" />
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 05 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:54</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 83</title>
+      <description>Daf Hayomi — Menachot 83, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-83</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-083.mp3" length="19202051" type="audio/mpeg" />
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 04 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:09</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 82</title>
+      <description>Daf Hayomi — Menachot 82, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-82</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-082.mp3" length="22283267" type="audio/mpeg" />
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 03 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:40</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 81</title>
+      <description>Daf Hayomi — Menachot 81, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-81</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-081.mp3" length="25620227" type="audio/mpeg" />
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:55</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 80</title>
+      <description>Daf Hayomi — Menachot 80, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-80</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-080.mp3" length="28845817" type="audio/mpeg" />
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:06</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 79</title>
+      <description>Daf Hayomi — Menachot 79, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-79</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-079.mp3" length="31778819" type="audio/mpeg" />
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:48:01</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 78</title>
+      <description>Daf Hayomi — Menachot 78, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-78</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-078.mp3" length="18093827" type="audio/mpeg" />
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 30 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:04</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 77</title>
+      <description>Daf Hayomi — Menachot 77, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-77</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-077.mp3" length="34471811" type="audio/mpeg" />
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:21</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 76</title>
+      <description>Daf Hayomi — Menachot 76, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-76</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-076.mp3" length="26578307" type="audio/mpeg" />
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 28 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:22</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 75</title>
+      <description>Daf Hayomi — Menachot 75, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-75</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-075.mp3" length="35550467" type="audio/mpeg" />
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:26</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 74</title>
+      <description>Daf Hayomi — Menachot 74, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-74</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-074.mp3" length="27517187" type="audio/mpeg" />
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 26 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:44</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 73</title>
+      <description>Daf Hayomi — Menachot 73, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-73</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-073.mp3" length="32699267" type="audio/mpeg" />
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 25 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:55</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 72</title>
+      <description>Daf Hayomi — Menachot 72, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-72</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-072.mp3" length="26818307" type="audio/mpeg" />
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 24 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:35</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 71</title>
+      <description>Daf Hayomi — Menachot 71, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-71</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-071.mp3" length="28696451" type="audio/mpeg" />
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 23 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:09</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 70</title>
+      <description>Daf Hayomi — Menachot 70, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-70</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-070.mp3" length="28758659" type="audio/mpeg" />
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 22 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:25</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 69</title>
+      <description>Daf Hayomi — Menachot 69, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-69</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-069.mp3" length="25965059" type="audio/mpeg" />
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 21 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:01</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 68</title>
+      <description>Daf Hayomi — Menachot 68, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-68</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-068.mp3" length="30912899" type="audio/mpeg" />
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:04</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 67</title>
+      <description>Daf Hayomi — Menachot 67, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-67</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-067.mp3" length="23473667" type="audio/mpeg" />
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:11</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 66</title>
+      <description>Daf Hayomi — Menachot 66, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-66</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-066.mp3" length="31433219" type="audio/mpeg" />
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 18 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:14</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 65</title>
+      <description>Daf Hayomi — Menachot 65, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-65</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-065.mp3" length="15728386" type="audio/mpeg" />
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:00</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 64</title>
+      <description>Daf Hayomi — Menachot 64, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-64</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-064.mp3" length="36028547" type="audio/mpeg" />
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:43</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 63</title>
+      <description>Daf Hayomi — Menachot 63, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-63</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-063.mp3" length="15801346" type="audio/mpeg" />
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 15 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:02</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 62</title>
+      <description>Daf Hayomi — Menachot 62, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-62</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-062.mp3" length="18319619" type="audio/mpeg" />
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 14 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:17:37</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 61</title>
+      <description>Daf Hayomi — Menachot 61, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-61</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-061.mp3" length="18034691" type="audio/mpeg" />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:04</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 60</title>
+      <description>Daf Hayomi — Menachot 60, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-60</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-060.mp3" length="30073859" type="audio/mpeg" />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 12 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:24</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 59</title>
+      <description>Daf Hayomi — Menachot 59, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-59</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-059.mp3" length="35399970" type="audio/mpeg" />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:57</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 58</title>
+      <description>Daf Hayomi — Menachot 58, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-58</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-058.mp3" length="22337411" type="audio/mpeg" />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 10 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:04</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 57</title>
+      <description>Daf Hayomi — Menachot 57, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-57</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-057.mp3" length="30762371" type="audio/mpeg" />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 09 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:33</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 56</title>
+      <description>Daf Hayomi — Menachot 56, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-56</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-056.mp3" length="23844611" type="audio/mpeg" />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:14</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 55</title>
+      <description>Daf Hayomi — Menachot 55, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-55</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-055.mp3" length="23995907" type="audio/mpeg" />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 07 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:08</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 54</title>
+      <description>Daf Hayomi — Menachot 54, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-54</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-054.mp3" length="34038659" type="audio/mpeg" />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 06 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:36</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 53</title>
+      <description>Daf Hayomi — Menachot 53, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-53</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-053.mp3" length="33727619" type="audio/mpeg" />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 05 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:59</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 52</title>
+      <description>Daf Hayomi — Menachot 52, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-52</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-052.mp3" length="23344259" type="audio/mpeg" />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 04 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:13:15</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 51</title>
+      <description>Daf Hayomi — Menachot 51, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-51</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-051.mp3" length="33507587" type="audio/mpeg" />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 03 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:20</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 50</title>
+      <description>Daf Hayomi — Menachot 50, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-50</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-050.mp3" length="22744451" type="audio/mpeg" />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 02 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:04</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 49</title>
+      <description>Daf Hayomi — Menachot 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-049.mp3" length="29574659" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:15</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 48</title>
+      <description>Daf Hayomi — Menachot 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-048.mp3" length="34044419" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 28 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:41</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 47</title>
+      <description>Daf Hayomi — Menachot 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-047.mp3" length="41788547" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:07</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 46</title>
+      <description>Daf Hayomi — Menachot 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-046.mp3" length="36885251" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:30</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 45</title>
+      <description>Daf Hayomi — Menachot 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-045.mp3" length="40856579" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 25 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:21</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 44</title>
+      <description>Daf Hayomi — Menachot 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-044.mp3" length="21321731" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:09</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 43</title>
+      <description>Daf Hayomi — Menachot 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-043.mp3" length="26551427" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 23 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:47</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 42</title>
+      <description>Daf Hayomi — Menachot 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-042.mp3" length="37223171" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 22 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:43</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 41</title>
+      <description>Daf Hayomi — Menachot 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-041.mp3" length="32743811" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 21 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:08</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 40</title>
+      <description>Daf Hayomi — Menachot 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-040.mp3" length="26565250" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 20 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:34</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 39</title>
+      <description>Daf Hayomi — Menachot 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-039.mp3" length="29652226" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 19 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:22</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 38</title>
+      <description>Daf Hayomi — Menachot 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-038.mp3" length="27102921" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 18 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:17</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 37</title>
+      <description>Daf Hayomi — Menachot 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-037.mp3" length="30098068" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:30</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 36</title>
+      <description>Daf Hayomi — Menachot 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-036.mp3" length="20928131" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:25</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 35</title>
+      <description>Daf Hayomi — Menachot 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-035.mp3" length="26745347" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 15 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:36</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 34</title>
+      <description>Daf Hayomi — Menachot 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-034.mp3" length="30327299" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 14 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:00</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 33</title>
+      <description>Daf Hayomi — Menachot 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-033.mp3" length="39313667" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:25</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 32</title>
+      <description>Daf Hayomi — Menachot 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-032.mp3" length="25594499" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:14</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 31</title>
+      <description>Daf Hayomi — Menachot 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-031.mp3" length="15555586" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:35</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 30</title>
+      <description>Daf Hayomi — Menachot 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-030.mp3" length="34090499" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:48:28</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 29</title>
+      <description>Daf Hayomi — Menachot 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-029.mp3" length="37373699" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 09 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:18</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 28</title>
+      <description>Daf Hayomi — Menachot 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-028.mp3" length="36314627" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 08 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:12</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 27</title>
+      <description>Daf Hayomi — Menachot 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-027.mp3" length="33633539" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 07 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:38</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 26</title>
+      <description>Daf Hayomi — Menachot 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-026.mp3" length="41250947" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:01</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 25</title>
+      <description>Daf Hayomi — Menachot 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-025.mp3" length="35507459" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 05 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:40</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 24</title>
+      <description>Daf Hayomi — Menachot 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-024.mp3" length="38392451" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:27</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 23</title>
+      <description>Daf Hayomi — Menachot 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-023.mp3" length="38283011" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:11</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 22</title>
+      <description>Daf Hayomi — Menachot 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-022.mp3" length="27857027" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 02 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:41</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 21</title>
+      <description>Daf Hayomi — Menachot 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-021.mp3" length="34711427" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 01 Feb 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:03</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 20</title>
+      <description>Daf Hayomi — Menachot 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-020.mp3" length="23298947" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 31 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:05</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 19</title>
+      <description>Daf Hayomi — Menachot 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-019.mp3" length="45428867" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:07</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 18</title>
+      <description>Daf Hayomi — Menachot 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-018.mp3" length="28133507" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:31</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 17</title>
+      <description>Daf Hayomi — Menachot 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-017.mp3" length="37238147" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 28 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:25</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 16</title>
+      <description>Daf Hayomi — Menachot 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-016.mp3" length="46287195" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:48:19</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 15</title>
+      <description>Daf Hayomi — Menachot 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-015.mp3" length="31459331" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 26 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:25</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 14</title>
+      <description>Daf Hayomi — Menachot 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-014.mp3" length="46994819" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 25 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:59:59</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 13</title>
+      <description>Daf Hayomi — Menachot 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-013.mp3" length="30791939" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 24 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:05</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 12</title>
+      <description>Daf Hayomi — Menachot 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-012.mp3" length="48286211" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 23 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:43</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 11</title>
+      <description>Daf Hayomi — Menachot 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-011.mp3" length="30919427" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 22 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:49</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 10</title>
+      <description>Daf Hayomi — Menachot 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-010.mp3" length="32948867" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:20</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 9</title>
+      <description>Daf Hayomi — Menachot 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-009.mp3" length="29710979" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:33</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 8</title>
+      <description>Daf Hayomi — Menachot 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-008.mp3" length="35694467" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:32</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 7</title>
+      <description>Daf Hayomi — Menachot 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-007.mp3" length="43420547" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 18 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:51:33</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 6</title>
+      <description>Daf Hayomi — Menachot 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-006.mp3" length="30229379" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 17 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>01:01:58</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 5</title>
+      <description>Daf Hayomi — Menachot 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-005.mp3" length="40970627" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 16 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:42</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 4</title>
+      <description>Daf Hayomi — Menachot 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-004.mp3" length="30477059" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 15 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:55</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 3</title>
+      <description>Daf Hayomi — Menachot 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-003.mp3" length="39795587" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:50:13</itunes:duration>
+    </item>
+    <item>
+      <title>Menachot 2</title>
+      <description>Daf Hayomi — Menachot 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-30-menachot-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/30-Menachot-002.mp3" length="40592771" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 13 Jan 2026 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:49</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Temurá — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-temura-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Temurá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:33:51 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Temurá 34</title>
+      <description>Daf Hayomi — Temurá 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-034.mp3" length="23186040" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 22 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:12</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 33</title>
+      <description>Daf Hayomi — Temurá 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-033.mp3" length="24345291" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:24</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 32</title>
+      <description>Daf Hayomi — Temurá 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-032.mp3" length="32518917" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 20 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:56</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 31</title>
+      <description>Daf Hayomi — Temurá 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-031.mp3" length="17971455" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:48</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 30</title>
+      <description>Daf Hayomi — Temurá 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-030.mp3" length="49483311" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 18 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:51:39</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 29</title>
+      <description>Daf Hayomi — Temurá 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-029.mp3" length="40802875" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 17 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:35</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 28</title>
+      <description>Daf Hayomi — Temurá 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-028.mp3" length="43085533" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 16 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:58</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 27</title>
+      <description>Daf Hayomi — Temurá 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-027.mp3" length="36404776" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 15 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:00</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 26</title>
+      <description>Daf Hayomi — Temurá 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-026.mp3" length="20775199" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 14 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:41</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 25</title>
+      <description>Daf Hayomi — Temurá 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-025.mp3" length="36404776" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 13 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:00</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 24</title>
+      <description>Daf Hayomi — Temurá 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-024.mp3" length="16071602" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 12 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:46</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 23</title>
+      <description>Daf Hayomi — Temurá 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-023.mp3" length="43322136" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 11 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:13</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 22</title>
+      <description>Daf Hayomi — Temurá 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-022.mp3" length="44146381" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 10 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:05</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 21</title>
+      <description>Daf Hayomi — Temurá 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-021.mp3" length="24330541" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 09 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:23</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 20</title>
+      <description>Daf Hayomi — Temurá 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-020.mp3" length="32273557" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 08 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:41</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 19</title>
+      <description>Daf Hayomi — Temurá 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-019.mp3" length="35526154" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 07 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:05</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 18</title>
+      <description>Daf Hayomi — Temurá 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-018.mp3" length="31593430" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 06 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:58</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 17</title>
+      <description>Daf Hayomi — Temurá 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-017.mp3" length="41065165" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 05 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:52</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 16</title>
+      <description>Daf Hayomi — Temurá 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-016.mp3" length="26311291" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 04 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:27</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 15</title>
+      <description>Daf Hayomi — Temurá 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-015.mp3" length="31398691" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 03 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:46</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 14</title>
+      <description>Daf Hayomi — Temurá 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-014.mp3" length="42450597" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 02 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:18</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 13</title>
+      <description>Daf Hayomi — Temurá 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-013.mp3" length="28456339" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 01 Aug 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:42</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 12</title>
+      <description>Daf Hayomi — Temurá 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-012.mp3" length="29110195" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 31 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:23</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 11</title>
+      <description>Daf Hayomi — Temurá 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-011.mp3" length="34259058" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 30 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:45</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 10</title>
+      <description>Daf Hayomi — Temurá 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-010.mp3" length="36077848" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 29 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:39</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 9</title>
+      <description>Daf Hayomi — Temurá 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-009.mp3" length="42027604" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 28 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:52</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 8</title>
+      <description>Daf Hayomi — Temurá 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-008.mp3" length="25427415" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 27 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:32</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 7</title>
+      <description>Daf Hayomi — Temurá 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-007.mp3" length="41589918" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 26 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:24</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 6</title>
+      <description>Daf Hayomi — Temurá 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-006.mp3" length="40087720" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 25 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:50</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 5</title>
+      <description>Daf Hayomi — Temurá 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-005.mp3" length="49374891" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 24 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:51:32</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 4</title>
+      <description>Daf Hayomi — Temurá 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-004.mp3" length="24837196" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 23 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:55</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 3</title>
+      <description>Daf Hayomi — Temurá 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-003.mp3" length="40136673" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 22 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:53</itunes:duration>
+    </item>
+    <item>
+      <title>Temurá 2</title>
+      <description>Daf Hayomi — Temurá 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-34-temura-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/34-Temura-002.mp3" length="30792537" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 21 Jul 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:08</itunes:duration>
+    </item>
+  </channel>
+</rss>

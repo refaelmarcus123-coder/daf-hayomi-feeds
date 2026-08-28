@@ -1,0 +1,974 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Yoma — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-yoma-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Yoma, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:27:20 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Yoma 88</title>
+      <description>Daf Hayomi — Yoma 88, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-88</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-088.mp3" length="23109148" type="audio/mpeg" />
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 08 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:42</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 87</title>
+      <description>Daf Hayomi — Yoma 87, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-87</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-087.mp3" length="37385307" type="audio/mpeg" />
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 07 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:33</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 86</title>
+      <description>Daf Hayomi — Yoma 86, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-86</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-086.mp3" length="34156059" type="audio/mpeg" />
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 06 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:38</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 85</title>
+      <description>Daf Hayomi — Yoma 85, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-85</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-085.mp3" length="25946163" type="audio/mpeg" />
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 05 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:03</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 84</title>
+      <description>Daf Hayomi — Yoma 84, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-84</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-084.mp3" length="33330399" type="audio/mpeg" />
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 04 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:02</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 83</title>
+      <description>Daf Hayomi — Yoma 83, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-83</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-083.mp3" length="35514228" type="audio/mpeg" />
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 03 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:09</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 82</title>
+      <description>Daf Hayomi — Yoma 82, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-82</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-082.mp3" length="28894371" type="audio/mpeg" />
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 02 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:09</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 81</title>
+      <description>Daf Hayomi — Yoma 81, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-81</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-081.mp3" length="44214117" type="audio/mpeg" />
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 01 Jul 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:03</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 80</title>
+      <description>Daf Hayomi — Yoma 80, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-80</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-080.mp3" length="33778012" type="audio/mpeg" />
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 30 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:22</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 79</title>
+      <description>Daf Hayomi — Yoma 79, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-79</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-079.mp3" length="21853897" type="audio/mpeg" />
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 29 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:14</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 78</title>
+      <description>Daf Hayomi — Yoma 78, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-78</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-078.mp3" length="28596787" type="audio/mpeg" />
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 28 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:12</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 77</title>
+      <description>Daf Hayomi — Yoma 77, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-77</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-077.mp3" length="37196406" type="audio/mpeg" />
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 27 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:37</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 76</title>
+      <description>Daf Hayomi — Yoma 76, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-76</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-076.mp3" length="27350202" type="audio/mpeg" />
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 26 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:51</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 75</title>
+      <description>Daf Hayomi — Yoma 75, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-75</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-075.mp3" length="27957789" type="audio/mpeg" />
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 25 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:11</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 74</title>
+      <description>Daf Hayomi — Yoma 74, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-74</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-074.mp3" length="38401119" type="audio/mpeg" />
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 24 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:09</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 73</title>
+      <description>Daf Hayomi — Yoma 73, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-73</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-073.mp3" length="31144657" type="audio/mpeg" />
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 23 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:48</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 72</title>
+      <description>Daf Hayomi — Yoma 72, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-72</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-072.mp3" length="26687761" type="audio/mpeg" />
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 22 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:28</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 71</title>
+      <description>Daf Hayomi — Yoma 71, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-71</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-071.mp3" length="34823848" type="audio/mpeg" />
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 21 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:15</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 70</title>
+      <description>Daf Hayomi — Yoma 70, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-70</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-070.mp3" length="34752541" type="audio/mpeg" />
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 20 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:24</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 69</title>
+      <description>Daf Hayomi — Yoma 69, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-69</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-069.mp3" length="43107970" type="audio/mpeg" />
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 19 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:57</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 68</title>
+      <description>Daf Hayomi — Yoma 68, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-68</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-068.mp3" length="26380677" type="audio/mpeg" />
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 18 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:55</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 67</title>
+      <description>Daf Hayomi — Yoma 67, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-67</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-067.mp3" length="22405833" type="audio/mpeg" />
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 17 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:13</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 66</title>
+      <description>Daf Hayomi — Yoma 66, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-66</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-066.mp3" length="23651829" type="audio/mpeg" />
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 16 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:13</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 65</title>
+      <description>Daf Hayomi — Yoma 65, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-65</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-065.mp3" length="30431832" type="audio/mpeg" />
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 15 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:41</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 64</title>
+      <description>Daf Hayomi — Yoma 64, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-64</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-064.mp3" length="35162869" type="audio/mpeg" />
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 14 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:20</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 63</title>
+      <description>Daf Hayomi — Yoma 63, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-63</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-063.mp3" length="33547411" type="audio/mpeg" />
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 13 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:01</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 62</title>
+      <description>Daf Hayomi — Yoma 62, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-62</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-062.mp3" length="37045207" type="audio/mpeg" />
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 12 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:18</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 61</title>
+      <description>Daf Hayomi — Yoma 61, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-61</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-061.mp3" length="35103066" type="audio/mpeg" />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 11 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:20</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 60</title>
+      <description>Daf Hayomi — Yoma 60, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-60</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-060.mp3" length="25798962" type="audio/mpeg" />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 10 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:12:47</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 59</title>
+      <description>Daf Hayomi — Yoma 59, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-59</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-059.mp3" length="27389817" type="audio/mpeg" />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 09 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:58</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 58</title>
+      <description>Daf Hayomi — Yoma 58, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-58</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-058.mp3" length="32457618" type="audio/mpeg" />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 08 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:07</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 57</title>
+      <description>Daf Hayomi — Yoma 57, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-57</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-057.mp3" length="27183402" type="audio/mpeg" />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:43</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 56</title>
+      <description>Daf Hayomi — Yoma 56, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-56</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-056.mp3" length="25070460" type="audio/mpeg" />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 06 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:10:15</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 55</title>
+      <description>Daf Hayomi — Yoma 55, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-55</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-055.mp3" length="31841709" type="audio/mpeg" />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 05 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:44</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 54</title>
+      <description>Daf Hayomi — Yoma 54, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-54</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-054.mp3" length="25884864" type="audio/mpeg" />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 04 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:58</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 53</title>
+      <description>Daf Hayomi — Yoma 53, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-53</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-053.mp3" length="32492664" type="audio/mpeg" />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 03 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:55</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 52</title>
+      <description>Daf Hayomi — Yoma 52, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-52</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-052.mp3" length="20392828" type="audio/mpeg" />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 02 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:17</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 51</title>
+      <description>Daf Hayomi — Yoma 51, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-51</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-051.mp3" length="24829020" type="audio/mpeg" />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 01 Jun 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:34</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 50</title>
+      <description>Daf Hayomi — Yoma 50, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-50</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-050.mp3" length="36288180" type="audio/mpeg" />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 31 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:43</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 49</title>
+      <description>Daf Hayomi — Yoma 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-049.mp3" length="39863955" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 30 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:50</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 48</title>
+      <description>Daf Hayomi — Yoma 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-048.mp3" length="21764904" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 29 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:44</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 47</title>
+      <description>Daf Hayomi — Yoma 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-047.mp3" length="34071408" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 28 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:43</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 46</title>
+      <description>Daf Hayomi — Yoma 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-046.mp3" length="24037554" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 27 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:20</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 45</title>
+      <description>Daf Hayomi — Yoma 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-045.mp3" length="20833326" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 26 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:12</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 44</title>
+      <description>Daf Hayomi — Yoma 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-044.mp3" length="26256411" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 25 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:20</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 43</title>
+      <description>Daf Hayomi — Yoma 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-043.mp3" length="30109905" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 24 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:32</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 42</title>
+      <description>Daf Hayomi — Yoma 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-042.mp3" length="39307260" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 23 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:06</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 41</title>
+      <description>Daf Hayomi — Yoma 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-041.mp3" length="34935015" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 22 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:35</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 40</title>
+      <description>Daf Hayomi — Yoma 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-040.mp3" length="37878201" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 21 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:48:00</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 39</title>
+      <description>Daf Hayomi — Yoma 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-039.mp3" length="24514182" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 20 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:47</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 38</title>
+      <description>Daf Hayomi — Yoma 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-038.mp3" length="25521240" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 19 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:34</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 37</title>
+      <description>Daf Hayomi — Yoma 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-037.mp3" length="30879273" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 18 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:44</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 36</title>
+      <description>Daf Hayomi — Yoma 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-036.mp3" length="29303430" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 17 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:42</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 35</title>
+      <description>Daf Hayomi — Yoma 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-035.mp3" length="15451106" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 16 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:38</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 34</title>
+      <description>Daf Hayomi — Yoma 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-034.mp3" length="21075186" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 15 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:01</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 33</title>
+      <description>Daf Hayomi — Yoma 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-033.mp3" length="33714873" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 14 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:48:04</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 32</title>
+      <description>Daf Hayomi — Yoma 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-032.mp3" length="35234004" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 13 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:58</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 31</title>
+      <description>Daf Hayomi — Yoma 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-031.mp3" length="23359929" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 12 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:47</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 30</title>
+      <description>Daf Hayomi — Yoma 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-030.mp3" length="23513802" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 11 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:08</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 29</title>
+      <description>Daf Hayomi — Yoma 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-029.mp3" length="23610129" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 10 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:21</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 28</title>
+      <description>Daf Hayomi — Yoma 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-028.mp3" length="31206201" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 09 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:33</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 27</title>
+      <description>Daf Hayomi — Yoma 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-027.mp3" length="38473260" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 08 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:46</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 26</title>
+      <description>Daf Hayomi — Yoma 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-026.mp3" length="28676262" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 07 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:38</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 25</title>
+      <description>Daf Hayomi — Yoma 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-025.mp3" length="36991242" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 06 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:52</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 24</title>
+      <description>Daf Hayomi — Yoma 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-024.mp3" length="29227953" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 05 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:37</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 23</title>
+      <description>Daf Hayomi — Yoma 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-023.mp3" length="42687045" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 04 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:34</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 22</title>
+      <description>Daf Hayomi — Yoma 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-022.mp3" length="28858908" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 03 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:19</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 21</title>
+      <description>Daf Hayomi — Yoma 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-021.mp3" length="35483787" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 02 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:45</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 20</title>
+      <description>Daf Hayomi — Yoma 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-020.mp3" length="27707154" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 01 May 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:34</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 19</title>
+      <description>Daf Hayomi — Yoma 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-019.mp3" length="35713155" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 30 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:16</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 18</title>
+      <description>Daf Hayomi — Yoma 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-018.mp3" length="31590276" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 29 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:44</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 17</title>
+      <description>Daf Hayomi — Yoma 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-017.mp3" length="26157600" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 28 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:18</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 16</title>
+      <description>Daf Hayomi — Yoma 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-016.mp3" length="30673293" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 27 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:01</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 15</title>
+      <description>Daf Hayomi — Yoma 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-015.mp3" length="20973873" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 26 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:53</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 14</title>
+      <description>Daf Hayomi — Yoma 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-014.mp3" length="34598931" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 25 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:07</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 13</title>
+      <description>Daf Hayomi — Yoma 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-013.mp3" length="26361930" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 24 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:31</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 12</title>
+      <description>Daf Hayomi — Yoma 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-012.mp3" length="34347045" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 23 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:56</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 11</title>
+      <description>Daf Hayomi — Yoma 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-011.mp3" length="33992178" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 22 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:30</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 10</title>
+      <description>Daf Hayomi — Yoma 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-010.mp3" length="22347036" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:10</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 9</title>
+      <description>Daf Hayomi — Yoma 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-009.mp3" length="23298630" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 20 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:25</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 8</title>
+      <description>Daf Hayomi — Yoma 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-008.mp3" length="23501709" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:31</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 7</title>
+      <description>Daf Hayomi — Yoma 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-007.mp3" length="28970247" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 18 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:16</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 6</title>
+      <description>Daf Hayomi — Yoma 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-006.mp3" length="22293660" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 17 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:04</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 5</title>
+      <description>Daf Hayomi — Yoma 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-005.mp3" length="33686100" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 16 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:14</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 4</title>
+      <description>Daf Hayomi — Yoma 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-004.mp3" length="25537920" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 15 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:41</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 3</title>
+      <description>Daf Hayomi — Yoma 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-003.mp3" length="25705962" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 14 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:40</itunes:duration>
+    </item>
+    <item>
+      <title>Yoma 2</title>
+      <description>Daf Hayomi — Yoma 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-06-yoma-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/06-Yoma-002.mp3" length="30055698" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 13 Apr 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:53</itunes:duration>
+    </item>
+  </channel>
+</rss>

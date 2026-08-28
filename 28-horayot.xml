@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Horayot — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-horayot-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Horayot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:32:54 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Horayot 14</title>
+      <description>Daf Hayomi — Horayot 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-014.mp3" length="19731195" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:35</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 13</title>
+      <description>Daf Hayomi — Horayot 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-013.mp3" length="41252148" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 14 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:17</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 12</title>
+      <description>Daf Hayomi — Horayot 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-012.mp3" length="41252148" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 13 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:03</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 11</title>
+      <description>Daf Hayomi — Horayot 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-011.mp3" length="46757218" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 12 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:48:48</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 10</title>
+      <description>Daf Hayomi — Horayot 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-010.mp3" length="43822119" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 11 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:44</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 9</title>
+      <description>Daf Hayomi — Horayot 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-009.mp3" length="41097858" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:54</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 8</title>
+      <description>Daf Hayomi — Horayot 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-008.mp3" length="48403331" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:08</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 7</title>
+      <description>Daf Hayomi — Horayot 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-007.mp3" length="32658947" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 08 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:52</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 6</title>
+      <description>Daf Hayomi — Horayot 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-006.mp3" length="37927811" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 07 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:12</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 5</title>
+      <description>Daf Hayomi — Horayot 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-005.mp3" length="38818691" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 06 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:56:44</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 4</title>
+      <description>Daf Hayomi — Horayot 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-004.mp3" length="41298179" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 05 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:31</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 3</title>
+      <description>Daf Hayomi — Horayot 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-003.mp3" length="43505027" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 04 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:54</itunes:duration>
+    </item>
+    <item>
+      <title>Horayot 2</title>
+      <description>Daf Hayomi — Horayot 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-28-horayot-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/28-Horayot-002.mp3" length="39782531" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:50</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Shevuot — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-shevuot-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Shevuot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:32:47 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Shevuot 49</title>
+      <description>Daf Hayomi — Shevuot 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-049.mp3" length="31103748" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 19 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:16</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 48</title>
+      <description>Daf Hayomi — Shevuot 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-048.mp3" length="49602948" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 18 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:19</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 47</title>
+      <description>Daf Hayomi — Shevuot 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-047.mp3" length="29595012" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:45</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 46</title>
+      <description>Daf Hayomi — Shevuot 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-046.mp3" length="38958468" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 16 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:14</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 45</title>
+      <description>Daf Hayomi — Shevuot 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-045.mp3" length="35650692" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 15 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:41</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 44</title>
+      <description>Daf Hayomi — Shevuot 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-044.mp3" length="22744068" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 14 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:12:19</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 43</title>
+      <description>Daf Hayomi — Shevuot 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-043.mp3" length="29868420" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:02</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 42</title>
+      <description>Daf Hayomi — Shevuot 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-042.mp3" length="34467972" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 12 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:44</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 41</title>
+      <description>Daf Hayomi — Shevuot 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-041.mp3" length="25443588" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 11 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:33</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 40</title>
+      <description>Daf Hayomi — Shevuot 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-040.mp3" length="35424132" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 10 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:59</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 39</title>
+      <description>Daf Hayomi — Shevuot 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-039.mp3" length="23713668" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 09 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:47</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 38</title>
+      <description>Daf Hayomi — Shevuot 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-038.mp3" length="40719108" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 08 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:53</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 37</title>
+      <description>Daf Hayomi — Shevuot 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-037.mp3" length="43678980" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 07 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:59</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 36</title>
+      <description>Daf Hayomi — Shevuot 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-036.mp3" length="41679492" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 06 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:59</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 35</title>
+      <description>Daf Hayomi — Shevuot 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-035.mp3" length="33049092" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 05 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:36</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 34</title>
+      <description>Daf Hayomi — Shevuot 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-034.mp3" length="36633732" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 04 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:43</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 33</title>
+      <description>Daf Hayomi — Shevuot 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-033.mp3" length="40105860" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:20</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 32</title>
+      <description>Daf Hayomi — Shevuot 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-032.mp3" length="38513028" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 02 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:08</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 31</title>
+      <description>Daf Hayomi — Shevuot 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-031.mp3" length="27891972" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 01 Jun 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:33</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 30</title>
+      <description>Daf Hayomi — Shevuot 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-030.mp3" length="27407748" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 31 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:29</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 29</title>
+      <description>Daf Hayomi — Shevuot 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-029.mp3" length="31856388" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 30 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:19</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 28</title>
+      <description>Daf Hayomi — Shevuot 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-028.mp3" length="29584260" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 29 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:08</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 27</title>
+      <description>Daf Hayomi — Shevuot 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-027.mp3" length="31847940" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 28 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:23</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 26</title>
+      <description>Daf Hayomi — Shevuot 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-026.mp3" length="34062852" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 27 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:04</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 25</title>
+      <description>Daf Hayomi — Shevuot 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-025.mp3" length="36038148" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 26 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:49</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 24</title>
+      <description>Daf Hayomi — Shevuot 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-024.mp3" length="41201028" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 25 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:24</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 23</title>
+      <description>Daf Hayomi — Shevuot 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-023.mp3" length="32145540" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 24 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:04</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 22</title>
+      <description>Daf Hayomi — Shevuot 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-022.mp3" length="45575172" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 23 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:04</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 21</title>
+      <description>Daf Hayomi — Shevuot 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-021.mp3" length="30057732" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 22 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:41</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 20</title>
+      <description>Daf Hayomi — Shevuot 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-020.mp3" length="48219780" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:07</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 19</title>
+      <description>Daf Hayomi — Shevuot 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-019.mp3" length="38087940" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 20 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:52</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 18</title>
+      <description>Daf Hayomi — Shevuot 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-018.mp3" length="24111108" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:55</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 17</title>
+      <description>Daf Hayomi — Shevuot 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-017.mp3" length="28700292" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 18 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:59</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 16</title>
+      <description>Daf Hayomi — Shevuot 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-016.mp3" length="32946948" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 17 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:58</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 15</title>
+      <description>Daf Hayomi — Shevuot 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-015.mp3" length="33787140" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 16 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:07</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 14</title>
+      <description>Daf Hayomi — Shevuot 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-014.mp3" length="25083807" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 15 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:53</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 13</title>
+      <description>Daf Hayomi — Shevuot 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-013.mp3" length="42752388" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 14 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:55</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 12</title>
+      <description>Daf Hayomi — Shevuot 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-012.mp3" length="27112068" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 13 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:49</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 11</title>
+      <description>Daf Hayomi — Shevuot 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-011.mp3" length="31330692" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 12 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:43</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 10</title>
+      <description>Daf Hayomi — Shevuot 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-010.mp3" length="31952772" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 11 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:59</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 9</title>
+      <description>Daf Hayomi — Shevuot 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-009.mp3" length="24586500" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 10 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:27</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 8</title>
+      <description>Daf Hayomi — Shevuot 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-008.mp3" length="24154500" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 09 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:16</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 7</title>
+      <description>Daf Hayomi — Shevuot 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-007.mp3" length="39230340" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 08 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:37</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 6</title>
+      <description>Daf Hayomi — Shevuot 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-006.mp3" length="30055812" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 07 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:05</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 5</title>
+      <description>Daf Hayomi — Shevuot 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-005.mp3" length="15602819" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 06 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:42</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 4</title>
+      <description>Daf Hayomi — Shevuot 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-004.mp3" length="28504452" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 05 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:26</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 3</title>
+      <description>Daf Hayomi — Shevuot 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-003.mp3" length="36035731" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 04 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:00</itunes:duration>
+    </item>
+    <item>
+      <title>Shevuot 2</title>
+      <description>Daf Hayomi — Shevuot 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-26-shevuot-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/26-Shevuot-002.mp3" length="39283327" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 03 May 2025 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:00</itunes:duration>
+    </item>
+  </channel>
+</rss>

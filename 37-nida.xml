@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Nidá — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-nida-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Nidá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:34:01 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Nidá 73</title>
+      <description>Daf Hayomi — Nidá 73, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-73</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-073.mp3" length="27146539" type="audio/mpeg" />
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 04 Jan 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:20</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 72</title>
+      <description>Daf Hayomi — Nidá 72, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-72</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-072.mp3" length="29739031" type="audio/mpeg" />
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 03 Jan 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:02</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 71</title>
+      <description>Daf Hayomi — Nidá 71, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-71</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-071.mp3" length="34794322" type="audio/mpeg" />
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 02 Jan 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:19</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 70</title>
+      <description>Daf Hayomi — Nidá 70, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-70</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-070.mp3" length="28955506" type="audio/mpeg" />
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 01 Jan 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:13</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 69</title>
+      <description>Daf Hayomi — Nidá 69, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-69</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-069.mp3" length="29100768" type="audio/mpeg" />
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 31 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:22</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 68</title>
+      <description>Daf Hayomi — Nidá 68, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-68</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-068.mp3" length="30920389" type="audio/mpeg" />
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 30 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:16</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 67</title>
+      <description>Daf Hayomi — Nidá 67, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-67</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-067.mp3" length="21962979" type="audio/mpeg" />
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 29 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:55</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 66</title>
+      <description>Daf Hayomi — Nidá 66, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-66</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-066.mp3" length="31066759" type="audio/mpeg" />
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 28 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:25</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 65</title>
+      <description>Daf Hayomi — Nidá 65, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-65</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-065.mp3" length="38902353" type="audio/mpeg" />
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 27 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:36</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 64</title>
+      <description>Daf Hayomi — Nidá 64, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-64</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-064.mp3" length="33101719" type="audio/mpeg" />
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 26 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:33</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 63</title>
+      <description>Daf Hayomi — Nidá 63, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-63</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-063.mp3" length="33255339" type="audio/mpeg" />
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 25 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:42</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 62</title>
+      <description>Daf Hayomi — Nidá 62, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-62</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-062.mp3" length="26036071" type="audio/mpeg" />
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 24 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:10</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 61</title>
+      <description>Daf Hayomi — Nidá 61, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-61</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-061.mp3" length="33892768" type="audio/mpeg" />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 23 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:22</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 60</title>
+      <description>Daf Hayomi — Nidá 60, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-60</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-060.mp3" length="22689646" type="audio/mpeg" />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 22 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:40</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 59</title>
+      <description>Daf Hayomi — Nidá 59, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-59</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-059.mp3" length="32842345" type="audio/mpeg" />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 21 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:16</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 58</title>
+      <description>Daf Hayomi — Nidá 58, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-58</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-058.mp3" length="31002541" type="audio/mpeg" />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 20 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:21</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 57</title>
+      <description>Daf Hayomi — Nidá 57, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-57</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-057.mp3" length="42724411" type="audio/mpeg" />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 19 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:35</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 56</title>
+      <description>Daf Hayomi — Nidá 56, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-56</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-056.mp3" length="41904589" type="audio/mpeg" />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 18 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:44</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 55</title>
+      <description>Daf Hayomi — Nidá 55, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-55</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-055.mp3" length="37757941" type="audio/mpeg" />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 17 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:24</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 54</title>
+      <description>Daf Hayomi — Nidá 54, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-54</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-054.mp3" length="37797556" type="audio/mpeg" />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 16 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:17</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 53</title>
+      <description>Daf Hayomi — Nidá 53, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-53</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-053.mp3" length="19431208" type="audio/mpeg" />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 15 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:16</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 52</title>
+      <description>Daf Hayomi — Nidá 52, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-52</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-052.mp3" length="39415933" type="audio/mpeg" />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 14 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:08</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 51</title>
+      <description>Daf Hayomi — Nidá 51, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-51</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-051.mp3" length="25885534" type="audio/mpeg" />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 13 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:01</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 50</title>
+      <description>Daf Hayomi — Nidá 50, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-50</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-050.mp3" length="39757456" type="audio/mpeg" />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 12 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 49</title>
+      <description>Daf Hayomi — Nidá 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-049.mp3" length="25607976" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 11 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:43</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 48</title>
+      <description>Daf Hayomi — Nidá 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-048.mp3" length="26927200" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 10 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:06</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 47</title>
+      <description>Daf Hayomi — Nidá 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-047.mp3" length="39057730" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 09 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:46</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 46</title>
+      <description>Daf Hayomi — Nidá 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-046.mp3" length="23800951" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 08 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:50</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 45</title>
+      <description>Daf Hayomi — Nidá 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-045.mp3" length="49805488" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 07 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:51:59</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 44</title>
+      <description>Daf Hayomi — Nidá 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-044.mp3" length="33041835" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 06 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:29</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 43</title>
+      <description>Daf Hayomi — Nidá 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-043.mp3" length="42860770" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 05 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:44</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 42</title>
+      <description>Daf Hayomi — Nidá 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-042.mp3" length="36456648" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 04 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:03</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 41</title>
+      <description>Daf Hayomi — Nidá 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-041.mp3" length="27372556" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 03 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:34</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 40</title>
+      <description>Daf Hayomi — Nidá 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-040.mp3" length="25791706" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 02 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:55</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 39</title>
+      <description>Daf Hayomi — Nidá 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-039.mp3" length="32531263" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 01 Dec 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:57</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 38</title>
+      <description>Daf Hayomi — Nidá 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-038.mp3" length="23460262" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 30 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:29</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 37</title>
+      <description>Daf Hayomi — Nidá 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-037.mp3" length="42668116" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 29 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:32</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 36</title>
+      <description>Daf Hayomi — Nidá 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-036.mp3" length="39880885" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 28 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:37</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 35</title>
+      <description>Daf Hayomi — Nidá 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-035.mp3" length="44610666" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 27 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:34</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 34</title>
+      <description>Daf Hayomi — Nidá 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-034.mp3" length="36582582" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 26 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:11</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 33</title>
+      <description>Daf Hayomi — Nidá 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-033.mp3" length="37671622" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:19</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 32</title>
+      <description>Daf Hayomi — Nidá 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-032.mp3" length="25413237" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 24 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:31</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 31</title>
+      <description>Daf Hayomi — Nidá 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-031.mp3" length="26145072" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 23 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:17</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 30</title>
+      <description>Daf Hayomi — Nidá 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-030.mp3" length="25723902" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 22 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:51</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 29</title>
+      <description>Daf Hayomi — Nidá 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-029.mp3" length="48252163" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 21 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:50:22</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 28</title>
+      <description>Daf Hayomi — Nidá 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-028.mp3" length="43925535" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 20 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:51</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 27</title>
+      <description>Daf Hayomi — Nidá 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-027.mp3" length="29044890" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 19 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:19</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 26</title>
+      <description>Daf Hayomi — Nidá 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-026.mp3" length="32922990" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 18 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:22</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 25</title>
+      <description>Daf Hayomi — Nidá 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-025.mp3" length="35980017" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 17 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:33</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 24</title>
+      <description>Daf Hayomi — Nidá 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-024.mp3" length="28524891" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 16 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:46</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 23</title>
+      <description>Daf Hayomi — Nidá 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-023.mp3" length="33760326" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 15 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 22</title>
+      <description>Daf Hayomi — Nidá 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-022.mp3" length="23191878" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 14 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:12</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 21</title>
+      <description>Daf Hayomi — Nidá 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-021.mp3" length="39368976" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 13 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:05</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 20</title>
+      <description>Daf Hayomi — Nidá 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-020.mp3" length="43865904" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 12 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:47</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 19</title>
+      <description>Daf Hayomi — Nidá 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-019.mp3" length="39308764" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 11 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:02</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 18</title>
+      <description>Daf Hayomi — Nidá 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-018.mp3" length="8389623" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 10 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:08:45</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 17</title>
+      <description>Daf Hayomi — Nidá 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-017.mp3" length="11234402" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 09 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:43</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 16</title>
+      <description>Daf Hayomi — Nidá 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-016.mp3" length="40885441" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 08 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:40</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 15</title>
+      <description>Daf Hayomi — Nidá 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-015.mp3" length="18430989" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 07 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 14</title>
+      <description>Daf Hayomi — Nidá 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-014.mp3" length="35890198" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 06 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:27</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 13</title>
+      <description>Daf Hayomi — Nidá 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-013.mp3" length="40475530" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 05 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:15</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 12</title>
+      <description>Daf Hayomi — Nidá 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-012.mp3" length="25612399" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 04 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:44</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 11</title>
+      <description>Daf Hayomi — Nidá 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-011.mp3" length="16898766" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 03 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:17:38</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 10</title>
+      <description>Daf Hayomi — Nidá 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-010.mp3" length="14648634" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 02 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:17</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 9</title>
+      <description>Daf Hayomi — Nidá 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-009.mp3" length="36381007" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 01 Nov 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:58</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 8</title>
+      <description>Daf Hayomi — Nidá 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-008.mp3" length="14228715" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:50</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 7</title>
+      <description>Daf Hayomi — Nidá 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-007.mp3" length="48087612" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 30 Oct 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:50:11</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 6</title>
+      <description>Daf Hayomi — Nidá 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-006.mp3" length="38805028" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 29 Oct 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 5</title>
+      <description>Daf Hayomi — Nidá 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-005.mp3" length="22698820" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 28 Oct 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:41</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 4</title>
+      <description>Daf Hayomi — Nidá 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-004.mp3" length="35378122" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 27 Oct 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:55</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 3</title>
+      <description>Daf Hayomi — Nidá 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-003.mp3" length="30186636" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 26 Oct 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nidá 2</title>
+      <description>Daf Hayomi — Nidá 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-37-nida-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/37-Nida-002.mp3" length="32187402" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 25 Oct 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:35</itunes:duration>
+    </item>
+  </channel>
+</rss>

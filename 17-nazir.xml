@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Nazir — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-nazir-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Nazir, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:29:04 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Nazir 66</title>
+      <description>Daf Hayomi — Nazir 66, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-66</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-66.mp3" length="20443155" type="audio/mpeg" />
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 30 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:32</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 65</title>
+      <description>Daf Hayomi — Nazir 65, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-65</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-65.mp3" length="28837395" type="audio/mpeg" />
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 29 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:40</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 64</title>
+      <description>Daf Hayomi — Nazir 64, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-64</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-64.mp3" length="32353683" type="audio/mpeg" />
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:38</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 63</title>
+      <description>Daf Hayomi — Nazir 63, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-63</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-63.mp3" length="19467795" type="audio/mpeg" />
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 27 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:13:01</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 62</title>
+      <description>Daf Hayomi — Nazir 62, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-62</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-62.mp3" length="28423824" type="audio/mpeg" />
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 26 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:50</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 61</title>
+      <description>Daf Hayomi — Nazir 61, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-61</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-61.mp3" length="21219987" type="audio/mpeg" />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 25 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:50</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 60</title>
+      <description>Daf Hayomi — Nazir 60, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-60</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-60.mp3" length="35967123" type="audio/mpeg" />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:57</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 59</title>
+      <description>Daf Hayomi — Nazir 59, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-59</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-59.mp3" length="30236307" type="audio/mpeg" />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 23 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:18</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 58</title>
+      <description>Daf Hayomi — Nazir 58, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-58</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-58.mp3" length="24500883" type="audio/mpeg" />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 22 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:47</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 57</title>
+      <description>Daf Hayomi — Nazir 57, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-57</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-57.mp3" length="19410195" type="audio/mpeg" />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 21 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:04</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 56</title>
+      <description>Daf Hayomi — Nazir 56, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-56</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-56.mp3" length="12481682" type="audio/mpeg" />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 20 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:09:43</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 55</title>
+      <description>Daf Hayomi — Nazir 55, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-55</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-55.mp3" length="27320595" type="audio/mpeg" />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 19 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:55</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 54</title>
+      <description>Daf Hayomi — Nazir 54, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-54</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-54.mp3" length="21607824" type="audio/mpeg" />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 18 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:39</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 53</title>
+      <description>Daf Hayomi — Nazir 53, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-53</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-53.mp3" length="26648595" type="audio/mpeg" />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 17 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:07</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 52</title>
+      <description>Daf Hayomi — Nazir 52, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-52</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-52.mp3" length="27688083" type="audio/mpeg" />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 16 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 51</title>
+      <description>Daf Hayomi — Nazir 51, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-51</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-51.mp3" length="31917075" type="audio/mpeg" />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 15 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:17</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 50</title>
+      <description>Daf Hayomi — Nazir 50, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-50</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-50.mp3" length="21093267" type="audio/mpeg" />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:11</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 49</title>
+      <description>Daf Hayomi — Nazir 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-49.mp3" length="10868882" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 13 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:08:54</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 48</title>
+      <description>Daf Hayomi — Nazir 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-48.mp3" length="36871827" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 12 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:18</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 47</title>
+      <description>Daf Hayomi — Nazir 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-47.mp3" length="18863763" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 11 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 46</title>
+      <description>Daf Hayomi — Nazir 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-46.mp3" length="27481875" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 10 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:55</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 45</title>
+      <description>Daf Hayomi — Nazir 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-45.mp3" length="20372880" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 09 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:52</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 44</title>
+      <description>Daf Hayomi — Nazir 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-44.mp3" length="34693395" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 08 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:40</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 43</title>
+      <description>Daf Hayomi — Nazir 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-43.mp3" length="18940563" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 07 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:41</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 42</title>
+      <description>Daf Hayomi — Nazir 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-42.mp3" length="23972115" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 06 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:56</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 41</title>
+      <description>Daf Hayomi — Nazir 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-41.mp3" length="21865107" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 05 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:09:34</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 40</title>
+      <description>Daf Hayomi — Nazir 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-40.mp3" length="25301907" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 04 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:49</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 39</title>
+      <description>Daf Hayomi — Nazir 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-39.mp3" length="23589267" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 03 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:28</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 38</title>
+      <description>Daf Hayomi — Nazir 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-38.mp3" length="24663315" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 02 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:12:23</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 37</title>
+      <description>Daf Hayomi — Nazir 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-37.mp3" length="36057744" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 01 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:24</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 36</title>
+      <description>Daf Hayomi — Nazir 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-36.mp3" length="26236563" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:48</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 35</title>
+      <description>Daf Hayomi — Nazir 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-35.mp3" length="28851603" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 27 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:15</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 34</title>
+      <description>Daf Hayomi — Nazir 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-34.mp3" length="33273747" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 26 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:48</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 33</title>
+      <description>Daf Hayomi — Nazir 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-33.mp3" length="12343442" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 25 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:43</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 32</title>
+      <description>Daf Hayomi — Nazir 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-32.mp3" length="32184723" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:07</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 31</title>
+      <description>Daf Hayomi — Nazir 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-31.mp3" length="34935315" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 23 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:46</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 30</title>
+      <description>Daf Hayomi — Nazir 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-30.mp3" length="16459922" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 22 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 29</title>
+      <description>Daf Hayomi — Nazir 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-29.mp3" length="42992787" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 21 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:36</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 28</title>
+      <description>Daf Hayomi — Nazir 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-28.mp3" length="11429522" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 20 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:09:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 27</title>
+      <description>Daf Hayomi — Nazir 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-27.mp3" length="26544915" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 19 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 26</title>
+      <description>Daf Hayomi — Nazir 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-26.mp3" length="19804563" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 18 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:06</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 25</title>
+      <description>Daf Hayomi — Nazir 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-25.mp3" length="21815187" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 17 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 24</title>
+      <description>Daf Hayomi — Nazir 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-24.mp3" length="26337555" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 16 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:23</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 23</title>
+      <description>Daf Hayomi — Nazir 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-23.mp3" length="27255315" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 15 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 22</title>
+      <description>Daf Hayomi — Nazir 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-22.mp3" length="32880915" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 21</title>
+      <description>Daf Hayomi — Nazir 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-21.mp3" length="31494675" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 13 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:05</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 20</title>
+      <description>Daf Hayomi — Nazir 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-20.mp3" length="15887762" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 12 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:05</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 19</title>
+      <description>Daf Hayomi — Nazir 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-19.mp3" length="20782227" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 11 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:05</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 18</title>
+      <description>Daf Hayomi — Nazir 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-18.mp3" length="28555923" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 10 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:01</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 17</title>
+      <description>Daf Hayomi — Nazir 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-17.mp3" length="32557203" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 09 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 16</title>
+      <description>Daf Hayomi — Nazir 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-16.mp3" length="29689875" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 08 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:42</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 15</title>
+      <description>Daf Hayomi — Nazir 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-15.mp3" length="29143443" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 07 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:19</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 14</title>
+      <description>Daf Hayomi — Nazir 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-14.mp3" length="26872467" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 06 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:39</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 13</title>
+      <description>Daf Hayomi — Nazir 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-13.mp3" length="20340627" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 05 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:25</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 12</title>
+      <description>Daf Hayomi — Nazir 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-12.mp3" length="25069203" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 04 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:43</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 11</title>
+      <description>Daf Hayomi — Nazir 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-11.mp3" length="27077523" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 03 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:13</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 10</title>
+      <description>Daf Hayomi — Nazir 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-10.mp3" length="20388243" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:22</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 9</title>
+      <description>Daf Hayomi — Nazir 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-09.mp3" length="24459795" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 01 Feb 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:22</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 8</title>
+      <description>Daf Hayomi — Nazir 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-08.mp3" length="32463507" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 31 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:02</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 7</title>
+      <description>Daf Hayomi — Nazir 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-07.mp3" length="21970323" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 30 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:08</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 6</title>
+      <description>Daf Hayomi — Nazir 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-06.mp3" length="32614803" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 29 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:58</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 5</title>
+      <description>Daf Hayomi — Nazir 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-05.mp3" length="24239763" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 28 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:28</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 4</title>
+      <description>Daf Hayomi — Nazir 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-04.mp3" length="41393043" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 27 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:27</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 3</title>
+      <description>Daf Hayomi — Nazir 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-03.mp3" length="16423826" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 26 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:38</itunes:duration>
+    </item>
+    <item>
+      <title>Nazir 2</title>
+      <description>Daf Hayomi — Nazir 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-17-nazir-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/17-Nazir-02.mp3" length="28358547" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 25 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:43</itunes:duration>
+    </item>
+  </channel>
+</rss>

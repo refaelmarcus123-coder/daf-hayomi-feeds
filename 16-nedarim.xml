@@ -1,0 +1,1007 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Nedarim — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-nedarim-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Nedarim, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:28:51 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Nedarim 91</title>
+      <description>Daf Hayomi — Nedarim 91, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-91</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-91.mp3" length="29600403" type="audio/mpeg" />
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 24 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:11</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 90</title>
+      <description>Daf Hayomi — Nedarim 90, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-90</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-90.mp3" length="16337042" type="audio/mpeg" />
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 23 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:16</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 89</title>
+      <description>Daf Hayomi — Nedarim 89, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-89</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-89.mp3" length="17232914" type="audio/mpeg" />
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 22 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:06</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 88</title>
+      <description>Daf Hayomi — Nedarim 88, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-88</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-88.mp3" length="20955027" type="audio/mpeg" />
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 21 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 87</title>
+      <description>Daf Hayomi — Nedarim 87, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-87</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-87.mp3" length="18927507" type="audio/mpeg" />
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 20 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:19</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 86</title>
+      <description>Daf Hayomi — Nedarim 86, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-86</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-86.mp3" length="24790019" type="audio/mpeg" />
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 19 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:45</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 85</title>
+      <description>Daf Hayomi — Nedarim 85, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-85</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-85.mp3" length="19069587" type="audio/mpeg" />
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 18 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:29</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 84</title>
+      <description>Daf Hayomi — Nedarim 84, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-84</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-84.mp3" length="30023939" type="audio/mpeg" />
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 17 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:04</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 83</title>
+      <description>Daf Hayomi — Nedarim 83, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-83</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-83.mp3" length="27200771" type="audio/mpeg" />
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 16 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:54</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 82</title>
+      <description>Daf Hayomi — Nedarim 82, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-82</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-82.mp3" length="18864131" type="audio/mpeg" />
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 15 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:12</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 81</title>
+      <description>Daf Hayomi — Nedarim 81, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-81</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-81.mp3" length="20881652" type="audio/mpeg" />
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 14 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:05</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 80</title>
+      <description>Daf Hayomi — Nedarim 80, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-80</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-80.mp3" length="24980867" type="audio/mpeg" />
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 13 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:27</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 79</title>
+      <description>Daf Hayomi — Nedarim 79, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-79</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-79.mp3" length="20368259" type="audio/mpeg" />
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 12 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:48</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 78</title>
+      <description>Daf Hayomi — Nedarim 78, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-78</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-78.mp3" length="26456579" type="audio/mpeg" />
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 11 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:06</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 77</title>
+      <description>Daf Hayomi — Nedarim 77, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-77</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-77.mp3" length="19948547" type="audio/mpeg" />
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:03</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 76</title>
+      <description>Daf Hayomi — Nedarim 76, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-76</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-76.mp3" length="20591747" type="audio/mpeg" />
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 09 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:10:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 75</title>
+      <description>Daf Hayomi — Nedarim 75, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-75</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-75.mp3" length="19875971" type="audio/mpeg" />
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 08 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:58</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 74</title>
+      <description>Daf Hayomi — Nedarim 74, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-74</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-74.mp3" length="26267267" type="audio/mpeg" />
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 07 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:52</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 73</title>
+      <description>Daf Hayomi — Nedarim 73, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-73</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-73.mp3" length="14475778" type="audio/mpeg" />
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 06 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:24</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 72</title>
+      <description>Daf Hayomi — Nedarim 72, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-72</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-72.mp3" length="25974659" type="audio/mpeg" />
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 05 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:39</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 71</title>
+      <description>Daf Hayomi — Nedarim 71, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-71</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-71.mp3" length="17899907" type="audio/mpeg" />
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 04 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:33</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 70</title>
+      <description>Daf Hayomi — Nedarim 70, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-70</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-70.mp3" length="9504898" type="audio/mpeg" />
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 03 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:36</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 69</title>
+      <description>Daf Hayomi — Nedarim 69, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-69</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-69.mp3" length="26082947" type="audio/mpeg" />
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 02 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:07:21</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 68</title>
+      <description>Daf Hayomi — Nedarim 68, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-68</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-68.mp3" length="25045379" type="audio/mpeg" />
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 01 Jan 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:03</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 67</title>
+      <description>Daf Hayomi — Nedarim 67, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-67</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-67.mp3" length="21751427" type="audio/mpeg" />
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 31 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:49</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 66</title>
+      <description>Daf Hayomi — Nedarim 66, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-66</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-66.mp3" length="22264448" type="audio/mpeg" />
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 30 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:58</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 65</title>
+      <description>Daf Hayomi — Nedarim 65, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-65</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-65.mp3" length="29391092" type="audio/mpeg" />
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 29 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:07</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 64</title>
+      <description>Daf Hayomi — Nedarim 64, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-64</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-64.mp3" length="17791619" type="audio/mpeg" />
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 28 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:05</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 63</title>
+      <description>Daf Hayomi — Nedarim 63, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-63</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-63.mp3" length="19538051" type="audio/mpeg" />
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 27 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:12:20</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 62</title>
+      <description>Daf Hayomi — Nedarim 62, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-62</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-62.mp3" length="23280899" type="audio/mpeg" />
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 26 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 61</title>
+      <description>Daf Hayomi — Nedarim 61, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-61</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-61.mp3" length="16124290" type="audio/mpeg" />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 25 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:08</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 60</title>
+      <description>Daf Hayomi — Nedarim 60, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-60</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-60.mp3" length="15713026" type="audio/mpeg" />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 24 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 59</title>
+      <description>Daf Hayomi — Nedarim 59, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-59</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-59.mp3" length="22577411" type="audio/mpeg" />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 23 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:26</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 58</title>
+      <description>Daf Hayomi — Nedarim 58, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-58</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-58.mp3" length="17176051" type="audio/mpeg" />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 22 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:49</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 57</title>
+      <description>Daf Hayomi — Nedarim 57, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-57</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-57.mp3" length="20119811" type="audio/mpeg" />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:08</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 56</title>
+      <description>Daf Hayomi — Nedarim 56, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-56</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-56.mp3" length="20622851" type="audio/mpeg" />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 20 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 55</title>
+      <description>Daf Hayomi — Nedarim 55, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-55</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-55.mp3" length="25149059" type="audio/mpeg" />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:59</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 54</title>
+      <description>Daf Hayomi — Nedarim 54, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-54</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-54.mp3" length="17940227" type="audio/mpeg" />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 18 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:57</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 53</title>
+      <description>Daf Hayomi — Nedarim 53, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-53</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-53.mp3" length="16214146" type="audio/mpeg" />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 17 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:11</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 52</title>
+      <description>Daf Hayomi — Nedarim 52, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-52</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-52.mp3" length="23589251" type="audio/mpeg" />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 16 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:52:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 51</title>
+      <description>Daf Hayomi — Nedarim 51, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-51</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-51.mp3" length="19672451" type="audio/mpeg" />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 15 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:00</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 50</title>
+      <description>Daf Hayomi — Nedarim 50, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-50</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-50.mp3" length="31140227" type="audio/mpeg" />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 14 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:31</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 49</title>
+      <description>Daf Hayomi — Nedarim 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-49.mp3" length="27794051" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 13 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:17:31</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 48</title>
+      <description>Daf Hayomi — Nedarim 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-48.mp3" length="23426819" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 12 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:17:01</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 47</title>
+      <description>Daf Hayomi — Nedarim 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-47.mp3" length="22502531" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 11 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:09:03</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 46</title>
+      <description>Daf Hayomi — Nedarim 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-46.mp3" length="10985986" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 10 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:10:18</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 45</title>
+      <description>Daf Hayomi — Nedarim 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-45.mp3" length="28213379" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 09 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:08:53</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 44</title>
+      <description>Daf Hayomi — Nedarim 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-44.mp3" length="28352771" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 08 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 43</title>
+      <description>Daf Hayomi — Nedarim 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-43.mp3" length="20708867" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 07 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:08</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 42</title>
+      <description>Daf Hayomi — Nedarim 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-42.mp3" length="22855811" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 06 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:11</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 41</title>
+      <description>Daf Hayomi — Nedarim 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-41.mp3" length="24543491" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 05 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 40</title>
+      <description>Daf Hayomi — Nedarim 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-40.mp3" length="25010819" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 04 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:45</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 39</title>
+      <description>Daf Hayomi — Nedarim 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-39.mp3" length="24486659" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 03 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:44</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 38</title>
+      <description>Daf Hayomi — Nedarim 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-38.mp3" length="25625987" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 02 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:52</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 37</title>
+      <description>Daf Hayomi — Nedarim 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-37.mp3" length="28187267" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:47</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 36</title>
+      <description>Daf Hayomi — Nedarim 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-36.mp3" length="19180931" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 30 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:28</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 35</title>
+      <description>Daf Hayomi — Nedarim 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-35.mp3" length="22186499" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 29 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:44</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 34</title>
+      <description>Daf Hayomi — Nedarim 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-34.mp3" length="22368899" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 28 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:04</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 33</title>
+      <description>Daf Hayomi — Nedarim 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-33.mp3" length="23705987" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 27 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:29</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 32</title>
+      <description>Daf Hayomi — Nedarim 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-32.mp3" length="24093827" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 26 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:52</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 31</title>
+      <description>Daf Hayomi — Nedarim 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-31.mp3" length="24433667" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 25 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:42</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 30</title>
+      <description>Daf Hayomi — Nedarim 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-30.mp3" length="16727170" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 24 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:01</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 29</title>
+      <description>Daf Hayomi — Nedarim 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-29.mp3" length="29273987" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 23 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:48</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 28</title>
+      <description>Daf Hayomi — Nedarim 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-28.mp3" length="18571139" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 22 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:49</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 27</title>
+      <description>Daf Hayomi — Nedarim 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-27.mp3" length="20703491" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 21 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:09:56</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 26</title>
+      <description>Daf Hayomi — Nedarim 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-26.mp3" length="29962499" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 20 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:48</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 25</title>
+      <description>Daf Hayomi — Nedarim 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-25.mp3" length="25291907" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 19 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:58</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 24</title>
+      <description>Daf Hayomi — Nedarim 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-24.mp3" length="29704067" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 18 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:51</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 23</title>
+      <description>Daf Hayomi — Nedarim 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-23.mp3" length="24250499" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 17 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:56</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 22</title>
+      <description>Daf Hayomi — Nedarim 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-22.mp3" length="17249026" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 16 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:51</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 21</title>
+      <description>Daf Hayomi — Nedarim 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-21.mp3" length="23172227" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 15 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:15</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 20</title>
+      <description>Daf Hayomi — Nedarim 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-20.mp3" length="24864131" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 14 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:27</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 19</title>
+      <description>Daf Hayomi — Nedarim 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-19.mp3" length="17489410" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 13 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:03</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 18</title>
+      <description>Daf Hayomi — Nedarim 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-18.mp3" length="25643651" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 12 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:30</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 17</title>
+      <description>Daf Hayomi — Nedarim 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-17.mp3" length="23758979" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 11 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:50</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 16</title>
+      <description>Daf Hayomi — Nedarim 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-16.mp3" length="20702339" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 10 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:04</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 15</title>
+      <description>Daf Hayomi — Nedarim 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-15.mp3" length="30808067" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 09 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:20</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 14</title>
+      <description>Daf Hayomi — Nedarim 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-14.mp3" length="25974659" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 08 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:47</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 13</title>
+      <description>Daf Hayomi — Nedarim 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-13.mp3" length="16574338" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 07 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:10</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 12</title>
+      <description>Daf Hayomi — Nedarim 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-12.mp3" length="22990211" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 06 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:52</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 11</title>
+      <description>Daf Hayomi — Nedarim 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-11.mp3" length="20505347" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 05 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:49</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 10</title>
+      <description>Daf Hayomi — Nedarim 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-10.mp3" length="33918467" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 04 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:20</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 9</title>
+      <description>Daf Hayomi — Nedarim 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-09.mp3" length="15123970" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:42</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 8</title>
+      <description>Daf Hayomi — Nedarim 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-08.mp3" length="19090691" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 02 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:19</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 7</title>
+      <description>Daf Hayomi — Nedarim 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-07.mp3" length="25385219" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 01 Nov 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:23</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 6</title>
+      <description>Daf Hayomi — Nedarim 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-06.mp3" length="17110018" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 31 Oct 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:11:18</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 5</title>
+      <description>Daf Hayomi — Nedarim 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-05.mp3" length="28264067" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 30 Oct 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:26</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 4</title>
+      <description>Daf Hayomi — Nedarim 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-04.mp3" length="15531010" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 29 Oct 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:52</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 3</title>
+      <description>Daf Hayomi — Nedarim 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-03.mp3" length="29394179" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 28 Oct 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:49</itunes:duration>
+    </item>
+    <item>
+      <title>Nedarim 2</title>
+      <description>Daf Hayomi — Nedarim 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-16-nedarim-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/16-Nedarim-02.mp3" length="20269187" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 27 Oct 2022 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:51</itunes:duration>
+    </item>
+  </channel>
+</rss>

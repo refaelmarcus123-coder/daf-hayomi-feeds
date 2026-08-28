@@ -1,0 +1,1326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Pessachim — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-pessachim-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Pessachim, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:27:14 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Pessachim 121</title>
+      <description>Daf Hayomi — Pessachim 121, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-121</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-121.mp3" length="10578461" type="audio/mpeg" />
+      <itunes:episode>121</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 22 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:06:31</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 120</title>
+      <description>Daf Hayomi — Pessachim 120, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-120</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-120.mp3" length="31022721" type="audio/mpeg" />
+      <itunes:episode>120</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 21 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:48</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 119</title>
+      <description>Daf Hayomi — Pessachim 119, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-119</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-119.mp3" length="20220336" type="audio/mpeg" />
+      <itunes:episode>119</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 20 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:11</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 118</title>
+      <description>Daf Hayomi — Pessachim 118, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-118</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-118.mp3" length="35232753" type="audio/mpeg" />
+      <itunes:episode>118</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 19 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:07</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 117</title>
+      <description>Daf Hayomi — Pessachim 117, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-117</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-117.mp3" length="35057196" type="audio/mpeg" />
+      <itunes:episode>117</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 18 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:28</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 116</title>
+      <description>Daf Hayomi — Pessachim 116, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-116</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-116.mp3" length="17875128" type="audio/mpeg" />
+      <itunes:episode>116</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 17 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:38</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 115</title>
+      <description>Daf Hayomi — Pessachim 115, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-115</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-115.mp3" length="25815642" type="audio/mpeg" />
+      <itunes:episode>115</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 16 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:23:27</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 114</title>
+      <description>Daf Hayomi — Pessachim 114, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-114</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-114.mp3" length="23722474" type="audio/mpeg" />
+      <itunes:episode>114</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 15 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:12:40</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 113</title>
+      <description>Daf Hayomi — Pessachim 113, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-113</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-113.mp3" length="32601238" type="audio/mpeg" />
+      <itunes:episode>113</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 14 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:38</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 112</title>
+      <description>Daf Hayomi — Pessachim 112, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-112</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-112.mp3" length="35044858" type="audio/mpeg" />
+      <itunes:episode>112</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 13 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:54</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 111</title>
+      <description>Daf Hayomi — Pessachim 111, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-111</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-111.mp3" length="40660180" type="audio/mpeg" />
+      <itunes:episode>111</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 12 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:53:11</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 110</title>
+      <description>Daf Hayomi — Pessachim 110, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-110</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-110.mp3" length="32509326" type="audio/mpeg" />
+      <itunes:episode>110</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 11 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:13</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 109</title>
+      <description>Daf Hayomi — Pessachim 109, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-109</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-109.mp3" length="21897510" type="audio/mpeg" />
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:08</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 108</title>
+      <description>Daf Hayomi — Pessachim 108, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-108</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-108.mp3" length="23659335" type="audio/mpeg" />
+      <itunes:episode>108</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 09 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:19</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 107</title>
+      <description>Daf Hayomi — Pessachim 107, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-107</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-107.mp3" length="21125226" type="audio/mpeg" />
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 08 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:51</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 106</title>
+      <description>Daf Hayomi — Pessachim 106, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-106</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-106.mp3" length="17625344" type="audio/mpeg" />
+      <itunes:episode>106</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 07 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:25</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 105</title>
+      <description>Daf Hayomi — Pessachim 105, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-105</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-105.mp3" length="24783150" type="audio/mpeg" />
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 06 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:24</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 104</title>
+      <description>Daf Hayomi — Pessachim 104, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-104</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-104.mp3" length="23905365" type="audio/mpeg" />
+      <itunes:episode>104</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 05 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:08</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 103</title>
+      <description>Daf Hayomi — Pessachim 103, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-103</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-103.mp3" length="28563255" type="audio/mpeg" />
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 04 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:19</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 102</title>
+      <description>Daf Hayomi — Pessachim 102, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-102</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-102.mp3" length="17291327" type="audio/mpeg" />
+      <itunes:episode>102</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 03 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:59</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 101</title>
+      <description>Daf Hayomi — Pessachim 101, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-101</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-101.mp3" length="27662952" type="audio/mpeg" />
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 02 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:40</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 100</title>
+      <description>Daf Hayomi — Pessachim 100, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-100</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-100.mp3" length="16052420" type="audio/mpeg" />
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 01 Mar 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:08:19</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 99</title>
+      <description>Daf Hayomi — Pessachim 99, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-99</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-099.mp3" length="21374592" type="audio/mpeg" />
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 28 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:57</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 98</title>
+      <description>Daf Hayomi — Pessachim 98, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-98</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-098.mp3" length="18347190" type="audio/mpeg" />
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 27 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:08</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 97</title>
+      <description>Daf Hayomi — Pessachim 97, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-97</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-097.mp3" length="34775721" type="audio/mpeg" />
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 26 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:56:25</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 96</title>
+      <description>Daf Hayomi — Pessachim 96, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-96</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-096.mp3" length="43148265" type="audio/mpeg" />
+      <itunes:episode>96</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 25 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:26</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 95</title>
+      <description>Daf Hayomi — Pessachim 95, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-95</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-095.mp3" length="34455048" type="audio/mpeg" />
+      <itunes:episode>95</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 24 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:28</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 94</title>
+      <description>Daf Hayomi — Pessachim 94, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-94</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-094.mp3" length="33704865" type="audio/mpeg" />
+      <itunes:episode>94</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 23 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:28</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 93</title>
+      <description>Daf Hayomi — Pessachim 93, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-93</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-093.mp3" length="32005590" type="audio/mpeg" />
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 22 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>01:05:21</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 92</title>
+      <description>Daf Hayomi — Pessachim 92, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-92</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-092.mp3" length="31095696" type="audio/mpeg" />
+      <itunes:episode>92</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 21 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:26</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 91</title>
+      <description>Daf Hayomi — Pessachim 91, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-91</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-091.mp3" length="30990195" type="audio/mpeg" />
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 20 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:28</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 90</title>
+      <description>Daf Hayomi — Pessachim 90, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-90</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-090.mp3" length="50968248" type="audio/mpeg" />
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 19 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>01:05:21</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 89</title>
+      <description>Daf Hayomi — Pessachim 89, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-89</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-089.mp3" length="27603738" type="audio/mpeg" />
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 18 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:26</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 88</title>
+      <description>Daf Hayomi — Pessachim 88, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-88</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-088.mp3" length="43095705" type="audio/mpeg" />
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 17 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:28</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 87</title>
+      <description>Daf Hayomi — Pessachim 87, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-87</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-087.mp3" length="41790495" type="audio/mpeg" />
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:12</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 86</title>
+      <description>Daf Hayomi — Pessachim 86, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-86</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-086.mp3" length="36397189" type="audio/mpeg" />
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 15 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:12</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 85</title>
+      <description>Daf Hayomi — Pessachim 85, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-85</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-085.mp3" length="40942906" type="audio/mpeg" />
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 14 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:31</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 84</title>
+      <description>Daf Hayomi — Pessachim 84, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-84</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-084.mp3" length="35611978" type="audio/mpeg" />
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 13 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:56</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 83</title>
+      <description>Daf Hayomi — Pessachim 83, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-83</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-083.mp3" length="32100249" type="audio/mpeg" />
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 12 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:31</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 82</title>
+      <description>Daf Hayomi — Pessachim 82, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-82</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-082.mp3" length="43026483" type="audio/mpeg" />
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 11 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:40</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 81</title>
+      <description>Daf Hayomi — Pessachim 81, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-81</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-081.mp3" length="39522849" type="audio/mpeg" />
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:51:44</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 80</title>
+      <description>Daf Hayomi — Pessachim 80, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-80</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-080.mp3" length="37758939" type="audio/mpeg" />
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 09 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:51</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 79</title>
+      <description>Daf Hayomi — Pessachim 79, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-79</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-079.mp3" length="40375614" type="audio/mpeg" />
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 08 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:41</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 78</title>
+      <description>Daf Hayomi — Pessachim 78, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-78</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-078.mp3" length="45899613" type="audio/mpeg" />
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 07 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:56</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 77</title>
+      <description>Daf Hayomi — Pessachim 77, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-77</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-077.mp3" length="52771773" type="audio/mpeg" />
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 06 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:05</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 76</title>
+      <description>Daf Hayomi — Pessachim 76, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-76</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-076.mp3" length="42028602" type="audio/mpeg" />
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 05 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:43</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 75</title>
+      <description>Daf Hayomi — Pessachim 75, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-75</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-075.mp3" length="34872900" type="audio/mpeg" />
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 04 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:05</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 73</title>
+      <description>Daf Hayomi — Pessachim 73, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-73</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-073.mp3" length="38058762" type="audio/mpeg" />
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 02 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:54:22</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 72</title>
+      <description>Daf Hayomi — Pessachim 72, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-72</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-072.mp3" length="48522960" type="audio/mpeg" />
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 01 Feb 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:05</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 71</title>
+      <description>Daf Hayomi — Pessachim 71, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-71</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-071.mp3" length="34617678" type="audio/mpeg" />
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 31 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:24</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 70</title>
+      <description>Daf Hayomi — Pessachim 70, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-70</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-070.mp3" length="32861265" type="audio/mpeg" />
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 30 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:24</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 69</title>
+      <description>Daf Hayomi — Pessachim 69, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-69</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-069.mp3" length="34251969" type="audio/mpeg" />
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 29 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:05</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 68</title>
+      <description>Daf Hayomi — Pessachim 68, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-68</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-068.mp3" length="41900166" type="audio/mpeg" />
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 28 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:36</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 67</title>
+      <description>Daf Hayomi — Pessachim 67, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-67</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-067.mp3" length="37838169" type="audio/mpeg" />
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 27 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:48</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 66</title>
+      <description>Daf Hayomi — Pessachim 66, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-66</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-066.mp3" length="31959720" type="audio/mpeg" />
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 26 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:47</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 65</title>
+      <description>Daf Hayomi — Pessachim 65, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-65</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-065.mp3" length="23329905" type="audio/mpeg" />
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:00</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 64</title>
+      <description>Daf Hayomi — Pessachim 64, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-64</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-064.mp3" length="30314238" type="audio/mpeg" />
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 24 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:22</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 63</title>
+      <description>Daf Hayomi — Pessachim 63, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-63</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-063.mp3" length="31603185" type="audio/mpeg" />
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 23 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:38</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 62</title>
+      <description>Daf Hayomi — Pessachim 62, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-62</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-062.mp3" length="31793754" type="audio/mpeg" />
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 22 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:04</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 61</title>
+      <description>Daf Hayomi — Pessachim 61, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-61</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-061.mp3" length="36217290" type="audio/mpeg" />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 21 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:16</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 60</title>
+      <description>Daf Hayomi — Pessachim 60, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-60</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-060.mp3" length="38616291" type="audio/mpeg" />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 20 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:58:03</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 59</title>
+      <description>Daf Hayomi — Pessachim 59, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-59</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-059.mp3" length="37135104" type="audio/mpeg" />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 19 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:09</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 58</title>
+      <description>Daf Hayomi — Pessachim 58, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-58</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-058.mp3" length="28253424" type="audio/mpeg" />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 18 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:02</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 57</title>
+      <description>Daf Hayomi — Pessachim 57, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-57</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-057.mp3" length="19722021" type="audio/mpeg" />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 17 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:40</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 56</title>
+      <description>Daf Hayomi — Pessachim 56, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-56</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-056.mp3" length="25583373" type="audio/mpeg" />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 16 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:27</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 55</title>
+      <description>Daf Hayomi — Pessachim 55, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-55</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-055.mp3" length="37777287" type="audio/mpeg" />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 15 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:52</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 54</title>
+      <description>Daf Hayomi — Pessachim 54, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-54</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-054.mp3" length="37674705" type="audio/mpeg" />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 14 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:44</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 53</title>
+      <description>Daf Hayomi — Pessachim 53, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-53</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-053.mp3" length="34327300" type="audio/mpeg" />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 13 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:45</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 52</title>
+      <description>Daf Hayomi — Pessachim 52, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-52</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-052.mp3" length="32210772" type="audio/mpeg" />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 12 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:32</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 51</title>
+      <description>Daf Hayomi — Pessachim 51, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-51</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-051.mp3" length="21962580" type="audio/mpeg" />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 11 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:52</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 50</title>
+      <description>Daf Hayomi — Pessachim 50, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-50</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-050.mp3" length="35592895" type="audio/mpeg" />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 10 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:04</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 49</title>
+      <description>Daf Hayomi — Pessachim 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-049.mp3" length="36695607" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 09 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:18</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 48</title>
+      <description>Daf Hayomi — Pessachim 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-048.mp3" length="47472555" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 08 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:49:33</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 47</title>
+      <description>Daf Hayomi — Pessachim 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-047.mp3" length="28740081" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 07 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:55</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 46</title>
+      <description>Daf Hayomi — Pessachim 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-046.mp3" length="26902344" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 06 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:30</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 45</title>
+      <description>Daf Hayomi — Pessachim 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-045.mp3" length="34334535" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 05 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:50</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 44</title>
+      <description>Daf Hayomi — Pessachim 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-044.mp3" length="43392609" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 04 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:27</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 43</title>
+      <description>Daf Hayomi — Pessachim 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-043.mp3" length="38091288" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 03 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:30</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 42</title>
+      <description>Daf Hayomi — Pessachim 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-042.mp3" length="30153693" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 02 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:31</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 41</title>
+      <description>Daf Hayomi — Pessachim 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-041.mp3" length="41979396" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:46</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 40</title>
+      <description>Daf Hayomi — Pessachim 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-040.mp3" length="36768981" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 31 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:34</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 39</title>
+      <description>Daf Hayomi — Pessachim 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-039.mp3" length="27044124" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 30 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:00</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 38</title>
+      <description>Daf Hayomi — Pessachim 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-038.mp3" length="27159633" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 29 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:18:48</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 37</title>
+      <description>Daf Hayomi — Pessachim 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-037.mp3" length="29699997" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 28 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:32</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 36</title>
+      <description>Daf Hayomi — Pessachim 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-036.mp3" length="32006424" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 27 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:54</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 35</title>
+      <description>Daf Hayomi — Pessachim 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-035.mp3" length="33697776" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 26 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:57</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 34</title>
+      <description>Daf Hayomi — Pessachim 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-034.mp3" length="37414080" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 25 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:47</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 33</title>
+      <description>Daf Hayomi — Pessachim 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-033.mp3" length="30415569" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 24 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:57</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 32</title>
+      <description>Daf Hayomi — Pessachim 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-032.mp3" length="38021232" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 23 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:14</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 31</title>
+      <description>Daf Hayomi — Pessachim 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-031.mp3" length="35617644" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 22 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:01</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 30</title>
+      <description>Daf Hayomi — Pessachim 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-030.mp3" length="23544243" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 21 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:48</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 29</title>
+      <description>Daf Hayomi — Pessachim 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-029.mp3" length="33801192" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 20 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:55</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 28</title>
+      <description>Daf Hayomi — Pessachim 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-028.mp3" length="29481489" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 19 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:25</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 27</title>
+      <description>Daf Hayomi — Pessachim 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-027.mp3" length="34867044" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 18 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:48:00</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 26</title>
+      <description>Daf Hayomi — Pessachim 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-026.mp3" length="28028661" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 17 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:40</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 25</title>
+      <description>Daf Hayomi — Pessachim 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-025.mp3" length="24465396" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 16 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:57</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 24</title>
+      <description>Daf Hayomi — Pessachim 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-024.mp3" length="36452895" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 15 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:52</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 23</title>
+      <description>Daf Hayomi — Pessachim 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-023.mp3" length="38586267" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 14 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:00</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 22</title>
+      <description>Daf Hayomi — Pessachim 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-022.mp3" length="29620767" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 13 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:02</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 21</title>
+      <description>Daf Hayomi — Pessachim 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-021.mp3" length="32426343" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:00</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 20</title>
+      <description>Daf Hayomi — Pessachim 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-020.mp3" length="42254616" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 11 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:53:21</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 19</title>
+      <description>Daf Hayomi — Pessachim 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-019.mp3" length="42915561" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 10 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:12</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 18</title>
+      <description>Daf Hayomi — Pessachim 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-018.mp3" length="40550337" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 09 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:22</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 17</title>
+      <description>Daf Hayomi — Pessachim 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-017.mp3" length="34330365" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 08 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:50:02</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 16</title>
+      <description>Daf Hayomi — Pessachim 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-016.mp3" length="40533240" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 07 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:06</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 15</title>
+      <description>Daf Hayomi — Pessachim 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-015.mp3" length="49574217" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 06 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>01:00:51</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 14</title>
+      <description>Daf Hayomi — Pessachim 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-014.mp3" length="39783474" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 05 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:31</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 13</title>
+      <description>Daf Hayomi — Pessachim 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-013.mp3" length="36998748" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 04 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:08</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 12</title>
+      <description>Daf Hayomi — Pessachim 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-012.mp3" length="32485140" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 03 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:06</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 11</title>
+      <description>Daf Hayomi — Pessachim 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-011.mp3" length="35972928" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 02 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:34</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 10</title>
+      <description>Daf Hayomi — Pessachim 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-010.mp3" length="37468290" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 01 Dec 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:39</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 9</title>
+      <description>Daf Hayomi — Pessachim 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-009.mp3" length="20387553" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 30 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:43</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 8</title>
+      <description>Daf Hayomi — Pessachim 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-008.mp3" length="37880703" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 29 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:56</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 7</title>
+      <description>Daf Hayomi — Pessachim 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-007.mp3" length="32879622" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 28 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:42:58</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 6</title>
+      <description>Daf Hayomi — Pessachim 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-006.mp3" length="37710984" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 27 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:20</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 5</title>
+      <description>Daf Hayomi — Pessachim 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-005.mp3" length="36599932" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 26 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:48</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 4</title>
+      <description>Daf Hayomi — Pessachim 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-004.mp3" length="30486042" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 25 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:58</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 3</title>
+      <description>Daf Hayomi — Pessachim 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-003.mp3" length="34344543" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 24 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:01</itunes:duration>
+    </item>
+    <item>
+      <title>Pessachim 2</title>
+      <description>Daf Hayomi — Pessachim 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-04-pessachim-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/04-Pessachim-002.mp3" length="32642349" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 23 Nov 2020 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:55</itunes:duration>
+    </item>
+  </channel>
+</rss>

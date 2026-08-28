@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Kilayim — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-kilayim-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Kilayim, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:34:26 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Kilayim 9</title>
+      <description>Daf Hayomi — Kilayim 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-009.mp3" length="18973923" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 13 Dec 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:45</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 8</title>
+      <description>Daf Hayomi — Kilayim 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-008.mp3" length="14408189" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 29 Nov 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:15:08</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 7</title>
+      <description>Daf Hayomi — Kilayim 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-007.mp3" length="15753848" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 15 Nov 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:29</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 6</title>
+      <description>Daf Hayomi — Kilayim 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-006.mp3" length="19768308" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 03 Nov 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:42</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 5</title>
+      <description>Daf Hayomi — Kilayim 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-005.mp3" length="19752045" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:40</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 4</title>
+      <description>Daf Hayomi — Kilayim 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-004.mp3" length="21863316" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:49</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 3</title>
+      <description>Daf Hayomi — Kilayim 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-003.mp3" length="23165443" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 23 Aug 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:13</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 2</title>
+      <description>Daf Hayomi — Kilayim 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-002.mp3" length="31780827" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 17 Aug 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:15</itunes:duration>
+    </item>
+    <item>
+      <title>Kilayim 1</title>
+      <description>Daf Hayomi — Kilayim 1, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-41-kilayim-1</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-001.mp3" length="16132484" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 09 Aug 2021 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:50</itunes:duration>
+    </item>
+  </channel>
+</rss>

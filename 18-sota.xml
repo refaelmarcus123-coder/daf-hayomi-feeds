@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Sotá — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-sota-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Sotá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:29:32 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Sotá 49</title>
+      <description>Daf Hayomi — Sotá 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-49.mp3" length="25128707" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 17 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:21</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 48</title>
+      <description>Daf Hayomi — Sotá 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-48.mp3" length="47931779" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 16 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:15</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 47</title>
+      <description>Daf Hayomi — Sotá 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-47.mp3" length="48401411" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 15 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:08</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 46</title>
+      <description>Daf Hayomi — Sotá 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-46.mp3" length="51714179" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 14 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:46:00</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 45</title>
+      <description>Daf Hayomi — Sotá 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-45.mp3" length="47779331" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 13 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:56:08</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 44</title>
+      <description>Daf Hayomi — Sotá 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-44.mp3" length="28039811" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 12 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:24</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 43</title>
+      <description>Daf Hayomi — Sotá 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-43.mp3" length="33544067" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 11 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:04</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 42</title>
+      <description>Daf Hayomi — Sotá 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-42.mp3" length="30051971" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 10 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:59</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 41</title>
+      <description>Daf Hayomi — Sotá 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-41.mp3" length="26921219" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 09 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:54</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 40</title>
+      <description>Daf Hayomi — Sotá 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-40.mp3" length="23324291" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 08 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:44</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 39</title>
+      <description>Daf Hayomi — Sotá 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-39.mp3" length="27707651" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 07 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:11</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 38</title>
+      <description>Daf Hayomi — Sotá 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-38.mp3" length="20219267" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 06 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:13</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 37</title>
+      <description>Daf Hayomi — Sotá 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-37.mp3" length="30287747" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 05 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:36</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 36</title>
+      <description>Daf Hayomi — Sotá 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-36.mp3" length="33011459" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 04 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:49</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 35</title>
+      <description>Daf Hayomi — Sotá 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-35.mp3" length="32424013" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 03 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:59</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 34</title>
+      <description>Daf Hayomi — Sotá 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-34.mp3" length="32897485" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 02 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:21</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 33</title>
+      <description>Daf Hayomi — Sotá 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-33.mp3" length="15383244" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 01 May 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:12:11</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 32</title>
+      <description>Daf Hayomi — Sotá 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-32.mp3" length="18610765" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 30 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:09</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 31</title>
+      <description>Daf Hayomi — Sotá 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-31.mp3" length="35079757" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 29 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:19</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 30</title>
+      <description>Daf Hayomi — Sotá 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-30.mp3" length="20771917" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 28 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:12</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 29</title>
+      <description>Daf Hayomi — Sotá 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-29.mp3" length="33907347" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 27 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:19</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 28</title>
+      <description>Daf Hayomi — Sotá 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-28.mp3" length="32711955" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 26 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:17</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 27</title>
+      <description>Daf Hayomi — Sotá 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-27.mp3" length="19398672" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 25 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:55</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 26</title>
+      <description>Daf Hayomi — Sotá 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-26.mp3" length="22942995" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 24 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:52</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 25</title>
+      <description>Daf Hayomi — Sotá 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-25.mp3" length="29166483" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 23 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:37</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 24</title>
+      <description>Daf Hayomi — Sotá 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-24.mp3" length="18109587" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 22 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:20</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 23</title>
+      <description>Daf Hayomi — Sotá 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-23.mp3" length="20259987" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 21 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:21</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 22</title>
+      <description>Daf Hayomi — Sotá 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-22.mp3" length="16427666" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 20 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:34</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 21</title>
+      <description>Daf Hayomi — Sotá 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-21.mp3" length="28532883" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 19 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:13</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 20</title>
+      <description>Daf Hayomi — Sotá 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-20.mp3" length="35755908" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 18 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:38:38</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 19</title>
+      <description>Daf Hayomi — Sotá 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-19.mp3" length="26347923" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 17 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:13:20</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 18</title>
+      <description>Daf Hayomi — Sotá 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-18.mp3" length="31287315" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 16 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:07</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 17</title>
+      <description>Daf Hayomi — Sotá 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-17.mp3" length="21811347" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 15 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:25</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 16</title>
+      <description>Daf Hayomi — Sotá 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-16.mp3" length="32371347" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 14 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:00</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 15</title>
+      <description>Daf Hayomi — Sotá 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-15.mp3" length="20743827" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 13 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:25</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 14</title>
+      <description>Daf Hayomi — Sotá 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-14.mp3" length="42405267" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 12 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:49</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 12</title>
+      <description>Daf Hayomi — Sotá 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-12.mp3" length="24235907" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 10 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:36</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 11</title>
+      <description>Daf Hayomi — Sotá 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-11.mp3" length="42652563" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 09 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:16</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 10</title>
+      <description>Daf Hayomi — Sotá 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-10.mp3" length="36475152" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 08 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:28:20</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 9</title>
+      <description>Daf Hayomi — Sotá 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-09.mp3" length="33077907" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 07 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:51</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 8</title>
+      <description>Daf Hayomi — Sotá 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-08.mp3" length="16038671" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 06 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:56</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 7</title>
+      <description>Daf Hayomi — Sotá 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-07.mp3" length="29541267" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 05 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:50</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 6</title>
+      <description>Daf Hayomi — Sotá 6, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-6</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-06.mp3" length="42073875" type="audio/mpeg" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 04 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:02</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 5</title>
+      <description>Daf Hayomi — Sotá 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-05.mp3" length="18639507" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 03 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:06</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 4</title>
+      <description>Daf Hayomi — Sotá 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-04.mp3" length="22270995" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 02 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:16:23</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 3</title>
+      <description>Daf Hayomi — Sotá 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-03.mp3" length="31384467" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 01 Apr 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:17:31</itunes:duration>
+    </item>
+    <item>
+      <title>Sotá 2</title>
+      <description>Daf Hayomi — Sotá 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-18-sota-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/18-Sota-02.mp3" length="42210963" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 31 Mar 2023 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:16</itunes:duration>
+    </item>
+  </channel>
+</rss>

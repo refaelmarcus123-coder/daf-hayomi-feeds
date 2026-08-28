@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daf Hayomi — Bechorot — Rav Daniel Faour</title>
+    <link>https://rss.com/podcasts/daf-hayomi-bechorot-rav-daniel-faour/</link>
+    <description>Daf Hayomi — Masechet Bechorot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <language>pt-BR</language>
+    <generator>Daf Hayomi RSS Builder</generator>
+    <lastBuildDate>Fri, 28 Aug 2026 01:33:45 +0000</lastBuildDate>
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <item>
+      <title>Bechorot 61</title>
+      <description>Daf Hayomi — Bechorot 61, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-61</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-061.mp3" length="16986336" type="audio/mpeg" />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 17 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:17:43</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 60</title>
+      <description>Daf Hayomi — Bechorot 60, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-60</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-060.mp3" length="51783733" type="audio/mpeg" />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 16 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:54:03</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 59</title>
+      <description>Daf Hayomi — Bechorot 59, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-59</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-059.mp3" length="20309157" type="audio/mpeg" />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 15 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:11</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 58</title>
+      <description>Daf Hayomi — Bechorot 58, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-58</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-058.mp3" length="30820312" type="audio/mpeg" />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 14 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:10</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 57</title>
+      <description>Daf Hayomi — Bechorot 57, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-57</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-057.mp3" length="34864959" type="audio/mpeg" />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 13 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:23</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 56</title>
+      <description>Daf Hayomi — Bechorot 56, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-56</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-056.mp3" length="42767281" type="audio/mpeg" />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 12 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:38</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 55</title>
+      <description>Daf Hayomi — Bechorot 55, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-55</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-055.mp3" length="35452929" type="audio/mpeg" />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 11 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:00</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 54</title>
+      <description>Daf Hayomi — Bechorot 54, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-54</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-054.mp3" length="13584450" type="audio/mpeg" />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 10 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:14:10</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 53</title>
+      <description>Daf Hayomi — Bechorot 53, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-53</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-053.mp3" length="25398895" type="audio/mpeg" />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 09 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:26:30</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 52</title>
+      <description>Daf Hayomi — Bechorot 52, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-52</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-052.mp3" length="21856897" type="audio/mpeg" />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 08 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:48</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 51</title>
+      <description>Daf Hayomi — Bechorot 51, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-51</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-051.mp3" length="26725372" type="audio/mpeg" />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 07 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:53</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 50</title>
+      <description>Daf Hayomi — Bechorot 50, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-50</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-050.mp3" length="36184764" type="audio/mpeg" />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 06 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:46</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 49</title>
+      <description>Daf Hayomi — Bechorot 49, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-49</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-049.mp3" length="29674831" type="audio/mpeg" />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 05 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:58</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 48</title>
+      <description>Daf Hayomi — Bechorot 48, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-48</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-048.mp3" length="26286189" type="audio/mpeg" />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 04 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:27:22</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 47</title>
+      <description>Daf Hayomi — Bechorot 47, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-47</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-047.mp3" length="41338720" type="audio/mpeg" />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 03 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:09</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 46</title>
+      <description>Daf Hayomi — Bechorot 46, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-46</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-046.mp3" length="33176380" type="audio/mpeg" />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 02 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:37</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 45</title>
+      <description>Daf Hayomi — Bechorot 45, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-45</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-045.mp3" length="32560054" type="audio/mpeg" />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 01 Jun 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:59</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 44</title>
+      <description>Daf Hayomi — Bechorot 44, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-44</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-044.mp3" length="52780947" type="audio/mpeg" />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 31 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:55:05</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 43</title>
+      <description>Daf Hayomi — Bechorot 43, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-43</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-043.mp3" length="35015749" type="audio/mpeg" />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 30 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:36</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 42</title>
+      <description>Daf Hayomi — Bechorot 42, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-42</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-042.mp3" length="42034857" type="audio/mpeg" />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 29 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:43:52</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 41</title>
+      <description>Daf Hayomi — Bechorot 41, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-41</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-041.mp3" length="32375469" type="audio/mpeg" />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:47</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 40</title>
+      <description>Daf Hayomi — Bechorot 40, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-40</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-040.mp3" length="49106760" type="audio/mpeg" />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 27 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:51:15</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 39</title>
+      <description>Daf Hayomi — Bechorot 39, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-39</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-039.mp3" length="45063111" type="audio/mpeg" />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 26 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:02</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 38</title>
+      <description>Daf Hayomi — Bechorot 38, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-38</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-038.mp3" length="29413512" type="audio/mpeg" />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 25 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:30:42</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 37</title>
+      <description>Daf Hayomi — Bechorot 37, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-37</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-037.mp3" length="36366159" type="audio/mpeg" />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 24 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:37:57</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 36</title>
+      <description>Daf Hayomi — Bechorot 36, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-36</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-036.mp3" length="39558294" type="audio/mpeg" />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 23 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:17</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 35</title>
+      <description>Daf Hayomi — Bechorot 35, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-35</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-035.mp3" length="39018696" type="audio/mpeg" />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 22 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:43</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 34</title>
+      <description>Daf Hayomi — Bechorot 34, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-34</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-034.mp3" length="34802409" type="audio/mpeg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 21 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:19</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 33</title>
+      <description>Daf Hayomi — Bechorot 33, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-33</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-033.mp3" length="34028710" type="audio/mpeg" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 20 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:31</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 32</title>
+      <description>Daf Hayomi — Bechorot 32, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-32</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-032.mp3" length="38577763" type="audio/mpeg" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 19 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:40:16</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 31</title>
+      <description>Daf Hayomi — Bechorot 31, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-31</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-031.mp3" length="23523646" type="audio/mpeg" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 18 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:24:33</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 30</title>
+      <description>Daf Hayomi — Bechorot 30, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-30</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-030.mp3" length="32475802" type="audio/mpeg" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 17 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:53</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 29</title>
+      <description>Daf Hayomi — Bechorot 29, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-29</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-029.mp3" length="28011564" type="audio/mpeg" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 16 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:14</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 28</title>
+      <description>Daf Hayomi — Bechorot 28, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-28</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-028.mp3" length="30924145" type="audio/mpeg" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 15 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:16</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 27</title>
+      <description>Daf Hayomi — Bechorot 27, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-27</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-027.mp3" length="31397187" type="audio/mpeg" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 14 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:32:46</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 26</title>
+      <description>Daf Hayomi — Bechorot 26, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-26</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-026.mp3" length="30592630" type="audio/mpeg" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 13 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:56</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 25</title>
+      <description>Daf Hayomi — Bechorot 25, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-25</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-025.mp3" length="39848362" type="audio/mpeg" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 12 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:41:35</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 24</title>
+      <description>Daf Hayomi — Bechorot 24, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-24</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-024.mp3" length="18626815" type="audio/mpeg" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 11 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:19:26</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 23</title>
+      <description>Daf Hayomi — Bechorot 23, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-23</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-023.mp3" length="30242767" type="audio/mpeg" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 10 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:31:34</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 22</title>
+      <description>Daf Hayomi — Bechorot 22, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-22</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-022.mp3" length="33286867" type="audio/mpeg" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 09 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:34:44</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 21</title>
+      <description>Daf Hayomi — Bechorot 21, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-21</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-021.mp3" length="28317642" type="audio/mpeg" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 08 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:29:33</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 20</title>
+      <description>Daf Hayomi — Bechorot 20, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-20</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-020.mp3" length="24750043" type="audio/mpeg" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 07 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:50</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 19</title>
+      <description>Daf Hayomi — Bechorot 19, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-19</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-019.mp3" length="33871248" type="audio/mpeg" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 06 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:21</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 18</title>
+      <description>Daf Hayomi — Bechorot 18, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-18</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-018.mp3" length="33955065" type="audio/mpeg" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 05 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:35:26</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 17</title>
+      <description>Daf Hayomi — Bechorot 17, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-17</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-017.mp3" length="24663888" type="audio/mpeg" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 04 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:44</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 16</title>
+      <description>Daf Hayomi — Bechorot 16, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-16</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-016.mp3" length="31823778" type="audio/mpeg" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 03 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:33:13</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 15</title>
+      <description>Daf Hayomi — Bechorot 15, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-15</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-015.mp3" length="35049690" type="audio/mpeg" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 02 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:35</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 14</title>
+      <description>Daf Hayomi — Bechorot 14, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-14</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-014.mp3" length="42347190" type="audio/mpeg" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 01 May 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:30</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 13</title>
+      <description>Daf Hayomi — Bechorot 13, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-13</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-013.mp3" length="37792135" type="audio/mpeg" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 30 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:39:27</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 12</title>
+      <description>Daf Hayomi — Bechorot 12, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-12</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-012.mp3" length="34562217" type="audio/mpeg" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 29 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:36:04</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 11</title>
+      <description>Daf Hayomi — Bechorot 11, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-11</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-011.mp3" length="43494774" type="audio/mpeg" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 28 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:45:24</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 10</title>
+      <description>Daf Hayomi — Bechorot 10, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-10</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-010.mp3" length="19368241" type="audio/mpeg" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 27 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:20:12</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 9</title>
+      <description>Daf Hayomi — Bechorot 9, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-9</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-009.mp3" length="21353161" type="audio/mpeg" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 26 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:22:17</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 8</title>
+      <description>Daf Hayomi — Bechorot 8, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-8</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-008.mp3" length="51956791" type="audio/mpeg" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 25 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:54:14</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 7</title>
+      <description>Daf Hayomi — Bechorot 7, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-7</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-007.mp3" length="24538204" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 24 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:36</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 5</title>
+      <description>Daf Hayomi — Bechorot 5, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-5</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-005.mp3" length="45032253" type="audio/mpeg" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 22 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:47:00</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 4</title>
+      <description>Daf Hayomi — Bechorot 4, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-4</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-004.mp3" length="24223953" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 21 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:25:17</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 3</title>
+      <description>Daf Hayomi — Bechorot 3, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-3</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-003.mp3" length="21038073" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 20 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:21:57</itunes:duration>
+    </item>
+    <item>
+      <title>Bechorot 2</title>
+      <description>Daf Hayomi — Bechorot 2, com Rav Daniel Faour.</description>
+      <guid isPermaLink="false">nascente-32-bechorot-2</guid>
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/32-Bechorot-002.mp3" length="42341352" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 19 Apr 2019 12:00:00 -0300</pubDate>
+      <itunes:duration>00:44:12</itunes:duration>
+    </item>
+  </channel>
+</rss>
