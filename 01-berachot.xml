@@ -7,8 +7,10 @@
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:26:34 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+<itunes:owner> 
+  <itunes:name>Rav Daniel Faour</itunes:name> 
+  <itunes:email>refam5518@gmail.com</itunes:email> 
+</itunes:owner>    <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
