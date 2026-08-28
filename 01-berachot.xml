@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Daf Hayomi — Berachot — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-berachot-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Berachot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:26:34 +0000</lastBuildDate>
-<itunes:owner> 
+<itunes:owner> <itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/berachot.png"/>
   <itunes:name>Rav Daniel Faour</itunes:name> 
   <itunes:email>refam5518@gmail.com</itunes:email> 
 </itunes:owner>    <itunes:type>episodic</itunes:type>
