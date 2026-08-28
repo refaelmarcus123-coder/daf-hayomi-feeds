@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Ketubot — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-ketubot-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Ketubot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:28:31 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/15-ketubot.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/ketubot.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/ketubot.jpg</url>
+  <title>Daf Hayomi — Ketubot — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Ketubot 112</title>
       <description>Daf Hayomi — Ketubot 112, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-112</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-112</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-112.mp3" length="16822783" type="audio/mpeg" />
       <itunes:episode>112</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -25,7 +38,7 @@
     <item>
       <title>Ketubot 111</title>
       <description>Daf Hayomi — Ketubot 111, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-111</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-111</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-111.mp3" length="34539011" type="audio/mpeg" />
       <itunes:episode>111</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -34,7 +47,7 @@
     <item>
       <title>Ketubot 110</title>
       <description>Daf Hayomi — Ketubot 110, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-110</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-110</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-110.mp3" length="52615811" type="audio/mpeg" />
       <itunes:episode>110</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -43,7 +56,7 @@
     <item>
       <title>Ketubot 109</title>
       <description>Daf Hayomi — Ketubot 109, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-109</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-109</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-109.mp3" length="31879811" type="audio/mpeg" />
       <itunes:episode>109</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -52,7 +65,7 @@
     <item>
       <title>Ketubot 108</title>
       <description>Daf Hayomi — Ketubot 108, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-108</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-108</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-108.mp3" length="27625091" type="audio/mpeg" />
       <itunes:episode>108</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -61,7 +74,7 @@
     <item>
       <title>Ketubot 107</title>
       <description>Daf Hayomi — Ketubot 107, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-107</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-107</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-107.mp3" length="24896771" type="audio/mpeg" />
       <itunes:episode>107</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -70,7 +83,7 @@
     <item>
       <title>Ketubot 106</title>
       <description>Daf Hayomi — Ketubot 106, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-106</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-106</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-106.mp3" length="27773699" type="audio/mpeg" />
       <itunes:episode>106</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -79,7 +92,7 @@
     <item>
       <title>Ketubot 105</title>
       <description>Daf Hayomi — Ketubot 105, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-105</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-105</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-105.mp3" length="35090819" type="audio/mpeg" />
       <itunes:episode>105</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -88,7 +101,7 @@
     <item>
       <title>Ketubot 104</title>
       <description>Daf Hayomi — Ketubot 104, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-104</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-104</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-104.mp3" length="41902211" type="audio/mpeg" />
       <itunes:episode>104</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -97,7 +110,7 @@
     <item>
       <title>Ketubot 103</title>
       <description>Daf Hayomi — Ketubot 103, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-103</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-103</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-103.mp3" length="27444227" type="audio/mpeg" />
       <itunes:episode>103</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -106,7 +119,7 @@
     <item>
       <title>Ketubot 102</title>
       <description>Daf Hayomi — Ketubot 102, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-102</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-102</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-102.mp3" length="37157891" type="audio/mpeg" />
       <itunes:episode>102</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Ketubot 101</title>
       <description>Daf Hayomi — Ketubot 101, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-101</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-101</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-101.mp3" length="23438339" type="audio/mpeg" />
       <itunes:episode>101</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -124,7 +137,7 @@
     <item>
       <title>Ketubot 100</title>
       <description>Daf Hayomi — Ketubot 100, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-100</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-100</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-100.mp3" length="24837251" type="audio/mpeg" />
       <itunes:episode>100</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -133,7 +146,7 @@
     <item>
       <title>Ketubot 99</title>
       <description>Daf Hayomi — Ketubot 99, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-99</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-99</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-99.mp3" length="18131459" type="audio/mpeg" />
       <itunes:episode>99</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -142,7 +155,7 @@
     <item>
       <title>Ketubot 98</title>
       <description>Daf Hayomi — Ketubot 98, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-98</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-98</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-98.mp3" length="41922179" type="audio/mpeg" />
       <itunes:episode>98</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -151,7 +164,7 @@
     <item>
       <title>Ketubot 97</title>
       <description>Daf Hayomi — Ketubot 97, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-97</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-97</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-97.mp3" length="24449411" type="audio/mpeg" />
       <itunes:episode>97</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -160,7 +173,7 @@
     <item>
       <title>Ketubot 96</title>
       <description>Daf Hayomi — Ketubot 96, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-96</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-96</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-96.mp3" length="25995779" type="audio/mpeg" />
       <itunes:episode>96</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -169,7 +182,7 @@
     <item>
       <title>Ketubot 95</title>
       <description>Daf Hayomi — Ketubot 95, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-95</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-95</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-95.mp3" length="34056707" type="audio/mpeg" />
       <itunes:episode>95</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -178,7 +191,7 @@
     <item>
       <title>Ketubot 94</title>
       <description>Daf Hayomi — Ketubot 94, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-94</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-94</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-94.mp3" length="28603139" type="audio/mpeg" />
       <itunes:episode>94</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -187,7 +200,7 @@
     <item>
       <title>Ketubot 93</title>
       <description>Daf Hayomi — Ketubot 93, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-93</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-93</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-93.mp3" length="28026371" type="audio/mpeg" />
       <itunes:episode>93</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -196,7 +209,7 @@
     <item>
       <title>Ketubot 92</title>
       <description>Daf Hayomi — Ketubot 92, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-92</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-92</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-92.mp3" length="25864067" type="audio/mpeg" />
       <itunes:episode>92</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -205,7 +218,7 @@
     <item>
       <title>Ketubot 91</title>
       <description>Daf Hayomi — Ketubot 91, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-91</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-91</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-91.mp3" length="15807490" type="audio/mpeg" />
       <itunes:episode>91</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Ketubot 90</title>
       <description>Daf Hayomi — Ketubot 90, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-90</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-90</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-90.mp3" length="39390851" type="audio/mpeg" />
       <itunes:episode>90</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -223,7 +236,7 @@
     <item>
       <title>Ketubot 89</title>
       <description>Daf Hayomi — Ketubot 89, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-89</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-89</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-89.mp3" length="38772611" type="audio/mpeg" />
       <itunes:episode>89</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -232,7 +245,7 @@
     <item>
       <title>Ketubot 88</title>
       <description>Daf Hayomi — Ketubot 88, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-88</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-88</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-88.mp3" length="33884291" type="audio/mpeg" />
       <itunes:episode>88</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -241,7 +254,7 @@
     <item>
       <title>Ketubot 87</title>
       <description>Daf Hayomi — Ketubot 87, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-87</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-87</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-87.mp3" length="36222851" type="audio/mpeg" />
       <itunes:episode>87</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -250,7 +263,7 @@
     <item>
       <title>Ketubot 86</title>
       <description>Daf Hayomi — Ketubot 86, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-86</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-86</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-86.mp3" length="26732291" type="audio/mpeg" />
       <itunes:episode>86</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -259,7 +272,7 @@
     <item>
       <title>Ketubot 85</title>
       <description>Daf Hayomi — Ketubot 85, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-85</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-85</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-85.mp3" length="32455811" type="audio/mpeg" />
       <itunes:episode>85</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -268,7 +281,7 @@
     <item>
       <title>Ketubot 84</title>
       <description>Daf Hayomi — Ketubot 84, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-84</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-84</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-84.mp3" length="27984131" type="audio/mpeg" />
       <itunes:episode>84</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -277,7 +290,7 @@
     <item>
       <title>Ketubot 83</title>
       <description>Daf Hayomi — Ketubot 83, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-83</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-83</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-83.mp3" length="37010051" type="audio/mpeg" />
       <itunes:episode>83</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -286,7 +299,7 @@
     <item>
       <title>Ketubot 82</title>
       <description>Daf Hayomi — Ketubot 82, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-82</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-82</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-82.mp3" length="17159170" type="audio/mpeg" />
       <itunes:episode>82</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -295,7 +308,7 @@
     <item>
       <title>Ketubot 81</title>
       <description>Daf Hayomi — Ketubot 81, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-81</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-81</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-81.mp3" length="30699011" type="audio/mpeg" />
       <itunes:episode>81</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -304,7 +317,7 @@
     <item>
       <title>Ketubot 80</title>
       <description>Daf Hayomi — Ketubot 80, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-80</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-80</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-80.mp3" length="37428611" type="audio/mpeg" />
       <itunes:episode>80</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -313,7 +326,7 @@
     <item>
       <title>Ketubot 79</title>
       <description>Daf Hayomi — Ketubot 79, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-79</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-79</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-79.mp3" length="28505219" type="audio/mpeg" />
       <itunes:episode>79</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -322,7 +335,7 @@
     <item>
       <title>Ketubot 78</title>
       <description>Daf Hayomi — Ketubot 78, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-78</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-78</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-78.mp3" length="32061059" type="audio/mpeg" />
       <itunes:episode>78</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -331,7 +344,7 @@
     <item>
       <title>Ketubot 77</title>
       <description>Daf Hayomi — Ketubot 77, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-77</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-77</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-77.mp3" length="38034179" type="audio/mpeg" />
       <itunes:episode>77</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -340,7 +353,7 @@
     <item>
       <title>Ketubot 76</title>
       <description>Daf Hayomi — Ketubot 76, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-76</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-76</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-76.mp3" length="28413059" type="audio/mpeg" />
       <itunes:episode>76</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -349,7 +362,7 @@
     <item>
       <title>Ketubot 75</title>
       <description>Daf Hayomi — Ketubot 75, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-75</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-75</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-75.mp3" length="34820867" type="audio/mpeg" />
       <itunes:episode>75</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -358,7 +371,7 @@
     <item>
       <title>Ketubot 74</title>
       <description>Daf Hayomi — Ketubot 74, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-74</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-74</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-74.mp3" length="31678979" type="audio/mpeg" />
       <itunes:episode>74</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -367,7 +380,7 @@
     <item>
       <title>Ketubot 73</title>
       <description>Daf Hayomi — Ketubot 73, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-73</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-73</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-73.mp3" length="38344067" type="audio/mpeg" />
       <itunes:episode>73</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -376,7 +389,7 @@
     <item>
       <title>Ketubot 72</title>
       <description>Daf Hayomi — Ketubot 72, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-72</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-72</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-72.mp3" length="30585347" type="audio/mpeg" />
       <itunes:episode>72</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -385,7 +398,7 @@
     <item>
       <title>Ketubot 71</title>
       <description>Daf Hayomi — Ketubot 71, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-71</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-71</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-71.mp3" length="23143811" type="audio/mpeg" />
       <itunes:episode>71</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -394,7 +407,7 @@
     <item>
       <title>Ketubot 70</title>
       <description>Daf Hayomi — Ketubot 70, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-70</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-70</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-70.mp3" length="29629571" type="audio/mpeg" />
       <itunes:episode>70</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -403,7 +416,7 @@
     <item>
       <title>Ketubot 69</title>
       <description>Daf Hayomi — Ketubot 69, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-69</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-69</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-69.mp3" length="37889411" type="audio/mpeg" />
       <itunes:episode>69</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -412,7 +425,7 @@
     <item>
       <title>Ketubot 68</title>
       <description>Daf Hayomi — Ketubot 68, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-68</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-68</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-68.mp3" length="29525507" type="audio/mpeg" />
       <itunes:episode>68</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -421,7 +434,7 @@
     <item>
       <title>Ketubot 67</title>
       <description>Daf Hayomi — Ketubot 67, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-67</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-67</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-67.mp3" length="38008451" type="audio/mpeg" />
       <itunes:episode>67</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -430,7 +443,7 @@
     <item>
       <title>Ketubot 66</title>
       <description>Daf Hayomi — Ketubot 66, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-66</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-66</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-66.mp3" length="37673987" type="audio/mpeg" />
       <itunes:episode>66</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -439,7 +452,7 @@
     <item>
       <title>Ketubot 65</title>
       <description>Daf Hayomi — Ketubot 65, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-65</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-65</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-65.mp3" length="24430211" type="audio/mpeg" />
       <itunes:episode>65</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -448,7 +461,7 @@
     <item>
       <title>Ketubot 64</title>
       <description>Daf Hayomi — Ketubot 64, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-64</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-64</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-64.mp3" length="12786494" type="audio/mpeg" />
       <itunes:episode>64</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -457,7 +470,7 @@
     <item>
       <title>Ketubot 63</title>
       <description>Daf Hayomi — Ketubot 63, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-63</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-63</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-63.mp3" length="31355505" type="audio/mpeg" />
       <itunes:episode>63</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -466,7 +479,7 @@
     <item>
       <title>Ketubot 62</title>
       <description>Daf Hayomi — Ketubot 62, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-62</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-62</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-62.mp3" length="33773699" type="audio/mpeg" />
       <itunes:episode>62</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -475,7 +488,7 @@
     <item>
       <title>Ketubot 61</title>
       <description>Daf Hayomi — Ketubot 61, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-61</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-61</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-61.mp3" length="32800259" type="audio/mpeg" />
       <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -484,7 +497,7 @@
     <item>
       <title>Ketubot 60</title>
       <description>Daf Hayomi — Ketubot 60, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-60</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-60</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-60.mp3" length="35641859" type="audio/mpeg" />
       <itunes:episode>60</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -493,7 +506,7 @@
     <item>
       <title>Ketubot 59</title>
       <description>Daf Hayomi — Ketubot 59, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-59</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-59</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-59.mp3" length="41590787" type="audio/mpeg" />
       <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -502,7 +515,7 @@
     <item>
       <title>Ketubot 58</title>
       <description>Daf Hayomi — Ketubot 58, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-58</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-58</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-58.mp3" length="30091907" type="audio/mpeg" />
       <itunes:episode>58</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -511,7 +524,7 @@
     <item>
       <title>Ketubot 57</title>
       <description>Daf Hayomi — Ketubot 57, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-57</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-57</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-57.mp3" length="32689667" type="audio/mpeg" />
       <itunes:episode>57</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -520,7 +533,7 @@
     <item>
       <title>Ketubot 56</title>
       <description>Daf Hayomi — Ketubot 56, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-56</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-56</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-56.mp3" length="30301571" type="audio/mpeg" />
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -529,7 +542,7 @@
     <item>
       <title>Ketubot 55</title>
       <description>Daf Hayomi — Ketubot 55, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-55</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-55</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-55.mp3" length="31076867" type="audio/mpeg" />
       <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -538,7 +551,7 @@
     <item>
       <title>Ketubot 54</title>
       <description>Daf Hayomi — Ketubot 54, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-54</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-54</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-54.mp3" length="32624387" type="audio/mpeg" />
       <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -547,7 +560,7 @@
     <item>
       <title>Ketubot 53</title>
       <description>Daf Hayomi — Ketubot 53, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-53</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-53</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-53.mp3" length="24139907" type="audio/mpeg" />
       <itunes:episode>53</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -556,7 +569,7 @@
     <item>
       <title>Ketubot 52</title>
       <description>Daf Hayomi — Ketubot 52, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-52</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-52</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-52.mp3" length="38369411" type="audio/mpeg" />
       <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -565,7 +578,7 @@
     <item>
       <title>Ketubot 51</title>
       <description>Daf Hayomi — Ketubot 51, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-51</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-51</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-51.mp3" length="47010947" type="audio/mpeg" />
       <itunes:episode>51</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -574,7 +587,7 @@
     <item>
       <title>Ketubot 50</title>
       <description>Daf Hayomi — Ketubot 50, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-50</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-50</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-50.mp3" length="34995587" type="audio/mpeg" />
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -583,7 +596,7 @@
     <item>
       <title>Ketubot 49</title>
       <description>Daf Hayomi — Ketubot 49, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-49</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-49</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-49.mp3" length="28922627" type="audio/mpeg" />
       <itunes:episode>49</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -592,7 +605,7 @@
     <item>
       <title>Ketubot 48</title>
       <description>Daf Hayomi — Ketubot 48, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-48</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-48</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-48.mp3" length="30491651" type="audio/mpeg" />
       <itunes:episode>48</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -601,7 +614,7 @@
     <item>
       <title>Ketubot 47</title>
       <description>Daf Hayomi — Ketubot 47, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-47</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-47</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-47.mp3" length="20691971" type="audio/mpeg" />
       <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -610,7 +623,7 @@
     <item>
       <title>Ketubot 46</title>
       <description>Daf Hayomi — Ketubot 46, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-46</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-46</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-46.mp3" length="40415747" type="audio/mpeg" />
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -619,7 +632,7 @@
     <item>
       <title>Ketubot 45</title>
       <description>Daf Hayomi — Ketubot 45, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-45</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-45</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-45.mp3" length="32452632" type="audio/mpeg" />
       <itunes:episode>45</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -628,7 +641,7 @@
     <item>
       <title>Ketubot 44</title>
       <description>Daf Hayomi — Ketubot 44, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-44</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-44</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-44.mp3" length="28159616" type="audio/mpeg" />
       <itunes:episode>44</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -637,7 +650,7 @@
     <item>
       <title>Ketubot 43</title>
       <description>Daf Hayomi — Ketubot 43, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-43</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-43</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-43.mp3" length="38843651" type="audio/mpeg" />
       <itunes:episode>43</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -646,7 +659,7 @@
     <item>
       <title>Ketubot 42</title>
       <description>Daf Hayomi — Ketubot 42, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-42</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-42</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-42.mp3" length="42775427" type="audio/mpeg" />
       <itunes:episode>42</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -655,7 +668,7 @@
     <item>
       <title>Ketubot 41</title>
       <description>Daf Hayomi — Ketubot 41, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-41</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-41</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-41.mp3" length="29965187" type="audio/mpeg" />
       <itunes:episode>41</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -664,7 +677,7 @@
     <item>
       <title>Ketubot 40</title>
       <description>Daf Hayomi — Ketubot 40, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-40</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-40</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-40.mp3" length="21662339" type="audio/mpeg" />
       <itunes:episode>40</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -673,7 +686,7 @@
     <item>
       <title>Ketubot 39</title>
       <description>Daf Hayomi — Ketubot 39, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-39</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-39</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-39.mp3" length="23490179" type="audio/mpeg" />
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -682,7 +695,7 @@
     <item>
       <title>Ketubot 38</title>
       <description>Daf Hayomi — Ketubot 38, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-38</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-38</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-38.mp3" length="34237187" type="audio/mpeg" />
       <itunes:episode>38</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -691,7 +704,7 @@
     <item>
       <title>Ketubot 37</title>
       <description>Daf Hayomi — Ketubot 37, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-37</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-37</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-37.mp3" length="44049539" type="audio/mpeg" />
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -700,7 +713,7 @@
     <item>
       <title>Ketubot 36</title>
       <description>Daf Hayomi — Ketubot 36, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-36</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-36</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-36.mp3" length="33886964" type="audio/mpeg" />
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -709,7 +722,7 @@
     <item>
       <title>Ketubot 35</title>
       <description>Daf Hayomi — Ketubot 35, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-35</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-35.mp3" length="34622339" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -718,7 +731,7 @@
     <item>
       <title>Ketubot 34</title>
       <description>Daf Hayomi — Ketubot 34, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-34</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-34.mp3" length="39882371" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -727,7 +740,7 @@
     <item>
       <title>Ketubot 33</title>
       <description>Daf Hayomi — Ketubot 33, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-33</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-33.mp3" length="33161219" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -736,7 +749,7 @@
     <item>
       <title>Ketubot 32</title>
       <description>Daf Hayomi — Ketubot 32, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-32</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-32.mp3" length="30583427" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -745,7 +758,7 @@
     <item>
       <title>Ketubot 31</title>
       <description>Daf Hayomi — Ketubot 31, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-31</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-31.mp3" length="31912451" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -754,7 +767,7 @@
     <item>
       <title>Ketubot 30</title>
       <description>Daf Hayomi — Ketubot 30, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-30</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-30.mp3" length="23174531" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -763,7 +776,7 @@
     <item>
       <title>Ketubot 29</title>
       <description>Daf Hayomi — Ketubot 29, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-29</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-29.mp3" length="28825859" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -772,7 +785,7 @@
     <item>
       <title>Ketubot 28</title>
       <description>Daf Hayomi — Ketubot 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-28.mp3" length="32271491" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -781,7 +794,7 @@
     <item>
       <title>Ketubot 27</title>
       <description>Daf Hayomi — Ketubot 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-27.mp3" length="31395587" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -790,7 +803,7 @@
     <item>
       <title>Ketubot 26</title>
       <description>Daf Hayomi — Ketubot 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-26.mp3" length="27434627" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -799,7 +812,7 @@
     <item>
       <title>Ketubot 25</title>
       <description>Daf Hayomi — Ketubot 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-25.mp3" length="30669827" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -808,7 +821,7 @@
     <item>
       <title>Ketubot 24</title>
       <description>Daf Hayomi — Ketubot 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-24.mp3" length="42492419" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -817,7 +830,7 @@
     <item>
       <title>Ketubot 23</title>
       <description>Daf Hayomi — Ketubot 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-23.mp3" length="37328387" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -826,7 +839,7 @@
     <item>
       <title>Ketubot 22</title>
       <description>Daf Hayomi — Ketubot 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-22.mp3" length="29803907" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -835,7 +848,7 @@
     <item>
       <title>Ketubot 21</title>
       <description>Daf Hayomi — Ketubot 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-21.mp3" length="44712707" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -844,7 +857,7 @@
     <item>
       <title>Ketubot 20</title>
       <description>Daf Hayomi — Ketubot 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-20.mp3" length="38050691" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -853,7 +866,7 @@
     <item>
       <title>Ketubot 19</title>
       <description>Daf Hayomi — Ketubot 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-19.mp3" length="28836227" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -862,7 +875,7 @@
     <item>
       <title>Ketubot 18</title>
       <description>Daf Hayomi — Ketubot 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-18.mp3" length="36364547" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -871,7 +884,7 @@
     <item>
       <title>Ketubot 17</title>
       <description>Daf Hayomi — Ketubot 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-17.mp3" length="35039747" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -880,7 +893,7 @@
     <item>
       <title>Ketubot 16</title>
       <description>Daf Hayomi — Ketubot 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-16.mp3" length="37067267" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -889,7 +902,7 @@
     <item>
       <title>Ketubot 15</title>
       <description>Daf Hayomi — Ketubot 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-015.mp3" length="30721735" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -898,7 +911,7 @@
     <item>
       <title>Ketubot 14</title>
       <description>Daf Hayomi — Ketubot 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-014.mp3" length="30036611" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -907,7 +920,7 @@
     <item>
       <title>Ketubot 13</title>
       <description>Daf Hayomi — Ketubot 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-013.mp3" length="39818695" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -916,7 +929,7 @@
     <item>
       <title>Ketubot 12</title>
       <description>Daf Hayomi — Ketubot 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-012.mp3" length="33730759" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -925,7 +938,7 @@
     <item>
       <title>Ketubot 11</title>
       <description>Daf Hayomi — Ketubot 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-011.mp3" length="43060807" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -934,7 +947,7 @@
     <item>
       <title>Ketubot 10</title>
       <description>Daf Hayomi — Ketubot 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-010.mp3" length="31965127" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -943,7 +956,7 @@
     <item>
       <title>Ketubot 9</title>
       <description>Daf Hayomi — Ketubot 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-009.mp3" length="35525575" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -952,7 +965,7 @@
     <item>
       <title>Ketubot 8</title>
       <description>Daf Hayomi — Ketubot 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-008.mp3" length="40237255" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -961,7 +974,7 @@
     <item>
       <title>Ketubot 7</title>
       <description>Daf Hayomi — Ketubot 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-007.mp3" length="26132167" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -970,7 +983,7 @@
     <item>
       <title>Ketubot 6</title>
       <description>Daf Hayomi — Ketubot 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-006.mp3" length="25954759" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -979,7 +992,7 @@
     <item>
       <title>Ketubot 5</title>
       <description>Daf Hayomi — Ketubot 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-005.mp3" length="27465799" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -988,7 +1001,7 @@
     <item>
       <title>Ketubot 4</title>
       <description>Daf Hayomi — Ketubot 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-004.mp3" length="22748359" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -997,7 +1010,7 @@
     <item>
       <title>Ketubot 3</title>
       <description>Daf Hayomi — Ketubot 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-003.mp3" length="23844295" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1006,7 +1019,7 @@
     <item>
       <title>Ketubot 2</title>
       <description>Daf Hayomi — Ketubot 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-15-ketubot-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-ketubot-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/15-Ketubot-002.mp3" length="41347015" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

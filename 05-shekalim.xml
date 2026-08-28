@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Shekalim — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-shekalim-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Shekalim, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:27:15 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/05-shekalim.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/shekalim.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/shekalim.jpg</url>
+  <title>Daf Hayomi — Shekalim — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Shekalim 22</title>
       <description>Daf Hayomi — Shekalim 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-022.mp3" length="16555494" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Shekalim 21</title>
       <description>Daf Hayomi — Shekalim 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-021.mp3" length="40880773" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Shekalim 20</title>
       <description>Daf Hayomi — Shekalim 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-020.mp3" length="43064602" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Shekalim 19</title>
       <description>Daf Hayomi — Shekalim 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-019.mp3" length="42732498" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Shekalim 18</title>
       <description>Daf Hayomi — Shekalim 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-018.mp3" length="35706048" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Shekalim 17</title>
       <description>Daf Hayomi — Shekalim 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-017.mp3" length="37410499" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Shekalim 16</title>
       <description>Daf Hayomi — Shekalim 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-016.mp3" length="36258990" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Shekalim 15</title>
       <description>Daf Hayomi — Shekalim 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-015.mp3" length="33630222" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,7 +117,7 @@
     <item>
       <title>Shekalim 14</title>
       <description>Daf Hayomi — Shekalim 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-014.mp3" length="44039373" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Shekalim 13</title>
       <description>Daf Hayomi — Shekalim 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-013.mp3" length="21387936" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -126,7 +139,7 @@
     <item>
       <title>Shekalim 12</title>
       <description>Daf Hayomi — Shekalim 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-012.mp3" length="55599867" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +150,7 @@
     <item>
       <title>Shekalim 11</title>
       <description>Daf Hayomi — Shekalim 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-011.mp3" length="33283278" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -148,7 +161,7 @@
     <item>
       <title>Shekalim 10</title>
       <description>Daf Hayomi — Shekalim 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-010.mp3" length="46262992" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +172,7 @@
     <item>
       <title>Shekalim 9</title>
       <description>Daf Hayomi — Shekalim 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-009.mp3" length="31348398" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -170,7 +183,7 @@
     <item>
       <title>Shekalim 8</title>
       <description>Daf Hayomi — Shekalim 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-008.mp3" length="44664459" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -181,7 +194,7 @@
     <item>
       <title>Shekalim 7</title>
       <description>Daf Hayomi — Shekalim 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-007.mp3" length="44968053" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +205,7 @@
     <item>
       <title>Shekalim 6</title>
       <description>Daf Hayomi — Shekalim 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-006.mp3" length="45092986" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,7 +216,7 @@
     <item>
       <title>Shekalim 5</title>
       <description>Daf Hayomi — Shekalim 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-005.mp3" length="33910446" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Shekalim 4</title>
       <description>Daf Hayomi — Shekalim 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-004.mp3" length="43624878" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,7 +238,7 @@
     <item>
       <title>Shekalim 3</title>
       <description>Daf Hayomi — Shekalim 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-003.mp3" length="40305141" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -236,7 +249,7 @@
     <item>
       <title>Shekalim 2</title>
       <description>Daf Hayomi — Shekalim 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-05-shekalim-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-shekalim-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/05-Shekalim-002.mp3" length="37114846" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

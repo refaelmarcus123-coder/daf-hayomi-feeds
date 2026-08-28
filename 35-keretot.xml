@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Keretot — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-keretot-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Keretot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:33:53 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/35-keretot.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/keretot.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/keretot.jpg</url>
+  <title>Daf Hayomi — Keretot — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Keretot 28</title>
       <description>Daf Hayomi — Keretot 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-028.mp3" length="40648332" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Keretot 27</title>
       <description>Daf Hayomi — Keretot 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-027.mp3" length="42967105" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Keretot 26</title>
       <description>Daf Hayomi — Keretot 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-026.mp3" length="40689868" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Keretot 25</title>
       <description>Daf Hayomi — Keretot 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-025.mp3" length="16618533" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Keretot 24</title>
       <description>Daf Hayomi — Keretot 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-024.mp3" length="55427065" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Keretot 23</title>
       <description>Daf Hayomi — Keretot 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-023.mp3" length="32994133" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Keretot 22</title>
       <description>Daf Hayomi — Keretot 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-022.mp3" length="41760471" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Keretot 21</title>
       <description>Daf Hayomi — Keretot 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-021.mp3" length="42405987" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,7 +117,7 @@
     <item>
       <title>Keretot 20</title>
       <description>Daf Hayomi — Keretot 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-020.mp3" length="34709001" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Keretot 19</title>
       <description>Daf Hayomi — Keretot 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-019.mp3" length="34726932" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -126,7 +139,7 @@
     <item>
       <title>Keretot 18</title>
       <description>Daf Hayomi — Keretot 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-018.mp3" length="53098954" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +150,7 @@
     <item>
       <title>Keretot 17</title>
       <description>Daf Hayomi — Keretot 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-017.mp3" length="28712377" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -148,7 +161,7 @@
     <item>
       <title>Keretot 15</title>
       <description>Daf Hayomi — Keretot 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-015.mp3" length="41754886" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +172,7 @@
     <item>
       <title>Keretot 14</title>
       <description>Daf Hayomi — Keretot 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-014.mp3" length="35576778" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -170,7 +183,7 @@
     <item>
       <title>Keretot 13</title>
       <description>Daf Hayomi — Keretot 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-013.mp3" length="24572982" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -181,7 +194,7 @@
     <item>
       <title>Keretot 12</title>
       <description>Daf Hayomi — Keretot 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-012.mp3" length="35588871" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +205,7 @@
     <item>
       <title>Keretot 11</title>
       <description>Daf Hayomi — Keretot 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-011.mp3" length="41243808" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,7 +216,7 @@
     <item>
       <title>Keretot 10</title>
       <description>Daf Hayomi — Keretot 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-010.mp3" length="53913355" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Keretot 9</title>
       <description>Daf Hayomi — Keretot 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-009.mp3" length="42123514" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,7 +238,7 @@
     <item>
       <title>Keretot 8</title>
       <description>Daf Hayomi — Keretot 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-008.mp3" length="42296569" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -236,7 +249,7 @@
     <item>
       <title>Keretot 7</title>
       <description>Daf Hayomi — Keretot 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-007.mp3" length="46913176" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -247,7 +260,7 @@
     <item>
       <title>Keretot 6</title>
       <description>Daf Hayomi — Keretot 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-006.mp3" length="26606944" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -258,7 +271,7 @@
     <item>
       <title>Keretot 5</title>
       <description>Daf Hayomi — Keretot 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-005.mp3" length="54677463" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -269,7 +282,7 @@
     <item>
       <title>Keretot 4</title>
       <description>Daf Hayomi — Keretot 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-004.mp3" length="42832995" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -280,7 +293,7 @@
     <item>
       <title>Keretot 3</title>
       <description>Daf Hayomi — Keretot 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-003.mp3" length="51141973" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -291,7 +304,7 @@
     <item>
       <title>Keretot 2</title>
       <description>Daf Hayomi — Keretot 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-002.mp3" length="41283259" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -302,7 +315,7 @@
     <item>
       <title>Keretot 16</title>
       <description>Daf Hayomi — Keretot 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-35-keretot-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-keretot-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/35-Keretot-016.mp3" length="61032796" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

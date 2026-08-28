@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Demai — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-demai-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Demai, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:34:02 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/39-demai.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/demai.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/demai.jpg</url>
+  <title>Daf Hayomi — Demai — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Demai 7</title>
       <description>Daf Hayomi — Demai 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-39-demai-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-demai-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/39-Demai-007.mp3" length="27866031" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Demai 6</title>
       <description>Daf Hayomi — Demai 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-39-demai-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-demai-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/39-Demai-006.mp3" length="23677266" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Demai 5</title>
       <description>Daf Hayomi — Demai 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-39-demai-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-demai-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/39-Demai-005.mp3" length="22995888" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Demai 4</title>
       <description>Daf Hayomi — Demai 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-39-demai-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-demai-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/39-Demai-004.mp3" length="13884020" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Demai 3</title>
       <description>Daf Hayomi — Demai 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-39-demai-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-demai-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/39-Demai-003.mp3" length="13761422" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Demai 2</title>
       <description>Daf Hayomi — Demai 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-39-demai-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-demai-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/39-Demai-002.mp3" length="13992857" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Demai 1</title>
       <description>Daf Hayomi — Demai 1, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-39-demai-1</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-demai-1</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/39-Demai-001.mp3" length="20776614" type="audio/mpeg" />
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

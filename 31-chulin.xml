@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Chulin — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-chulin-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Chulin, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:33:19 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/31-chulin.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/chulin.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/chulin.jpg</url>
+  <title>Daf Hayomi — Chulin — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Chulin 142</title>
       <description>Daf Hayomi — Chulin 142, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-142</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-142</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-142.mp3" length="27777046" type="audio/mpeg" />
       <itunes:episode>142</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Chulin 141</title>
       <description>Daf Hayomi — Chulin 141, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-141</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-141</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-141.mp3" length="39416767" type="audio/mpeg" />
       <itunes:episode>141</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Chulin 140</title>
       <description>Daf Hayomi — Chulin 140, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-140</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-140</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-140.mp3" length="32660533" type="audio/mpeg" />
       <itunes:episode>140</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Chulin 139</title>
       <description>Daf Hayomi — Chulin 139, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-139</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-139</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-139.mp3" length="43509622" type="audio/mpeg" />
       <itunes:episode>139</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Chulin 138</title>
       <description>Daf Hayomi — Chulin 138, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-138</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-138</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-138.mp3" length="29997154" type="audio/mpeg" />
       <itunes:episode>138</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Chulin 137</title>
       <description>Daf Hayomi — Chulin 137, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-137</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-137</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-137.mp3" length="29400844" type="audio/mpeg" />
       <itunes:episode>137</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Chulin 136</title>
       <description>Daf Hayomi — Chulin 136, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-136</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-136</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-136.mp3" length="38014977" type="audio/mpeg" />
       <itunes:episode>136</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Chulin 135</title>
       <description>Daf Hayomi — Chulin 135, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-135</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-135</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-135.mp3" length="35472364" type="audio/mpeg" />
       <itunes:episode>135</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,7 +117,7 @@
     <item>
       <title>Chulin 134</title>
       <description>Daf Hayomi — Chulin 134, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-134</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-134</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-134.mp3" length="44216437" type="audio/mpeg" />
       <itunes:episode>134</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Chulin 133</title>
       <description>Daf Hayomi — Chulin 133, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-133</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-133</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-133.mp3" length="41468824" type="audio/mpeg" />
       <itunes:episode>133</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -126,7 +139,7 @@
     <item>
       <title>Chulin 132</title>
       <description>Daf Hayomi — Chulin 132, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-132</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-132</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-132.mp3" length="36775924" type="audio/mpeg" />
       <itunes:episode>132</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +150,7 @@
     <item>
       <title>Chulin 131</title>
       <description>Daf Hayomi — Chulin 131, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-131</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-131</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-131.mp3" length="36329299" type="audio/mpeg" />
       <itunes:episode>131</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -148,7 +161,7 @@
     <item>
       <title>Chulin 130</title>
       <description>Daf Hayomi — Chulin 130, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-130</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-130</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-130.mp3" length="26956137" type="audio/mpeg" />
       <itunes:episode>130</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +172,7 @@
     <item>
       <title>Chulin 129</title>
       <description>Daf Hayomi — Chulin 129, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-129</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-129</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-129.mp3" length="41099362" type="audio/mpeg" />
       <itunes:episode>129</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -170,7 +183,7 @@
     <item>
       <title>Chulin 128</title>
       <description>Daf Hayomi — Chulin 128, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-128</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-128</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-128.mp3" length="39916497" type="audio/mpeg" />
       <itunes:episode>128</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -181,7 +194,7 @@
     <item>
       <title>Chulin 127</title>
       <description>Daf Hayomi — Chulin 127, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-127</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-127</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-127.mp3" length="44772879" type="audio/mpeg" />
       <itunes:episode>127</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +205,7 @@
     <item>
       <title>Chulin 126</title>
       <description>Daf Hayomi — Chulin 126, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-126</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-126</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-126.mp3" length="34594996" type="audio/mpeg" />
       <itunes:episode>126</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,7 +216,7 @@
     <item>
       <title>Chulin 125</title>
       <description>Daf Hayomi — Chulin 125, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-125</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-125</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-125.mp3" length="35059969" type="audio/mpeg" />
       <itunes:episode>125</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Chulin 124</title>
       <description>Daf Hayomi — Chulin 124, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-124</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-124</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-124.mp3" length="52606894" type="audio/mpeg" />
       <itunes:episode>124</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,7 +238,7 @@
     <item>
       <title>Chulin 123</title>
       <description>Daf Hayomi — Chulin 123, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-123</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-123</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-123.mp3" length="20717811" type="audio/mpeg" />
       <itunes:episode>123</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -236,7 +249,7 @@
     <item>
       <title>Chulin 122</title>
       <description>Daf Hayomi — Chulin 122, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-122</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-122</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-122.mp3" length="32701399" type="audio/mpeg" />
       <itunes:episode>122</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -247,7 +260,7 @@
     <item>
       <title>Chulin 121</title>
       <description>Daf Hayomi — Chulin 121, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-121</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-121</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-121.mp3" length="25584877" type="audio/mpeg" />
       <itunes:episode>121</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -258,7 +271,7 @@
     <item>
       <title>Chulin 120</title>
       <description>Daf Hayomi — Chulin 120, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-120</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-120</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-120.mp3" length="30364948" type="audio/mpeg" />
       <itunes:episode>120</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -269,7 +282,7 @@
     <item>
       <title>Chulin 119</title>
       <description>Daf Hayomi — Chulin 119, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-119</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-119</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-119.mp3" length="31437065" type="audio/mpeg" />
       <itunes:episode>119</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -280,7 +293,7 @@
     <item>
       <title>Chulin 118</title>
       <description>Daf Hayomi — Chulin 118, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-118</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-118</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-118.mp3" length="34916105" type="audio/mpeg" />
       <itunes:episode>118</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -291,7 +304,7 @@
     <item>
       <title>Chulin 117</title>
       <description>Daf Hayomi — Chulin 117, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-117</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-117</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-117.mp3" length="28078217" type="audio/mpeg" />
       <itunes:episode>117</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -302,7 +315,7 @@
     <item>
       <title>Chulin 116</title>
       <description>Daf Hayomi — Chulin 116, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-116</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-116</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-116.mp3" length="22789385" type="audio/mpeg" />
       <itunes:episode>116</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -313,7 +326,7 @@
     <item>
       <title>Chulin 115</title>
       <description>Daf Hayomi — Chulin 115, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-115</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-115</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-115.mp3" length="29684873" type="audio/mpeg" />
       <itunes:episode>115</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -324,7 +337,7 @@
     <item>
       <title>Chulin 114</title>
       <description>Daf Hayomi — Chulin 114, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-114</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-114</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-114.mp3" length="33336713" type="audio/mpeg" />
       <itunes:episode>114</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -335,7 +348,7 @@
     <item>
       <title>Chulin 113</title>
       <description>Daf Hayomi — Chulin 113, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-113</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-113</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-113.mp3" length="30076937" type="audio/mpeg" />
       <itunes:episode>113</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -346,7 +359,7 @@
     <item>
       <title>Chulin 112</title>
       <description>Daf Hayomi — Chulin 112, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-112</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-112</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-112.mp3" length="24854537" type="audio/mpeg" />
       <itunes:episode>112</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -357,7 +370,7 @@
     <item>
       <title>Chulin 111</title>
       <description>Daf Hayomi — Chulin 111, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-111</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-111</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-111.mp3" length="33572105" type="audio/mpeg" />
       <itunes:episode>111</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -368,7 +381,7 @@
     <item>
       <title>Chulin 110</title>
       <description>Daf Hayomi — Chulin 110, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-110</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-110</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-110.mp3" length="22404617" type="audio/mpeg" />
       <itunes:episode>110</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -379,7 +392,7 @@
     <item>
       <title>Chulin 109</title>
       <description>Daf Hayomi — Chulin 109, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-109</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-109</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-109.mp3" length="16430344" type="audio/mpeg" />
       <itunes:episode>109</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -390,7 +403,7 @@
     <item>
       <title>Chulin 108</title>
       <description>Daf Hayomi — Chulin 108, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-108</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-108</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-108.mp3" length="42998537" type="audio/mpeg" />
       <itunes:episode>108</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -401,7 +414,7 @@
     <item>
       <title>Chulin 107</title>
       <description>Daf Hayomi — Chulin 107, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-107</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-107</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-107.mp3" length="26835977" type="audio/mpeg" />
       <itunes:episode>107</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -412,7 +425,7 @@
     <item>
       <title>Chulin 106</title>
       <description>Daf Hayomi — Chulin 106, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-106</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-106</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-106.mp3" length="26881673" type="audio/mpeg" />
       <itunes:episode>106</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -423,7 +436,7 @@
     <item>
       <title>Chulin 105</title>
       <description>Daf Hayomi — Chulin 105, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-105</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-105</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-105.mp3" length="31203977" type="audio/mpeg" />
       <itunes:episode>105</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -434,7 +447,7 @@
     <item>
       <title>Chulin 104</title>
       <description>Daf Hayomi — Chulin 104, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-104</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-104</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-104.mp3" length="27612425" type="audio/mpeg" />
       <itunes:episode>104</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -445,7 +458,7 @@
     <item>
       <title>Chulin 103</title>
       <description>Daf Hayomi — Chulin 103, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-103</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-103</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-103.mp3" length="28616585" type="audio/mpeg" />
       <itunes:episode>103</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -456,7 +469,7 @@
     <item>
       <title>Chulin 102</title>
       <description>Daf Hayomi — Chulin 102, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-102</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-102</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-102.mp3" length="25207433" type="audio/mpeg" />
       <itunes:episode>102</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -467,7 +480,7 @@
     <item>
       <title>Chulin 101</title>
       <description>Daf Hayomi — Chulin 101, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-101</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-101</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-101.mp3" length="24770825" type="audio/mpeg" />
       <itunes:episode>101</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -478,7 +491,7 @@
     <item>
       <title>Chulin 100</title>
       <description>Daf Hayomi — Chulin 100, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-100</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-100</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-100.mp3" length="24560777" type="audio/mpeg" />
       <itunes:episode>100</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -489,7 +502,7 @@
     <item>
       <title>Chulin 99</title>
       <description>Daf Hayomi — Chulin 99, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-99</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-99</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-099.mp3" length="23297417" type="audio/mpeg" />
       <itunes:episode>99</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -500,7 +513,7 @@
     <item>
       <title>Chulin 98</title>
       <description>Daf Hayomi — Chulin 98, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-98</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-98</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-098.mp3" length="33202313" type="audio/mpeg" />
       <itunes:episode>98</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -511,7 +524,7 @@
     <item>
       <title>Chulin 97</title>
       <description>Daf Hayomi — Chulin 97, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-97</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-97</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-097.mp3" length="25774217" type="audio/mpeg" />
       <itunes:episode>97</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -522,7 +535,7 @@
     <item>
       <title>Chulin 96</title>
       <description>Daf Hayomi — Chulin 96, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-96</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-96</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-096.mp3" length="27951497" type="audio/mpeg" />
       <itunes:episode>96</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -533,7 +546,7 @@
     <item>
       <title>Chulin 95</title>
       <description>Daf Hayomi — Chulin 95, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-95</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-95</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-095.mp3" length="31979273" type="audio/mpeg" />
       <itunes:episode>95</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -544,7 +557,7 @@
     <item>
       <title>Chulin 94</title>
       <description>Daf Hayomi — Chulin 94, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-94</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-94</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-094.mp3" length="38787593" type="audio/mpeg" />
       <itunes:episode>94</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -555,7 +568,7 @@
     <item>
       <title>Chulin 93</title>
       <description>Daf Hayomi — Chulin 93, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-93</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-93</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-093.mp3" length="35487113" type="audio/mpeg" />
       <itunes:episode>93</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -566,7 +579,7 @@
     <item>
       <title>Chulin 92</title>
       <description>Daf Hayomi — Chulin 92, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-92</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-92</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-092.mp3" length="32084873" type="audio/mpeg" />
       <itunes:episode>92</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -577,7 +590,7 @@
     <item>
       <title>Chulin 91</title>
       <description>Daf Hayomi — Chulin 91, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-91</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-91</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-091.mp3" length="36130313" type="audio/mpeg" />
       <itunes:episode>91</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -588,7 +601,7 @@
     <item>
       <title>Chulin 90</title>
       <description>Daf Hayomi — Chulin 90, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-90</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-90</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-090.mp3" length="24596105" type="audio/mpeg" />
       <itunes:episode>90</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -599,7 +612,7 @@
     <item>
       <title>Chulin 89</title>
       <description>Daf Hayomi — Chulin 89, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-89</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-89</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-089.mp3" length="32175113" type="audio/mpeg" />
       <itunes:episode>89</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -610,7 +623,7 @@
     <item>
       <title>Chulin 88</title>
       <description>Daf Hayomi — Chulin 88, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-88</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-88</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-088.mp3" length="21551753" type="audio/mpeg" />
       <itunes:episode>88</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -621,7 +634,7 @@
     <item>
       <title>Chulin 87</title>
       <description>Daf Hayomi — Chulin 87, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-87</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-87</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-087.mp3" length="31633673" type="audio/mpeg" />
       <itunes:episode>87</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -632,7 +645,7 @@
     <item>
       <title>Chulin 86</title>
       <description>Daf Hayomi — Chulin 86, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-86</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-86</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-086.mp3" length="21341705" type="audio/mpeg" />
       <itunes:episode>86</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -643,7 +656,7 @@
     <item>
       <title>Chulin 85</title>
       <description>Daf Hayomi — Chulin 85, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-85</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-85</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-085.mp3" length="30122633" type="audio/mpeg" />
       <itunes:episode>85</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -654,7 +667,7 @@
     <item>
       <title>Chulin 84</title>
       <description>Daf Hayomi — Chulin 84, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-84</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-84</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-084.mp3" length="23969417" type="audio/mpeg" />
       <itunes:episode>84</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -665,7 +678,7 @@
     <item>
       <title>Chulin 83</title>
       <description>Daf Hayomi — Chulin 83, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-83</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-83</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-083.mp3" length="25281545" type="audio/mpeg" />
       <itunes:episode>83</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -676,7 +689,7 @@
     <item>
       <title>Chulin 82</title>
       <description>Daf Hayomi — Chulin 82, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-82</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-82</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-082.mp3" length="33334025" type="audio/mpeg" />
       <itunes:episode>82</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -687,7 +700,7 @@
     <item>
       <title>Chulin 81</title>
       <description>Daf Hayomi — Chulin 81, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-81</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-81</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-081.mp3" length="27104777" type="audio/mpeg" />
       <itunes:episode>81</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -698,7 +711,7 @@
     <item>
       <title>Chulin 80</title>
       <description>Daf Hayomi — Chulin 80, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-80</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-80</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-080.mp3" length="24138377" type="audio/mpeg" />
       <itunes:episode>80</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -709,7 +722,7 @@
     <item>
       <title>Chulin 79</title>
       <description>Daf Hayomi — Chulin 79, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-79</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-79</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-079.mp3" length="34417673" type="audio/mpeg" />
       <itunes:episode>79</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -720,7 +733,7 @@
     <item>
       <title>Chulin 78</title>
       <description>Daf Hayomi — Chulin 78, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-78</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-78</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-078.mp3" length="24233225" type="audio/mpeg" />
       <itunes:episode>78</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -731,7 +744,7 @@
     <item>
       <title>Chulin 77</title>
       <description>Daf Hayomi — Chulin 77, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-77</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-77</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-077.mp3" length="33936137" type="audio/mpeg" />
       <itunes:episode>77</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -742,7 +755,7 @@
     <item>
       <title>Chulin 76</title>
       <description>Daf Hayomi — Chulin 76, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-76</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-76</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-076.mp3" length="34039817" type="audio/mpeg" />
       <itunes:episode>76</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -753,7 +766,7 @@
     <item>
       <title>Chulin 75</title>
       <description>Daf Hayomi — Chulin 75, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-75</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-75</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-075.mp3" length="37107593" type="audio/mpeg" />
       <itunes:episode>75</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -764,7 +777,7 @@
     <item>
       <title>Chulin 74</title>
       <description>Daf Hayomi — Chulin 74, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-74</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-74</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-074.mp3" length="23027465" type="audio/mpeg" />
       <itunes:episode>74</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -775,7 +788,7 @@
     <item>
       <title>Chulin 73</title>
       <description>Daf Hayomi — Chulin 73, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-73</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-73</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-073.mp3" length="32358665" type="audio/mpeg" />
       <itunes:episode>73</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -786,7 +799,7 @@
     <item>
       <title>Chulin 72</title>
       <description>Daf Hayomi — Chulin 72, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-72</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-72</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-072.mp3" length="35141897" type="audio/mpeg" />
       <itunes:episode>72</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -797,7 +810,7 @@
     <item>
       <title>Chulin 71</title>
       <description>Daf Hayomi — Chulin 71, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-71</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-71</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-071.mp3" length="37486891" type="audio/mpeg" />
       <itunes:episode>71</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -808,7 +821,7 @@
     <item>
       <title>Chulin 70</title>
       <description>Daf Hayomi — Chulin 70, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-70</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-70</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-070.mp3" length="40026168" type="audio/mpeg" />
       <itunes:episode>70</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -819,7 +832,7 @@
     <item>
       <title>Chulin 69</title>
       <description>Daf Hayomi — Chulin 69, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-69</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-69</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-069.mp3" length="45780187" type="audio/mpeg" />
       <itunes:episode>69</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -830,7 +843,7 @@
     <item>
       <title>Chulin 68</title>
       <description>Daf Hayomi — Chulin 68, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-68</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-68</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-068.mp3" length="37889296" type="audio/mpeg" />
       <itunes:episode>68</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -841,7 +854,7 @@
     <item>
       <title>Chulin 67</title>
       <description>Daf Hayomi — Chulin 67, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-67</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-67</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-067.mp3" length="17222536" type="audio/mpeg" />
       <itunes:episode>67</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -852,7 +865,7 @@
     <item>
       <title>Chulin 66</title>
       <description>Daf Hayomi — Chulin 66, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-66</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-66</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-066.mp3" length="36825529" type="audio/mpeg" />
       <itunes:episode>66</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -863,7 +876,7 @@
     <item>
       <title>Chulin 65</title>
       <description>Daf Hayomi — Chulin 65, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-65</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-65</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-065.mp3" length="27707154" type="audio/mpeg" />
       <itunes:episode>65</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -874,7 +887,7 @@
     <item>
       <title>Chulin 64</title>
       <description>Daf Hayomi — Chulin 64, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-64</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-64</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-064.mp3" length="26801266" type="audio/mpeg" />
       <itunes:episode>64</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -885,7 +898,7 @@
     <item>
       <title>Chulin 63</title>
       <description>Daf Hayomi — Chulin 63, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-63</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-63</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-063.mp3" length="28274825" type="audio/mpeg" />
       <itunes:episode>63</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -896,7 +909,7 @@
     <item>
       <title>Chulin 62</title>
       <description>Daf Hayomi — Chulin 62, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-62</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-62</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-062.mp3" length="25283465" type="audio/mpeg" />
       <itunes:episode>62</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -907,7 +920,7 @@
     <item>
       <title>Chulin 61</title>
       <description>Daf Hayomi — Chulin 61, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-61</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-61</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-061.mp3" length="17477896" type="audio/mpeg" />
       <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -918,7 +931,7 @@
     <item>
       <title>Chulin 60</title>
       <description>Daf Hayomi — Chulin 60, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-60</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-60</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-060.mp3" length="35018633" type="audio/mpeg" />
       <itunes:episode>60</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -929,7 +942,7 @@
     <item>
       <title>Chulin 59</title>
       <description>Daf Hayomi — Chulin 59, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-59</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-59</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-059.mp3" length="37236233" type="audio/mpeg" />
       <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -940,7 +953,7 @@
     <item>
       <title>Chulin 58</title>
       <description>Daf Hayomi — Chulin 58, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-58</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-58</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-058.mp3" length="26889353" type="audio/mpeg" />
       <itunes:episode>58</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -951,7 +964,7 @@
     <item>
       <title>Chulin 57</title>
       <description>Daf Hayomi — Chulin 57, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-57</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-57</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-057.mp3" length="27529094" type="audio/mpeg" />
       <itunes:episode>57</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -962,7 +975,7 @@
     <item>
       <title>Chulin 56</title>
       <description>Daf Hayomi — Chulin 56, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-56</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-56</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-056.mp3" length="24076934" type="audio/mpeg" />
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -973,7 +986,7 @@
     <item>
       <title>Chulin 55</title>
       <description>Daf Hayomi — Chulin 55, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-55</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-55</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-055.mp3" length="32837510" type="audio/mpeg" />
       <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -984,7 +997,7 @@
     <item>
       <title>Chulin 54</title>
       <description>Daf Hayomi — Chulin 54, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-54</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-54</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-054.mp3" length="26765702" type="audio/mpeg" />
       <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -995,7 +1008,7 @@
     <item>
       <title>Chulin 53</title>
       <description>Daf Hayomi — Chulin 53, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-53</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-53</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-053.mp3" length="28015622" type="audio/mpeg" />
       <itunes:episode>53</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1006,7 +1019,7 @@
     <item>
       <title>Chulin 52</title>
       <description>Daf Hayomi — Chulin 52, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-52</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-52</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-052.mp3" length="28314374" type="audio/mpeg" />
       <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1017,7 +1030,7 @@
     <item>
       <title>Chulin 51</title>
       <description>Daf Hayomi — Chulin 51, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-51</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-51</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-051.mp3" length="26597510" type="audio/mpeg" />
       <itunes:episode>51</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1028,7 +1041,7 @@
     <item>
       <title>Chulin 50</title>
       <description>Daf Hayomi — Chulin 50, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-50</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-50</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-050.mp3" length="30155270" type="audio/mpeg" />
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1039,7 +1052,7 @@
     <item>
       <title>Chulin 49</title>
       <description>Daf Hayomi — Chulin 49, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-49</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-49</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-049.mp3" length="32978054" type="audio/mpeg" />
       <itunes:episode>49</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1050,7 +1063,7 @@
     <item>
       <title>Chulin 48</title>
       <description>Daf Hayomi — Chulin 48, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-48</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-48</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-048.mp3" length="29566214" type="audio/mpeg" />
       <itunes:episode>48</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1061,7 +1074,7 @@
     <item>
       <title>Chulin 47</title>
       <description>Daf Hayomi — Chulin 47, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-47</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-47</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-047.mp3" length="27233030" type="audio/mpeg" />
       <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1072,7 +1085,7 @@
     <item>
       <title>Chulin 46</title>
       <description>Daf Hayomi — Chulin 46, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-46</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-46</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-046.mp3" length="30873734" type="audio/mpeg" />
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1083,7 +1096,7 @@
     <item>
       <title>Chulin 45</title>
       <description>Daf Hayomi — Chulin 45, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-45</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-45</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-045.mp3" length="31507334" type="audio/mpeg" />
       <itunes:episode>45</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1094,7 +1107,7 @@
     <item>
       <title>Chulin 44</title>
       <description>Daf Hayomi — Chulin 44, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-44</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-44</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-044.mp3" length="21309830" type="audio/mpeg" />
       <itunes:episode>44</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1105,7 +1118,7 @@
     <item>
       <title>Chulin 43</title>
       <description>Daf Hayomi — Chulin 43, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-43</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-43</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-043.mp3" length="41152262" type="audio/mpeg" />
       <itunes:episode>43</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1116,7 +1129,7 @@
     <item>
       <title>Chulin 42</title>
       <description>Daf Hayomi — Chulin 42, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-42</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-42</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-042.mp3" length="25241222" type="audio/mpeg" />
       <itunes:episode>42</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1127,7 +1140,7 @@
     <item>
       <title>Chulin 41</title>
       <description>Daf Hayomi — Chulin 41, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-41</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-41</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-041.mp3" length="26642054" type="audio/mpeg" />
       <itunes:episode>41</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1138,7 +1151,7 @@
     <item>
       <title>Chulin 40</title>
       <description>Daf Hayomi — Chulin 40, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-40</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-40</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-040.mp3" length="17379973" type="audio/mpeg" />
       <itunes:episode>40</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1149,7 +1162,7 @@
     <item>
       <title>Chulin 39</title>
       <description>Daf Hayomi — Chulin 39, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-39</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-39</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-039.mp3" length="23443334" type="audio/mpeg" />
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1160,7 +1173,7 @@
     <item>
       <title>Chulin 38</title>
       <description>Daf Hayomi — Chulin 38, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-38</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-38</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-038.mp3" length="24710150" type="audio/mpeg" />
       <itunes:episode>38</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1171,7 +1184,7 @@
     <item>
       <title>Chulin 37</title>
       <description>Daf Hayomi — Chulin 37, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-37</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-37</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-037.mp3" length="21277574" type="audio/mpeg" />
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1182,7 +1195,7 @@
     <item>
       <title>Chulin 36</title>
       <description>Daf Hayomi — Chulin 36, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-36</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-36</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-036.mp3" length="24651014" type="audio/mpeg" />
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1193,7 +1206,7 @@
     <item>
       <title>Chulin 35</title>
       <description>Daf Hayomi — Chulin 35, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-35</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-035.mp3" length="22807430" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1204,7 +1217,7 @@
     <item>
       <title>Chulin 34</title>
       <description>Daf Hayomi — Chulin 34, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-34</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-034.mp3" length="27639302" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1215,7 +1228,7 @@
     <item>
       <title>Chulin 33</title>
       <description>Daf Hayomi — Chulin 33, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-33</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-033.mp3" length="27977990" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1226,7 +1239,7 @@
     <item>
       <title>Chulin 32</title>
       <description>Daf Hayomi — Chulin 32, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-32</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-032.mp3" length="28072454" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1237,7 +1250,7 @@
     <item>
       <title>Chulin 31</title>
       <description>Daf Hayomi — Chulin 31, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-31</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-031.mp3" length="26952710" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1248,7 +1261,7 @@
     <item>
       <title>Chulin 30</title>
       <description>Daf Hayomi — Chulin 30, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-30</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-030.mp3" length="26731142" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1259,7 +1272,7 @@
     <item>
       <title>Chulin 29</title>
       <description>Daf Hayomi — Chulin 29, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-29</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-029.mp3" length="42743174" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1270,7 +1283,7 @@
     <item>
       <title>Chulin 28</title>
       <description>Daf Hayomi — Chulin 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-028.mp3" length="26771462" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1281,7 +1294,7 @@
     <item>
       <title>Chulin 27</title>
       <description>Daf Hayomi — Chulin 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-027.mp3" length="34291334" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1292,7 +1305,7 @@
     <item>
       <title>Chulin 26</title>
       <description>Daf Hayomi — Chulin 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-026.mp3" length="32783750" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1303,7 +1316,7 @@
     <item>
       <title>Chulin 25</title>
       <description>Daf Hayomi — Chulin 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-025.mp3" length="25557254" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1314,7 +1327,7 @@
     <item>
       <title>Chulin 24</title>
       <description>Daf Hayomi — Chulin 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-024.mp3" length="23022470" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1325,7 +1338,7 @@
     <item>
       <title>Chulin 23</title>
       <description>Daf Hayomi — Chulin 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-023.mp3" length="15280261" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1336,7 +1349,7 @@
     <item>
       <title>Chulin 22</title>
       <description>Daf Hayomi — Chulin 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-022.mp3" length="13528453" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1347,7 +1360,7 @@
     <item>
       <title>Chulin 21</title>
       <description>Daf Hayomi — Chulin 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-021.mp3" length="19798790" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1358,7 +1371,7 @@
     <item>
       <title>Chulin 20</title>
       <description>Daf Hayomi — Chulin 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-020.mp3" length="33670022" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1369,7 +1382,7 @@
     <item>
       <title>Chulin 19</title>
       <description>Daf Hayomi — Chulin 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-019.mp3" length="32150534" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1380,7 +1393,7 @@
     <item>
       <title>Chulin 18</title>
       <description>Daf Hayomi — Chulin 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-018.mp3" length="35102342" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1391,7 +1404,7 @@
     <item>
       <title>Chulin 17</title>
       <description>Daf Hayomi — Chulin 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-017.mp3" length="24766982" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1402,7 +1415,7 @@
     <item>
       <title>Chulin 16</title>
       <description>Daf Hayomi — Chulin 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-016.mp3" length="30945542" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1413,7 +1426,7 @@
     <item>
       <title>Chulin 15</title>
       <description>Daf Hayomi — Chulin 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-015.mp3" length="19796102" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1424,7 +1437,7 @@
     <item>
       <title>Chulin 14</title>
       <description>Daf Hayomi — Chulin 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-014.mp3" length="27396614" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1435,7 +1448,7 @@
     <item>
       <title>Chulin 13</title>
       <description>Daf Hayomi — Chulin 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-013.mp3" length="26292614" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1446,7 +1459,7 @@
     <item>
       <title>Chulin 12</title>
       <description>Daf Hayomi — Chulin 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-012.mp3" length="21157382" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1457,7 +1470,7 @@
     <item>
       <title>Chulin 11</title>
       <description>Daf Hayomi — Chulin 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-011.mp3" length="24065414" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1468,7 +1481,7 @@
     <item>
       <title>Chulin 10</title>
       <description>Daf Hayomi — Chulin 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-010.mp3" length="38393866" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1479,7 +1492,7 @@
     <item>
       <title>Chulin 9</title>
       <description>Daf Hayomi — Chulin 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-009.mp3" length="32591892" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1490,7 +1503,7 @@
     <item>
       <title>Chulin 8</title>
       <description>Daf Hayomi — Chulin 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-008.mp3" length="36252318" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1501,7 +1514,7 @@
     <item>
       <title>Chulin 7</title>
       <description>Daf Hayomi — Chulin 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-007.mp3" length="25913056" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1512,7 +1525,7 @@
     <item>
       <title>Chulin 6</title>
       <description>Daf Hayomi — Chulin 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-006.mp3" length="25661702" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1523,7 +1536,7 @@
     <item>
       <title>Chulin 5</title>
       <description>Daf Hayomi — Chulin 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-005.mp3" length="25362182" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1534,7 +1547,7 @@
     <item>
       <title>Chulin 4</title>
       <description>Daf Hayomi — Chulin 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-004.mp3" length="30579590" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1545,7 +1558,7 @@
     <item>
       <title>Chulin 3</title>
       <description>Daf Hayomi — Chulin 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-003.mp3" length="26793350" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1556,7 +1569,7 @@
     <item>
       <title>Chulin 2</title>
       <description>Daf Hayomi — Chulin 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-31-chulin-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-chulin-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/31-Chulin-002.mp3" length="29511302" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

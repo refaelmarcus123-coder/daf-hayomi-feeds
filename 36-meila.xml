@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Meilá — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-meila-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Meilá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:33:56 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/36-meila.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/meila.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/meila.jpg</url>
+  <title>Daf Hayomi — Meilá — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Meilá 37</title>
       <description>Daf Hayomi — Meilá 37, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-37</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-37</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-037.mp3" length="22946935" type="audio/mpeg" />
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Meilá 36</title>
       <description>Daf Hayomi — Meilá 36, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-36</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-36</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-036.mp3" length="31245235" type="audio/mpeg" />
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Meilá 35</title>
       <description>Daf Hayomi — Meilá 35, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-35</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-035.mp3" length="30872020" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Meilá 34</title>
       <description>Daf Hayomi — Meilá 34, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-34</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-034.mp3" length="31138647" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Meilá 33</title>
       <description>Daf Hayomi — Meilá 33, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-33</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-033.mp3" length="17565966" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Meilá 32</title>
       <description>Daf Hayomi — Meilá 32, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-32</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-032.mp3" length="20395059" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Meilá 31</title>
       <description>Daf Hayomi — Meilá 31, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-31</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-031.mp3" length="25951167" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Meilá 30</title>
       <description>Daf Hayomi — Meilá 30, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-30</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-030.mp3" length="20341936" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,7 +117,7 @@
     <item>
       <title>Meilá 29</title>
       <description>Daf Hayomi — Meilá 29, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-29</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-029.mp3" length="20324422" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Meilá 28</title>
       <description>Daf Hayomi — Meilá 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-028.mp3" length="16970898" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -126,7 +139,7 @@
     <item>
       <title>Meilá 27</title>
       <description>Daf Hayomi — Meilá 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-027.mp3" length="17137707" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +150,7 @@
     <item>
       <title>Meilá 26</title>
       <description>Daf Hayomi — Meilá 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-026.mp3" length="13452678" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -148,7 +161,7 @@
     <item>
       <title>Meilá 25</title>
       <description>Daf Hayomi — Meilá 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-025.mp3" length="16350575" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +172,7 @@
     <item>
       <title>Meilá 24</title>
       <description>Daf Hayomi — Meilá 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-024.mp3" length="22008015" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -170,7 +183,7 @@
     <item>
       <title>Meilá 23</title>
       <description>Daf Hayomi — Meilá 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-023.mp3" length="24248556" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -181,7 +194,7 @@
     <item>
       <title>Meilá 22</title>
       <description>Daf Hayomi — Meilá 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-022.mp3" length="26670075" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +205,7 @@
     <item>
       <title>Meilá 21</title>
       <description>Daf Hayomi — Meilá 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-021.mp3" length="31532128" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,7 +216,7 @@
     <item>
       <title>Meilá 20</title>
       <description>Daf Hayomi — Meilá 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-020.mp3" length="14427624" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Meilá 19</title>
       <description>Daf Hayomi — Meilá 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-019.mp3" length="13619895" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,7 +238,7 @@
     <item>
       <title>Meilá 18</title>
       <description>Daf Hayomi — Meilá 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-018.mp3" length="14962635" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -236,7 +249,7 @@
     <item>
       <title>Meilá 17</title>
       <description>Daf Hayomi — Meilá 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-017.mp3" length="35378122" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -247,7 +260,7 @@
     <item>
       <title>Meilá 16</title>
       <description>Daf Hayomi — Meilá 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-016.mp3" length="17322602" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -258,7 +271,7 @@
     <item>
       <title>Meilá 15</title>
       <description>Daf Hayomi — Meilá 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-015.mp3" length="20524326" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -269,7 +282,7 @@
     <item>
       <title>Meilá 14</title>
       <description>Daf Hayomi — Meilá 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-014.mp3" length="17527766" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -280,7 +293,7 @@
     <item>
       <title>Meilá 13</title>
       <description>Daf Hayomi — Meilá 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-013.mp3" length="18679521" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -291,7 +304,7 @@
     <item>
       <title>Meilá 12</title>
       <description>Daf Hayomi — Meilá 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-012.mp3" length="12197672" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -302,7 +315,7 @@
     <item>
       <title>Meilá 11</title>
       <description>Daf Hayomi — Meilá 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-011.mp3" length="16058258" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -313,7 +326,7 @@
     <item>
       <title>Meilá 10</title>
       <description>Daf Hayomi — Meilá 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-010.mp3" length="7877969" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -324,7 +337,7 @@
     <item>
       <title>Meilá 9</title>
       <description>Daf Hayomi — Meilá 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-009.mp3" length="32116095" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -335,7 +348,7 @@
     <item>
       <title>Meilá 8</title>
       <description>Daf Hayomi — Meilá 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-008.mp3" length="15251363" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -346,7 +359,7 @@
     <item>
       <title>Meilá 7</title>
       <description>Daf Hayomi — Meilá 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-007.mp3" length="11685596" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -357,7 +370,7 @@
     <item>
       <title>Meilá 6</title>
       <description>Daf Hayomi — Meilá 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-006.mp3" length="41049316" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -368,7 +381,7 @@
     <item>
       <title>Meilá 5</title>
       <description>Daf Hayomi — Meilá 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-005.mp3" length="18501715" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -379,7 +392,7 @@
     <item>
       <title>Meilá 4</title>
       <description>Daf Hayomi — Meilá 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-004.mp3" length="27898393" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -390,7 +403,7 @@
     <item>
       <title>Meilá 3</title>
       <description>Daf Hayomi — Meilá 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-003.mp3" length="14186181" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -401,7 +414,7 @@
     <item>
       <title>Meilá 2</title>
       <description>Daf Hayomi — Meilá 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-36-meila-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-meila-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/36-Meila-002.mp3" length="26510200" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

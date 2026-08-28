@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Sucá — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-suca-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Sucá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:27:24 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/07-suca.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/suca.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/suca.jpg</url>
+  <title>Daf Hayomi — Sucá — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Sucá 56</title>
       <description>Daf Hayomi — Sucá 56, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-56</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-56</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-056.mp3" length="28154595" type="audio/mpeg" />
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Sucá 55</title>
       <description>Daf Hayomi — Sucá 55, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-55</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-55</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-055.mp3" length="31589424" type="audio/mpeg" />
       <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Sucá 54</title>
       <description>Daf Hayomi — Sucá 54, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-54</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-54</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-054.mp3" length="27349368" type="audio/mpeg" />
       <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Sucá 53</title>
       <description>Daf Hayomi — Sucá 53, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-53</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-53</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-053.mp3" length="36330288" type="audio/mpeg" />
       <itunes:episode>53</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Sucá 52</title>
       <description>Daf Hayomi — Sucá 52, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-52</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-52</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-052.mp3" length="33240741" type="audio/mpeg" />
       <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Sucá 51</title>
       <description>Daf Hayomi — Sucá 51, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-51</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-51</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-051.mp3" length="38505786" type="audio/mpeg" />
       <itunes:episode>51</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Sucá 50</title>
       <description>Daf Hayomi — Sucá 50, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-50</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-50</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-050.mp3" length="22648110" type="audio/mpeg" />
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Sucá 49</title>
       <description>Daf Hayomi — Sucá 49, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-49</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-49</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-049.mp3" length="24944112" type="audio/mpeg" />
       <itunes:episode>49</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,7 +117,7 @@
     <item>
       <title>Sucá 48</title>
       <description>Daf Hayomi — Sucá 48, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-48</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-48</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-048.mp3" length="21981327" type="audio/mpeg" />
       <itunes:episode>48</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Sucá 47</title>
       <description>Daf Hayomi — Sucá 47, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-47</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-47</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-047.mp3" length="23179785" type="audio/mpeg" />
       <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -126,7 +139,7 @@
     <item>
       <title>Sucá 46</title>
       <description>Daf Hayomi — Sucá 46, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-46</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-46</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-046.mp3" length="41410608" type="audio/mpeg" />
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +150,7 @@
     <item>
       <title>Sucá 45</title>
       <description>Daf Hayomi — Sucá 45, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-45</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-45</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-045.mp3" length="29333454" type="audio/mpeg" />
       <itunes:episode>45</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -148,7 +161,7 @@
     <item>
       <title>Sucá 44</title>
       <description>Daf Hayomi — Sucá 44, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-44</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-44</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-044.mp3" length="28717128" type="audio/mpeg" />
       <itunes:episode>44</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +172,7 @@
     <item>
       <title>Sucá 43</title>
       <description>Daf Hayomi — Sucá 43, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-43</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-43</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-043.mp3" length="22655616" type="audio/mpeg" />
       <itunes:episode>43</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -170,7 +183,7 @@
     <item>
       <title>Sucá 42</title>
       <description>Daf Hayomi — Sucá 42, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-42</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-42</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-042.mp3" length="21359571" type="audio/mpeg" />
       <itunes:episode>42</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -181,7 +194,7 @@
     <item>
       <title>Sucá 41</title>
       <description>Daf Hayomi — Sucá 41, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-41</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-41</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-041.mp3" length="32939670" type="audio/mpeg" />
       <itunes:episode>41</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +205,7 @@
     <item>
       <title>Sucá 40</title>
       <description>Daf Hayomi — Sucá 40, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-40</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-40</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-040.mp3" length="25579620" type="audio/mpeg" />
       <itunes:episode>40</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,7 +216,7 @@
     <item>
       <title>Sucá 39</title>
       <description>Daf Hayomi — Sucá 39, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-39</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-39</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-039.mp3" length="23431825" type="audio/mpeg" />
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Sucá 38</title>
       <description>Daf Hayomi — Sucá 38, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-38</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-38</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-038.mp3" length="26144410" type="audio/mpeg" />
       <itunes:episode>38</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,7 +238,7 @@
     <item>
       <title>Sucá 37</title>
       <description>Daf Hayomi — Sucá 37, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-37</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-37</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-037.mp3" length="34312434" type="audio/mpeg" />
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -236,7 +249,7 @@
     <item>
       <title>Sucá 36</title>
       <description>Daf Hayomi — Sucá 36, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-36</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-36</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-036.mp3" length="25606308" type="audio/mpeg" />
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -247,7 +260,7 @@
     <item>
       <title>Sucá 35</title>
       <description>Daf Hayomi — Sucá 35, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-35</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-035.mp3" length="35319072" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -258,7 +271,7 @@
     <item>
       <title>Sucá 34</title>
       <description>Daf Hayomi — Sucá 34, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-34</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-034.mp3" length="23816716" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -269,7 +282,7 @@
     <item>
       <title>Sucá 33</title>
       <description>Daf Hayomi — Sucá 33, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-33</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-033.mp3" length="38001388" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -280,7 +293,7 @@
     <item>
       <title>Sucá 32</title>
       <description>Daf Hayomi — Sucá 32, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-32</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-032.mp3" length="26309542" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -291,7 +304,7 @@
     <item>
       <title>Sucá 31</title>
       <description>Daf Hayomi — Sucá 31, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-31</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-031.mp3" length="30140104" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -302,7 +315,7 @@
     <item>
       <title>Sucá 30</title>
       <description>Daf Hayomi — Sucá 30, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-30</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-030.mp3" length="27142119" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -313,7 +326,7 @@
     <item>
       <title>Sucá 29</title>
       <description>Daf Hayomi — Sucá 29, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-29</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-029.mp3" length="18517725" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -324,7 +337,7 @@
     <item>
       <title>Sucá 28</title>
       <description>Daf Hayomi — Sucá 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-028.mp3" length="23048430" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -335,7 +348,7 @@
     <item>
       <title>Sucá 27</title>
       <description>Daf Hayomi — Sucá 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-027.mp3" length="34839939" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -346,7 +359,7 @@
     <item>
       <title>Sucá 26</title>
       <description>Daf Hayomi — Sucá 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-026.mp3" length="29541537" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -357,7 +370,7 @@
     <item>
       <title>Sucá 25</title>
       <description>Daf Hayomi — Sucá 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-025.mp3" length="26276010" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -368,7 +381,7 @@
     <item>
       <title>Sucá 24</title>
       <description>Daf Hayomi — Sucá 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-024.mp3" length="27571629" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -379,7 +392,7 @@
     <item>
       <title>Sucá 23</title>
       <description>Daf Hayomi — Sucá 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-023.mp3" length="33408378" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -390,7 +403,7 @@
     <item>
       <title>Sucá 22</title>
       <description>Daf Hayomi — Sucá 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-022.mp3" length="26393604" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -401,7 +414,7 @@
     <item>
       <title>Sucá 21</title>
       <description>Daf Hayomi — Sucá 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-021.mp3" length="36093024" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -412,7 +425,7 @@
     <item>
       <title>Sucá 20</title>
       <description>Daf Hayomi — Sucá 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-020.mp3" length="28140417" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -423,7 +436,7 @@
     <item>
       <title>Sucá 19</title>
       <description>Daf Hayomi — Sucá 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-019.mp3" length="24790239" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -434,7 +447,7 @@
     <item>
       <title>Sucá 18</title>
       <description>Daf Hayomi — Sucá 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-018.mp3" length="37281057" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -445,7 +458,7 @@
     <item>
       <title>Sucá 17</title>
       <description>Daf Hayomi — Sucá 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-017.mp3" length="42920565" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -456,7 +469,7 @@
     <item>
       <title>Sucá 16</title>
       <description>Daf Hayomi — Sucá 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-016.mp3" length="28867248" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -467,7 +480,7 @@
     <item>
       <title>Sucá 15</title>
       <description>Daf Hayomi — Sucá 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-015.mp3" length="38829795" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -478,7 +491,7 @@
     <item>
       <title>Sucá 14</title>
       <description>Daf Hayomi — Sucá 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-014.mp3" length="35494629" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -489,7 +502,7 @@
     <item>
       <title>Sucá 13</title>
       <description>Daf Hayomi — Sucá 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-013.mp3" length="44193267" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -500,7 +513,7 @@
     <item>
       <title>Sucá 12</title>
       <description>Daf Hayomi — Sucá 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-012.mp3" length="34213605" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -511,7 +524,7 @@
     <item>
       <title>Sucá 11</title>
       <description>Daf Hayomi — Sucá 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-011.mp3" length="31192023" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -522,7 +535,7 @@
     <item>
       <title>Sucá 10</title>
       <description>Daf Hayomi — Sucá 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-010.mp3" length="28999854" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -533,7 +546,7 @@
     <item>
       <title>Sucá 9</title>
       <description>Daf Hayomi — Sucá 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-009.mp3" length="29475234" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -544,7 +557,7 @@
     <item>
       <title>Sucá 8</title>
       <description>Daf Hayomi — Sucá 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-008.mp3" length="27783462" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -555,7 +568,7 @@
     <item>
       <title>Sucá 7</title>
       <description>Daf Hayomi — Sucá 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-007.mp3" length="33857487" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -566,7 +579,7 @@
     <item>
       <title>Sucá 6</title>
       <description>Daf Hayomi — Sucá 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-006.mp3" length="20513904" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -577,7 +590,7 @@
     <item>
       <title>Sucá 5</title>
       <description>Daf Hayomi — Sucá 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-005.mp3" length="26499522" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -588,7 +601,7 @@
     <item>
       <title>Sucá 4</title>
       <description>Daf Hayomi — Sucá 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-004.mp3" length="36788997" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -599,7 +612,7 @@
     <item>
       <title>Sucá 3</title>
       <description>Daf Hayomi — Sucá 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-003.mp3" length="30360942" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -610,7 +623,7 @@
     <item>
       <title>Sucá 2</title>
       <description>Daf Hayomi — Sucá 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-07-suca-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-suca-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/07-Suca-002.mp3" length="30486042" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

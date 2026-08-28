@@ -1,0 +1,40 @@
+02. Shabat: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/02-shabat.xml
+03. Eruvin: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/03-eruvin.xml
+04. Pessachim: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/04-pessachim.xml
+05. Shekalim: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/05-shekalim.xml
+06. Yoma: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/06-yoma.xml
+07. Sucá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/07-suca.xml
+08. Betsá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/08-betsa.xml
+09. Rosh Hashaná: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/09-rosh-hashana.xml
+10. Taanit: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/10-taanit.xml
+11. Meguilá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/11-meguila.xml
+12. Moed Catan: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/12-moed-catan.xml
+13. Chaguigá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/13-chaguiga.xml
+14. Yevamot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/14-yevamot.xml
+15. Ketubot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/15-ketubot.xml
+16. Nedarim: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/16-nedarim.xml
+17. Nazir: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/17-nazir.xml
+18. Sotá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/18-sota.xml
+19. Guitín: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/19-guitin.xml
+20. Kidushin: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/20-kidushin.xml
+21. Bavá Camá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/21-bava-cama.xml
+22. Bavá Metsiá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/22-bava-metsia.xml
+23. Bavá Batrá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/23-bava-batra.xml
+24. San'Hedrin: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/24-san-hedrin.xml
+25. Macot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/25-macot.xml
+26. Shevuot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/26-shevuot.xml
+27. Avodá Zará: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/27-avoda-zara.xml
+28. Horayot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/28-horayot.xml
+29. Zevachim: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/29-zevachim.xml
+30. Menachot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/30-menachot.xml
+31. Chulin: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/31-chulin.xml
+32. Bechorot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/32-bechorot.xml
+33. Arachin: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/33-arachin.xml
+34. Temurá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/34-temura.xml
+35. Keretot: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/35-keretot.xml
+36. Meilá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/36-meila.xml
+37. Nidá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/37-nida.xml
+38. Peá: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/38-pea.xml
+39. Demai: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/39-demai.xml
+40. Sheviit: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/40-sheviit.xml
+41. Kilayim: https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/41-kilayim.xml

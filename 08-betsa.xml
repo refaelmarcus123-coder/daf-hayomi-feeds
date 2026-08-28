@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Betsá — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-betsa-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Betsá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:27:26 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/08-betsa.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/betsa.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/betsa.jpg</url>
+  <title>Daf Hayomi — Betsá — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Betsá 40</title>
       <description>Daf Hayomi — Betsá 40, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-40</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-40</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-040.mp3" length="23603040" type="audio/mpeg" />
       <itunes:episode>40</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Betsá 39</title>
       <description>Daf Hayomi — Betsá 39, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-39</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-39</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-039.mp3" length="36963303" type="audio/mpeg" />
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Betsá 38</title>
       <description>Daf Hayomi — Betsá 38, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-38</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-38</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-038.mp3" length="27464460" type="audio/mpeg" />
       <itunes:episode>38</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Betsá 37</title>
       <description>Daf Hayomi — Betsá 37, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-37</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-37</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-037.mp3" length="32487639" type="audio/mpeg" />
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Betsá 36</title>
       <description>Daf Hayomi — Betsá 36, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-36</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-36</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-036.mp3" length="29692074" type="audio/mpeg" />
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Betsá 35</title>
       <description>Daf Hayomi — Betsá 35, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-35</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-035.mp3" length="44655702" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Betsá 34</title>
       <description>Daf Hayomi — Betsá 34, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-34</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-034.mp3" length="29459805" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Betsá 33</title>
       <description>Daf Hayomi — Betsá 33, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-33</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-033.mp3" length="30208492" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,7 +117,7 @@
     <item>
       <title>Betsá 32</title>
       <description>Daf Hayomi — Betsá 32, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-32</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-032.mp3" length="26125219" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Betsá 31</title>
       <description>Daf Hayomi — Betsá 31, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-31</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-031.mp3" length="29653293" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -126,7 +139,7 @@
     <item>
       <title>Betsá 30</title>
       <description>Daf Hayomi — Betsá 30, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-30</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-030.mp3" length="36557562" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +150,7 @@
     <item>
       <title>Betsá 29</title>
       <description>Daf Hayomi — Betsá 29, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-29</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-029.mp3" length="27314340" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -148,7 +161,7 @@
     <item>
       <title>Betsá 28</title>
       <description>Daf Hayomi — Betsá 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-028.mp3" length="28485294" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +172,7 @@
     <item>
       <title>Betsá 27</title>
       <description>Daf Hayomi — Betsá 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-027.mp3" length="29311371" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -170,7 +183,7 @@
     <item>
       <title>Betsá 26</title>
       <description>Daf Hayomi — Betsá 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-026.mp3" length="34322877" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -181,7 +194,7 @@
     <item>
       <title>Betsá 25</title>
       <description>Daf Hayomi — Betsá 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-025.mp3" length="30200832" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +205,7 @@
     <item>
       <title>Betsá 24</title>
       <description>Daf Hayomi — Betsá 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-024.mp3" length="32395086" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,7 +216,7 @@
     <item>
       <title>Betsá 23</title>
       <description>Daf Hayomi — Betsá 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-023.mp3" length="15220106" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Betsá 22</title>
       <description>Daf Hayomi — Betsá 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-022.mp3" length="44634453" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,7 +238,7 @@
     <item>
       <title>Betsá 21</title>
       <description>Daf Hayomi — Betsá 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-021.mp3" length="42637857" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -236,7 +249,7 @@
     <item>
       <title>Betsá 20</title>
       <description>Daf Hayomi — Betsá 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-020.mp3" length="25666791" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -247,7 +260,7 @@
     <item>
       <title>Betsá 19</title>
       <description>Daf Hayomi — Betsá 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-019.mp3" length="31508961" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -258,7 +271,7 @@
     <item>
       <title>Betsá 18</title>
       <description>Daf Hayomi — Betsá 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-018.mp3" length="38836068" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -269,7 +282,7 @@
     <item>
       <title>Betsá 17</title>
       <description>Daf Hayomi — Betsá 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-017.mp3" length="28136265" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -280,7 +293,7 @@
     <item>
       <title>Betsá 16</title>
       <description>Daf Hayomi — Betsá 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-016.mp3" length="18546099" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -291,7 +304,7 @@
     <item>
       <title>Betsá 15</title>
       <description>Daf Hayomi — Betsá 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-015.mp3" length="30913884" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -302,7 +315,7 @@
     <item>
       <title>Betsá 14</title>
       <description>Daf Hayomi — Betsá 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-014.mp3" length="33261177" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -313,7 +326,7 @@
     <item>
       <title>Betsá 13</title>
       <description>Daf Hayomi — Betsá 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-013.mp3" length="41212533" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -324,7 +337,7 @@
     <item>
       <title>Betsá 12</title>
       <description>Daf Hayomi — Betsá 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-012.mp3" length="25640085" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -335,7 +348,7 @@
     <item>
       <title>Betsá 11</title>
       <description>Daf Hayomi — Betsá 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-011.mp3" length="40793031" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -346,7 +359,7 @@
     <item>
       <title>Betsá 10</title>
       <description>Daf Hayomi — Betsá 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-010.mp3" length="42918063" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -357,7 +370,7 @@
     <item>
       <title>Betsá 9</title>
       <description>Daf Hayomi — Betsá 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-009.mp3" length="20976774" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -368,7 +381,7 @@
     <item>
       <title>Betsá 8</title>
       <description>Daf Hayomi — Betsá 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-008.mp3" length="36002118" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -379,7 +392,7 @@
     <item>
       <title>Betsá 7</title>
       <description>Daf Hayomi — Betsá 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-007.mp3" length="33691521" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -390,7 +403,7 @@
     <item>
       <title>Betsá 6</title>
       <description>Daf Hayomi — Betsá 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-006.mp3" length="26029563" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -401,7 +414,7 @@
     <item>
       <title>Betsá 5</title>
       <description>Daf Hayomi — Betsá 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-005.mp3" length="25555851" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -412,7 +425,7 @@
     <item>
       <title>Betsá 4</title>
       <description>Daf Hayomi — Betsá 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-004.mp3" length="30542751" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -423,7 +436,7 @@
     <item>
       <title>Betsá 3</title>
       <description>Daf Hayomi — Betsá 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-003.mp3" length="33793686" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -434,7 +447,7 @@
     <item>
       <title>Betsá 2</title>
       <description>Daf Hayomi — Betsá 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-08-betsa-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-betsa-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/08-Betsa-002.mp3" length="36106785" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

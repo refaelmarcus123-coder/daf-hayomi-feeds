@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Peá — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-pea-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Peá, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:34:01 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/38-pea.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/pea.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/pea.jpg</url>
+  <title>Daf Hayomi — Peá — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Peá 8</title>
       <description>Daf Hayomi — Peá 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-008.mp3" length="20745756" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Peá 7</title>
       <description>Daf Hayomi — Peá 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-007.mp3" length="19828773" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Peá 6</title>
       <description>Daf Hayomi — Peá 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-006.mp3" length="22023027" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Peá 5</title>
       <description>Daf Hayomi — Peá 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-005.mp3" length="18097806" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Peá 4</title>
       <description>Daf Hayomi — Peá 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-004.mp3" length="18039009" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Peá 3</title>
       <description>Daf Hayomi — Peá 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-003.mp3" length="19900497" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Peá 2</title>
       <description>Daf Hayomi — Peá 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-002.mp3" length="16190447" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Peá 1</title>
       <description>Daf Hayomi — Peá 1, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-38-pea-1</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-pea-1</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/38-Pea-001.mp3" length="23055936" type="audio/mpeg" />
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

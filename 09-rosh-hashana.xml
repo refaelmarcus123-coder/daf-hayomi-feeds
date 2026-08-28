@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Rosh Hashaná — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-rosh-hashana-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Rosh Hashaná, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:27:29 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/09-rosh-hashana.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/rosh-hashana.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/rosh-hashana.jpg</url>
+  <title>Daf Hayomi — Rosh Hashaná — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Rosh Hashaná 35</title>
       <description>Daf Hayomi — Rosh Hashaná 35, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-35</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-035.mp3" length="12067985" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -27,7 +40,7 @@
     <item>
       <title>Rosh Hashaná 34</title>
       <description>Daf Hayomi — Rosh Hashaná 34, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-34</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-034.mp3" length="25012500" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -38,7 +51,7 @@
     <item>
       <title>Rosh Hashaná 33</title>
       <description>Daf Hayomi — Rosh Hashaná 33, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-33</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-033.mp3" length="25428249" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -49,7 +62,7 @@
     <item>
       <title>Rosh Hashaná 32</title>
       <description>Daf Hayomi — Rosh Hashaná 32, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-32</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-032.mp3" length="31832118" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -60,7 +73,7 @@
     <item>
       <title>Rosh Hashaná 31</title>
       <description>Daf Hayomi — Rosh Hashaná 31, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-31</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-031.mp3" length="33616461" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -71,7 +84,7 @@
     <item>
       <title>Rosh Hashaná 30</title>
       <description>Daf Hayomi — Rosh Hashaná 30, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-30</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-030.mp3" length="33820791" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -82,7 +95,7 @@
     <item>
       <title>Rosh Hashaná 29</title>
       <description>Daf Hayomi — Rosh Hashaná 29, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-29</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-029.mp3" length="27635013" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -93,7 +106,7 @@
     <item>
       <title>Rosh Hashaná 28</title>
       <description>Daf Hayomi — Rosh Hashaná 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-028.mp3" length="42384303" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,7 +117,7 @@
     <item>
       <title>Rosh Hashaná 27</title>
       <description>Daf Hayomi — Rosh Hashaná 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-027.mp3" length="28087041" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Rosh Hashaná 26</title>
       <description>Daf Hayomi — Rosh Hashaná 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-026.mp3" length="27523674" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -126,7 +139,7 @@
     <item>
       <title>Rosh Hashaná 25</title>
       <description>Daf Hayomi — Rosh Hashaná 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-025.mp3" length="24094683" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -137,7 +150,7 @@
     <item>
       <title>Rosh Hashaná 24</title>
       <description>Daf Hayomi — Rosh Hashaná 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-024.mp3" length="38089620" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -148,7 +161,7 @@
     <item>
       <title>Rosh Hashaná 23</title>
       <description>Daf Hayomi — Rosh Hashaná 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-023.mp3" length="33133992" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +172,7 @@
     <item>
       <title>Rosh Hashaná 22</title>
       <description>Daf Hayomi — Rosh Hashaná 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-022.mp3" length="30701631" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -170,7 +183,7 @@
     <item>
       <title>Rosh Hashaná 21</title>
       <description>Daf Hayomi — Rosh Hashaná 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-021.mp3" length="35806128" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -181,7 +194,7 @@
     <item>
       <title>Rosh Hashaná 20</title>
       <description>Daf Hayomi — Rosh Hashaná 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-020.mp3" length="45347088" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -192,7 +205,7 @@
     <item>
       <title>Rosh Hashaná 19</title>
       <description>Daf Hayomi — Rosh Hashaná 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-019.mp3" length="36891162" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,7 +216,7 @@
     <item>
       <title>Rosh Hashaná 18</title>
       <description>Daf Hayomi — Rosh Hashaná 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-018.mp3" length="27538851" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Rosh Hashaná 17</title>
       <description>Daf Hayomi — Rosh Hashaná 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-017.mp3" length="30453933" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,7 +238,7 @@
     <item>
       <title>Rosh Hashaná 16</title>
       <description>Daf Hayomi — Rosh Hashaná 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-016.mp3" length="27829752" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -236,7 +249,7 @@
     <item>
       <title>Rosh Hashaná 15</title>
       <description>Daf Hayomi — Rosh Hashaná 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-015.mp3" length="26445312" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -247,7 +260,7 @@
     <item>
       <title>Rosh Hashaná 14</title>
       <description>Daf Hayomi — Rosh Hashaná 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-014.mp3" length="36435798" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -258,7 +271,7 @@
     <item>
       <title>Rosh Hashaná 13</title>
       <description>Daf Hayomi — Rosh Hashaná 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-013.mp3" length="31254573" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -269,7 +282,7 @@
     <item>
       <title>Rosh Hashaná 12</title>
       <description>Daf Hayomi — Rosh Hashaná 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-012.mp3" length="18847989" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -280,7 +293,7 @@
     <item>
       <title>Rosh Hashaná 11</title>
       <description>Daf Hayomi — Rosh Hashaná 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-011.mp3" length="44558541" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -291,7 +304,7 @@
     <item>
       <title>Rosh Hashaná 10</title>
       <description>Daf Hayomi — Rosh Hashaná 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-010.mp3" length="24993318" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -302,7 +315,7 @@
     <item>
       <title>Rosh Hashaná 9</title>
       <description>Daf Hayomi — Rosh Hashaná 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-009.mp3" length="17274227" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -313,7 +326,7 @@
     <item>
       <title>Rosh Hashaná 8</title>
       <description>Daf Hayomi — Rosh Hashaná 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-008.mp3" length="26159667" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -324,7 +337,7 @@
     <item>
       <title>Rosh Hashaná 7</title>
       <description>Daf Hayomi — Rosh Hashaná 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-007.mp3" length="30315906" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -335,7 +348,7 @@
     <item>
       <title>Rosh Hashaná 6</title>
       <description>Daf Hayomi — Rosh Hashaná 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-006.mp3" length="34318272" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -346,7 +359,7 @@
     <item>
       <title>Rosh Hashaná 5</title>
       <description>Daf Hayomi — Rosh Hashaná 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-005.mp3" length="25432419" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -357,7 +370,7 @@
     <item>
       <title>Rosh Hashaná 4</title>
       <description>Daf Hayomi — Rosh Hashaná 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-004.mp3" length="25101321" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -368,7 +381,7 @@
     <item>
       <title>Rosh Hashaná 3</title>
       <description>Daf Hayomi — Rosh Hashaná 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-003.mp3" length="24613848" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -379,7 +392,7 @@
     <item>
       <title>Rosh Hashaná 2</title>
       <description>Daf Hayomi — Rosh Hashaná 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-09-rosh-hashana-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-rosh-hashana-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/09-Rosh-Hashana-002.mp3" length="31451397" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>

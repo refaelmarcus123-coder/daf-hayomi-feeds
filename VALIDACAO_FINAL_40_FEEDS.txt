@@ -1,0 +1,60 @@
+DAF HAYOMI — VALIDAÇÃO FINAL DOS 40 FEEDS
+======================================================================
+XML estruturalmente válidos e metadados corretos: 40/40
+Problemas técnicos de XML/metadados/capa: 0
+Total de episódios presentes nos 40 XML: 2678
+
+02 Shabat: 156/156 episódios — COMPLETO
+03 Eruvin: 104/104 episódios — COMPLETO
+04 Pessachim: 119/120 episódios — FALTAM 1
+05 Shekalim: 21/21 episódios — COMPLETO
+06 Yoma: 87/87 episódios — COMPLETO
+07 Sucá: 55/55 episódios — COMPLETO
+08 Betsá: 39/39 episódios — COMPLETO
+09 Rosh Hashaná: 34/34 episódios — COMPLETO
+10 Taanit: 30/30 episódios — COMPLETO
+11 Meguilá: 31/31 episódios — COMPLETO
+12 Moed Catan: 28/28 episódios — COMPLETO
+13 Chaguigá: 26/26 episódios — COMPLETO
+14 Yevamot: 121/121 episódios — COMPLETO
+15 Ketubot: 111/111 episódios — COMPLETO
+16 Nedarim: 90/90 episódios — COMPLETO
+17 Nazir: 65/65 episódios — COMPLETO
+18 Sotá: 47/48 episódios — FALTAM 1
+19 Guitín: 89/89 episódios — COMPLETO
+20 Kidushin: 80/81 episódios — FALTAM 1
+21 Bavá Camá: 118/118 episódios — COMPLETO
+22 Bavá Metsiá: 118/118 episódios — COMPLETO
+23 Bavá Batrá: 175/175 episódios — COMPLETO
+24 San'Hedrin: 112/112 episódios — COMPLETO
+25 Macot: 23/23 episódios — COMPLETO
+26 Shevuot: 48/48 episódios — COMPLETO
+27 Avodá Zará: 75/75 episódios — COMPLETO
+28 Horayot: 13/13 episódios — COMPLETO
+29 Zevachim: 119/119 episódios — COMPLETO
+30 Menachot: 109/109 episódios — COMPLETO
+31 Chulin: 141/141 episódios — COMPLETO
+32 Bechorot: 59/60 episódios — FALTAM 1
+33 Arachin: 33/33 episódios — COMPLETO
+34 Temurá: 33/33 episódios — COMPLETO
+35 Keretot: 27/27 episódios — COMPLETO
+36 Meilá: 36/36 episódios — COMPLETO
+37 Nidá: 72/72 episódios — COMPLETO
+38 Peá: 8/8 episódios — COMPLETO
+39 Demai: 7/7 episódios — COMPLETO
+40 Sheviit: 10/10 episódios — COMPLETO
+41 Kilayim: 9/10 episódios — FALTAM 1
+
+EPISÓDIOS ESPECIAIS AUSENTES DO XML DE ORIGEM:
+- Pessachim: 119/120
+- Sotá: 47/48
+- Kidushin: 80/81
+- Bechorot: 59/60
+- Kilayim: 9/10
+
+Os 5 conhecidos são: Pessachim 74, Sotá 13, Kidushin 14, Bechorot 6 e Kilayim — Introdução.
+Esses devem ser adicionados manualmente no Captivate após a importação se não estiverem no feed.
+
+PROBLEMAS TÉCNICOS: 0
+Todos os 40 XML passaram na validação de estrutura, owner, email, author, imagem, RSS image,
+atom self, idioma, categoria Judaism, GUIDs únicos e capas 3000x3000 < 1 MB.

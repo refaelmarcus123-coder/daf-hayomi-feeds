@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Yevamot — Rav Daniel Faour</title>
-    <link>https://rss.com/podcasts/daf-hayomi-yevamot-rav-daniel-faour/</link>
+    <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
     <description>Daf Hayomi — Masechet Yevamot, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:28:11 +0000</lastBuildDate>
-    <itunes:author>Rav Daniel Faour</itunes:author>
-    <itunes:type>episodic</itunes:type>
+
+<copyright>© 2026 Rav Daniel Faour</copyright>
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/14-yevamot.xml" rel="self" type="application/rss+xml"/>
+<itunes:owner>
+  <itunes:name>Rav Daniel Faour</itunes:name>
+  <itunes:email>refam5518@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>Rav Daniel Faour</itunes:author>
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/yevamot.jpg"/>
+<image>
+  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/yevamot.jpg</url>
+  <title>Daf Hayomi — Yevamot — Rav Daniel Faour</title>
+  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+</image>
+<itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
@@ -16,7 +29,7 @@
     <item>
       <title>Yevamot 122</title>
       <description>Daf Hayomi — Yevamot 122, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-122</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-122</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-122.mp3" length="28022215" type="audio/mpeg" />
       <itunes:episode>122</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -25,7 +38,7 @@
     <item>
       <title>Yevamot 121</title>
       <description>Daf Hayomi — Yevamot 121, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-121</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-121</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-121.mp3" length="45938887" type="audio/mpeg" />
       <itunes:episode>121</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -34,7 +47,7 @@
     <item>
       <title>Yevamot 120</title>
       <description>Daf Hayomi — Yevamot 120, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-120</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-120</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-120.mp3" length="26271360" type="audio/mpeg" />
       <itunes:episode>120</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -43,7 +56,7 @@
     <item>
       <title>Yevamot 119</title>
       <description>Daf Hayomi — Yevamot 119, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-119</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-119</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-119.mp3" length="11823552" type="audio/mpeg" />
       <itunes:episode>119</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -52,7 +65,7 @@
     <item>
       <title>Yevamot 118</title>
       <description>Daf Hayomi — Yevamot 118, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-118</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-118</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-118.mp3" length="19808640" type="audio/mpeg" />
       <itunes:episode>118</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -61,7 +74,7 @@
     <item>
       <title>Yevamot 117</title>
       <description>Daf Hayomi — Yevamot 117, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-117</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-117</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-117.mp3" length="15448896" type="audio/mpeg" />
       <itunes:episode>117</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -70,7 +83,7 @@
     <item>
       <title>Yevamot 116</title>
       <description>Daf Hayomi — Yevamot 116, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-116</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-116</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-116.mp3" length="17145792" type="audio/mpeg" />
       <itunes:episode>116</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -79,7 +92,7 @@
     <item>
       <title>Yevamot 115</title>
       <description>Daf Hayomi — Yevamot 115, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-115</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-115</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-115.mp3" length="19073088" type="audio/mpeg" />
       <itunes:episode>115</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -88,7 +101,7 @@
     <item>
       <title>Yevamot 114</title>
       <description>Daf Hayomi — Yevamot 114, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-114</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-114</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-114.mp3" length="15909120" type="audio/mpeg" />
       <itunes:episode>114</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -97,7 +110,7 @@
     <item>
       <title>Yevamot 113</title>
       <description>Daf Hayomi — Yevamot 113, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-113</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-113</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-113.mp3" length="15410304" type="audio/mpeg" />
       <itunes:episode>113</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -106,7 +119,7 @@
     <item>
       <title>Yevamot 112</title>
       <description>Daf Hayomi — Yevamot 112, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-112</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-112</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-112.mp3" length="16728192" type="audio/mpeg" />
       <itunes:episode>112</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -115,7 +128,7 @@
     <item>
       <title>Yevamot 111</title>
       <description>Daf Hayomi — Yevamot 111, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-111</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-111</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-111.mp3" length="25459776" type="audio/mpeg" />
       <itunes:episode>111</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -124,7 +137,7 @@
     <item>
       <title>Yevamot 110</title>
       <description>Daf Hayomi — Yevamot 110, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-110</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-110</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-110.mp3" length="16798464" type="audio/mpeg" />
       <itunes:episode>110</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -133,7 +146,7 @@
     <item>
       <title>Yevamot 109</title>
       <description>Daf Hayomi — Yevamot 109, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-109</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-109</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-109.mp3" length="15972480" type="audio/mpeg" />
       <itunes:episode>109</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -142,7 +155,7 @@
     <item>
       <title>Yevamot 108</title>
       <description>Daf Hayomi — Yevamot 108, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-108</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-108</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-108.mp3" length="20558016" type="audio/mpeg" />
       <itunes:episode>108</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -151,7 +164,7 @@
     <item>
       <title>Yevamot 107</title>
       <description>Daf Hayomi — Yevamot 107, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-107</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-107</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-107.mp3" length="15793920" type="audio/mpeg" />
       <itunes:episode>107</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -160,7 +173,7 @@
     <item>
       <title>Yevamot 106</title>
       <description>Daf Hayomi — Yevamot 106, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-106</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-106</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-106.mp3" length="16661952" type="audio/mpeg" />
       <itunes:episode>106</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -169,7 +182,7 @@
     <item>
       <title>Yevamot 105</title>
       <description>Daf Hayomi — Yevamot 105, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-105</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-105</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-105.mp3" length="16320960" type="audio/mpeg" />
       <itunes:episode>105</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -178,7 +191,7 @@
     <item>
       <title>Yevamot 104</title>
       <description>Daf Hayomi — Yevamot 104, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-104</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-104</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-104.mp3" length="17241408" type="audio/mpeg" />
       <itunes:episode>104</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -187,7 +200,7 @@
     <item>
       <title>Yevamot 103</title>
       <description>Daf Hayomi — Yevamot 103, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-103</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-103</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-103.mp3" length="19112832" type="audio/mpeg" />
       <itunes:episode>103</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -196,7 +209,7 @@
     <item>
       <title>Yevamot 102</title>
       <description>Daf Hayomi — Yevamot 102, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-102</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-102</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-102.mp3" length="18747072" type="audio/mpeg" />
       <itunes:episode>102</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -205,7 +218,7 @@
     <item>
       <title>Yevamot 101</title>
       <description>Daf Hayomi — Yevamot 101, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-101</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-101</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-101.mp3" length="14527296" type="audio/mpeg" />
       <itunes:episode>101</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -214,7 +227,7 @@
     <item>
       <title>Yevamot 100</title>
       <description>Daf Hayomi — Yevamot 100, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-100</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-100</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-100.mp3" length="19295424" type="audio/mpeg" />
       <itunes:episode>100</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -223,7 +236,7 @@
     <item>
       <title>Yevamot 99</title>
       <description>Daf Hayomi — Yevamot 99, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-99</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-99</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-99.mp3" length="16837632" type="audio/mpeg" />
       <itunes:episode>99</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -232,7 +245,7 @@
     <item>
       <title>Yevamot 98</title>
       <description>Daf Hayomi — Yevamot 98, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-98</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-98</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-98.mp3" length="10423296" type="audio/mpeg" />
       <itunes:episode>98</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -241,7 +254,7 @@
     <item>
       <title>Yevamot 97</title>
       <description>Daf Hayomi — Yevamot 97, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-97</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-97</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-97.mp3" length="21545856" type="audio/mpeg" />
       <itunes:episode>97</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -250,7 +263,7 @@
     <item>
       <title>Yevamot 96</title>
       <description>Daf Hayomi — Yevamot 96, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-96</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-96</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-96.mp3" length="21547008" type="audio/mpeg" />
       <itunes:episode>96</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -259,7 +272,7 @@
     <item>
       <title>Yevamot 95</title>
       <description>Daf Hayomi — Yevamot 95, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-95</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-95</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-95.mp3" length="19556928" type="audio/mpeg" />
       <itunes:episode>95</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -268,7 +281,7 @@
     <item>
       <title>Yevamot 94</title>
       <description>Daf Hayomi — Yevamot 94, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-94</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-94</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-94.mp3" length="19157760" type="audio/mpeg" />
       <itunes:episode>94</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -277,7 +290,7 @@
     <item>
       <title>Yevamot 93</title>
       <description>Daf Hayomi — Yevamot 93, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-93</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-93</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-93.mp3" length="16905600" type="audio/mpeg" />
       <itunes:episode>93</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -286,7 +299,7 @@
     <item>
       <title>Yevamot 92</title>
       <description>Daf Hayomi — Yevamot 92, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-92</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-92</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-92.mp3" length="15562944" type="audio/mpeg" />
       <itunes:episode>92</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -295,7 +308,7 @@
     <item>
       <title>Yevamot 91</title>
       <description>Daf Hayomi — Yevamot 91, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-91</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-91</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-91.mp3" length="22835520" type="audio/mpeg" />
       <itunes:episode>91</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -304,7 +317,7 @@
     <item>
       <title>Yevamot 90</title>
       <description>Daf Hayomi — Yevamot 90, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-90</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-90</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-90.mp3" length="9168768" type="audio/mpeg" />
       <itunes:episode>90</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -313,7 +326,7 @@
     <item>
       <title>Yevamot 89</title>
       <description>Daf Hayomi — Yevamot 89, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-89</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-89</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-89.mp3" length="11979072" type="audio/mpeg" />
       <itunes:episode>89</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -322,7 +335,7 @@
     <item>
       <title>Yevamot 88</title>
       <description>Daf Hayomi — Yevamot 88, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-88</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-88</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-88.mp3" length="24632064" type="audio/mpeg" />
       <itunes:episode>88</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -331,7 +344,7 @@
     <item>
       <title>Yevamot 87</title>
       <description>Daf Hayomi — Yevamot 87, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-87</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-87</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-87.mp3" length="14575104" type="audio/mpeg" />
       <itunes:episode>87</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -340,7 +353,7 @@
     <item>
       <title>Yevamot 86</title>
       <description>Daf Hayomi — Yevamot 86, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-86</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-86</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-86.mp3" length="17175744" type="audio/mpeg" />
       <itunes:episode>86</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -349,7 +362,7 @@
     <item>
       <title>Yevamot 85</title>
       <description>Daf Hayomi — Yevamot 85, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-85</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-85</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-85.mp3" length="17561088" type="audio/mpeg" />
       <itunes:episode>85</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -358,7 +371,7 @@
     <item>
       <title>Yevamot 84</title>
       <description>Daf Hayomi — Yevamot 84, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-84</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-84</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-84.mp3" length="14286528" type="audio/mpeg" />
       <itunes:episode>84</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -367,7 +380,7 @@
     <item>
       <title>Yevamot 83</title>
       <description>Daf Hayomi — Yevamot 83, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-83</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-83</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-83.mp3" length="14662080" type="audio/mpeg" />
       <itunes:episode>83</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -376,7 +389,7 @@
     <item>
       <title>Yevamot 82</title>
       <description>Daf Hayomi — Yevamot 82, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-82</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-82</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-82.mp3" length="10073088" type="audio/mpeg" />
       <itunes:episode>82</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -385,7 +398,7 @@
     <item>
       <title>Yevamot 81</title>
       <description>Daf Hayomi — Yevamot 81, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-81</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-81</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-81.mp3" length="17562816" type="audio/mpeg" />
       <itunes:episode>81</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -394,7 +407,7 @@
     <item>
       <title>Yevamot 80</title>
       <description>Daf Hayomi — Yevamot 80, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-80</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-80</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-80.mp3" length="14348160" type="audio/mpeg" />
       <itunes:episode>80</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -403,7 +416,7 @@
     <item>
       <title>Yevamot 79</title>
       <description>Daf Hayomi — Yevamot 79, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-79</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-79</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-79.mp3" length="31829217" type="audio/mpeg" />
       <itunes:episode>79</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -412,7 +425,7 @@
     <item>
       <title>Yevamot 78</title>
       <description>Daf Hayomi — Yevamot 78, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-78</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-78</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-78.mp3" length="21746304" type="audio/mpeg" />
       <itunes:episode>78</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -421,7 +434,7 @@
     <item>
       <title>Yevamot 77</title>
       <description>Daf Hayomi — Yevamot 77, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-77</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-77</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-77.mp3" length="18910656" type="audio/mpeg" />
       <itunes:episode>77</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -430,7 +443,7 @@
     <item>
       <title>Yevamot 76</title>
       <description>Daf Hayomi — Yevamot 76, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-76</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-76</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-76.mp3" length="24796224" type="audio/mpeg" />
       <itunes:episode>76</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -439,7 +452,7 @@
     <item>
       <title>Yevamot 75</title>
       <description>Daf Hayomi — Yevamot 75, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-75</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-75</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-75.mp3" length="14186304" type="audio/mpeg" />
       <itunes:episode>75</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -448,7 +461,7 @@
     <item>
       <title>Yevamot 74</title>
       <description>Daf Hayomi — Yevamot 74, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-74</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-74</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-74.mp3" length="23554368" type="audio/mpeg" />
       <itunes:episode>74</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -457,7 +470,7 @@
     <item>
       <title>Yevamot 73</title>
       <description>Daf Hayomi — Yevamot 73, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-73</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-73</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-73.mp3" length="12841920" type="audio/mpeg" />
       <itunes:episode>73</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -466,7 +479,7 @@
     <item>
       <title>Yevamot 72</title>
       <description>Daf Hayomi — Yevamot 72, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-72</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-72</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-72.mp3" length="18036288" type="audio/mpeg" />
       <itunes:episode>72</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -475,7 +488,7 @@
     <item>
       <title>Yevamot 71</title>
       <description>Daf Hayomi — Yevamot 71, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-71</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-71</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-71.mp3" length="14900544" type="audio/mpeg" />
       <itunes:episode>71</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -484,7 +497,7 @@
     <item>
       <title>Yevamot 70</title>
       <description>Daf Hayomi — Yevamot 70, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-70</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-70</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-70.mp3" length="15335424" type="audio/mpeg" />
       <itunes:episode>70</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -493,7 +506,7 @@
     <item>
       <title>Yevamot 69</title>
       <description>Daf Hayomi — Yevamot 69, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-69</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-69</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-69.mp3" length="23504256" type="audio/mpeg" />
       <itunes:episode>69</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -502,7 +515,7 @@
     <item>
       <title>Yevamot 68</title>
       <description>Daf Hayomi — Yevamot 68, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-68</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-68</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-68.mp3" length="21860928" type="audio/mpeg" />
       <itunes:episode>68</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -511,7 +524,7 @@
     <item>
       <title>Yevamot 67</title>
       <description>Daf Hayomi — Yevamot 67, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-67</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-67</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-67.mp3" length="13695552" type="audio/mpeg" />
       <itunes:episode>67</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -520,7 +533,7 @@
     <item>
       <title>Yevamot 66</title>
       <description>Daf Hayomi — Yevamot 66, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-66</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-66</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-66.mp3" length="19366848" type="audio/mpeg" />
       <itunes:episode>66</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -529,7 +542,7 @@
     <item>
       <title>Yevamot 65</title>
       <description>Daf Hayomi — Yevamot 65, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-65</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-65</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-65.mp3" length="12757824" type="audio/mpeg" />
       <itunes:episode>65</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -538,7 +551,7 @@
     <item>
       <title>Yevamot 64</title>
       <description>Daf Hayomi — Yevamot 64, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-64</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-64</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-64.mp3" length="16785216" type="audio/mpeg" />
       <itunes:episode>64</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -547,7 +560,7 @@
     <item>
       <title>Yevamot 63</title>
       <description>Daf Hayomi — Yevamot 63, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-63</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-63</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-63.mp3" length="17429760" type="audio/mpeg" />
       <itunes:episode>63</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -556,7 +569,7 @@
     <item>
       <title>Yevamot 62</title>
       <description>Daf Hayomi — Yevamot 62, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-62</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-62</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-62.mp3" length="20848320" type="audio/mpeg" />
       <itunes:episode>62</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -565,7 +578,7 @@
     <item>
       <title>Yevamot 61</title>
       <description>Daf Hayomi — Yevamot 61, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-61</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-61</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-61.mp3" length="14118912" type="audio/mpeg" />
       <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -574,7 +587,7 @@
     <item>
       <title>Yevamot 60</title>
       <description>Daf Hayomi — Yevamot 60, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-60</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-60</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-60.mp3" length="19683072" type="audio/mpeg" />
       <itunes:episode>60</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -583,7 +596,7 @@
     <item>
       <title>Yevamot 59</title>
       <description>Daf Hayomi — Yevamot 59, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-59</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-59</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-59.mp3" length="20286720" type="audio/mpeg" />
       <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -592,7 +605,7 @@
     <item>
       <title>Yevamot 58</title>
       <description>Daf Hayomi — Yevamot 58, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-58</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-58</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-58.mp3" length="21218112" type="audio/mpeg" />
       <itunes:episode>58</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -601,7 +614,7 @@
     <item>
       <title>Yevamot 57</title>
       <description>Daf Hayomi — Yevamot 57, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-57</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-57</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-57.mp3" length="17506944" type="audio/mpeg" />
       <itunes:episode>57</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -610,7 +623,7 @@
     <item>
       <title>Yevamot 56</title>
       <description>Daf Hayomi — Yevamot 56, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-56</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-56</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-56.mp3" length="15351552" type="audio/mpeg" />
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -619,7 +632,7 @@
     <item>
       <title>Yevamot 55</title>
       <description>Daf Hayomi — Yevamot 55, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-55</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-55</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-55.mp3" length="23838336" type="audio/mpeg" />
       <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -628,7 +641,7 @@
     <item>
       <title>Yevamot 54</title>
       <description>Daf Hayomi — Yevamot 54, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-54</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-54</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-54.mp3" length="24790464" type="audio/mpeg" />
       <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -637,7 +650,7 @@
     <item>
       <title>Yevamot 53</title>
       <description>Daf Hayomi — Yevamot 53, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-53</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-53</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-53.mp3" length="16117056" type="audio/mpeg" />
       <itunes:episode>53</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -646,7 +659,7 @@
     <item>
       <title>Yevamot 52</title>
       <description>Daf Hayomi — Yevamot 52, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-52</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-52</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-52.mp3" length="14375232" type="audio/mpeg" />
       <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -655,7 +668,7 @@
     <item>
       <title>Yevamot 51</title>
       <description>Daf Hayomi — Yevamot 51, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-51</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-51</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-51.mp3" length="23735808" type="audio/mpeg" />
       <itunes:episode>51</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -664,7 +677,7 @@
     <item>
       <title>Yevamot 50</title>
       <description>Daf Hayomi — Yevamot 50, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-50</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-50</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-50.mp3" length="12837888" type="audio/mpeg" />
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -673,7 +686,7 @@
     <item>
       <title>Yevamot 49</title>
       <description>Daf Hayomi — Yevamot 49, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-49</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-49</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-49.mp3" length="13989312" type="audio/mpeg" />
       <itunes:episode>49</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -682,7 +695,7 @@
     <item>
       <title>Yevamot 48</title>
       <description>Daf Hayomi — Yevamot 48, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-48</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-48</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-48.mp3" length="14257728" type="audio/mpeg" />
       <itunes:episode>48</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -691,7 +704,7 @@
     <item>
       <title>Yevamot 47</title>
       <description>Daf Hayomi — Yevamot 47, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-47</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-47</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-47.mp3" length="15696576" type="audio/mpeg" />
       <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -700,7 +713,7 @@
     <item>
       <title>Yevamot 46</title>
       <description>Daf Hayomi — Yevamot 46, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-46</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-46</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-46.mp3" length="18129024" type="audio/mpeg" />
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -709,7 +722,7 @@
     <item>
       <title>Yevamot 45</title>
       <description>Daf Hayomi — Yevamot 45, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-45</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-45</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-45.mp3" length="13822848" type="audio/mpeg" />
       <itunes:episode>45</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -718,7 +731,7 @@
     <item>
       <title>Yevamot 44</title>
       <description>Daf Hayomi — Yevamot 44, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-44</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-44</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-44.mp3" length="20263680" type="audio/mpeg" />
       <itunes:episode>44</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -727,7 +740,7 @@
     <item>
       <title>Yevamot 43</title>
       <description>Daf Hayomi — Yevamot 43, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-43</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-43</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-43.mp3" length="17811072" type="audio/mpeg" />
       <itunes:episode>43</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -736,7 +749,7 @@
     <item>
       <title>Yevamot 42</title>
       <description>Daf Hayomi — Yevamot 42, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-42</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-42</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-42.mp3" length="13367232" type="audio/mpeg" />
       <itunes:episode>42</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -745,7 +758,7 @@
     <item>
       <title>Yevamot 41</title>
       <description>Daf Hayomi — Yevamot 41, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-41</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-41</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-41.mp3" length="26877390" type="audio/mpeg" />
       <itunes:episode>41</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -754,7 +767,7 @@
     <item>
       <title>Yevamot 40</title>
       <description>Daf Hayomi — Yevamot 40, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-40</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-40</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-40.mp3" length="31909680" type="audio/mpeg" />
       <itunes:episode>40</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -763,7 +776,7 @@
     <item>
       <title>Yevamot 39</title>
       <description>Daf Hayomi — Yevamot 39, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-39</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-39</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-39.mp3" length="28616214" type="audio/mpeg" />
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -772,7 +785,7 @@
     <item>
       <title>Yevamot 38</title>
       <description>Daf Hayomi — Yevamot 38, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-38</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-38</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-38.mp3" length="45483030" type="audio/mpeg" />
       <itunes:episode>38</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -781,7 +794,7 @@
     <item>
       <title>Yevamot 37</title>
       <description>Daf Hayomi — Yevamot 37, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-37</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-37</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-37.mp3" length="45547665" type="audio/mpeg" />
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -790,7 +803,7 @@
     <item>
       <title>Yevamot 36</title>
       <description>Daf Hayomi — Yevamot 36, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-36</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-36</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-36.mp3" length="37756434" type="audio/mpeg" />
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -799,7 +812,7 @@
     <item>
       <title>Yevamot 35</title>
       <description>Daf Hayomi — Yevamot 35, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-35</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-35</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-35.mp3" length="27597900" type="audio/mpeg" />
       <itunes:episode>35</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -808,7 +821,7 @@
     <item>
       <title>Yevamot 34</title>
       <description>Daf Hayomi — Yevamot 34, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-34</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-34</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-34.mp3" length="29160816" type="audio/mpeg" />
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -817,7 +830,7 @@
     <item>
       <title>Yevamot 33</title>
       <description>Daf Hayomi — Yevamot 33, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-33</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-33</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-33.mp3" length="40101645" type="audio/mpeg" />
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -826,7 +839,7 @@
     <item>
       <title>Yevamot 32</title>
       <description>Daf Hayomi — Yevamot 32, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-32</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-32</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-32.mp3" length="44093586" type="audio/mpeg" />
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -835,7 +848,7 @@
     <item>
       <title>Yevamot 31</title>
       <description>Daf Hayomi — Yevamot 31, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-31</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-31</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-31.mp3" length="50047512" type="audio/mpeg" />
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -844,7 +857,7 @@
     <item>
       <title>Yevamot 30</title>
       <description>Daf Hayomi — Yevamot 30, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-30</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-30</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-30.mp3" length="45903783" type="audio/mpeg" />
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -853,7 +866,7 @@
     <item>
       <title>Yevamot 29</title>
       <description>Daf Hayomi — Yevamot 29, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-29</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-29</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-29.mp3" length="45089799" type="audio/mpeg" />
       <itunes:episode>29</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -862,7 +875,7 @@
     <item>
       <title>Yevamot 28</title>
       <description>Daf Hayomi — Yevamot 28, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-28</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-28</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-28.mp3" length="42542760" type="audio/mpeg" />
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -871,7 +884,7 @@
     <item>
       <title>Yevamot 27</title>
       <description>Daf Hayomi — Yevamot 27, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-27</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-27</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-27.mp3" length="49472466" type="audio/mpeg" />
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -880,7 +893,7 @@
     <item>
       <title>Yevamot 26</title>
       <description>Daf Hayomi — Yevamot 26, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-26</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-26</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-26.mp3" length="28368099" type="audio/mpeg" />
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -889,7 +902,7 @@
     <item>
       <title>Yevamot 25</title>
       <description>Daf Hayomi — Yevamot 25, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-25</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-25</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-25.mp3" length="38521215" type="audio/mpeg" />
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -898,7 +911,7 @@
     <item>
       <title>Yevamot 24</title>
       <description>Daf Hayomi — Yevamot 24, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-24</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-24</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-24.mp3" length="48888252" type="audio/mpeg" />
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -907,7 +920,7 @@
     <item>
       <title>Yevamot 23</title>
       <description>Daf Hayomi — Yevamot 23, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-23</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-23</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-23.mp3" length="44395077" type="audio/mpeg" />
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -916,7 +929,7 @@
     <item>
       <title>Yevamot 22</title>
       <description>Daf Hayomi — Yevamot 22, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-22</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-22</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-22.mp3" length="39771136" type="audio/mpeg" />
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -925,7 +938,7 @@
     <item>
       <title>Yevamot 21</title>
       <description>Daf Hayomi — Yevamot 21, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-21</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-21</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-21.mp3" length="53580091" type="audio/mpeg" />
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -934,7 +947,7 @@
     <item>
       <title>Yevamot 20</title>
       <description>Daf Hayomi — Yevamot 20, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-20</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-20</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-20.mp3" length="36448897" type="audio/mpeg" />
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -943,7 +956,7 @@
     <item>
       <title>Yevamot 19</title>
       <description>Daf Hayomi — Yevamot 19, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-19</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-19</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-19.mp3" length="50070202" type="audio/mpeg" />
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -952,7 +965,7 @@
     <item>
       <title>Yevamot 18</title>
       <description>Daf Hayomi — Yevamot 18, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-18</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-18</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-18.mp3" length="42309415" type="audio/mpeg" />
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -961,7 +974,7 @@
     <item>
       <title>Yevamot 17</title>
       <description>Daf Hayomi — Yevamot 17, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-17</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-17</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-17.mp3" length="30626743" type="audio/mpeg" />
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -970,7 +983,7 @@
     <item>
       <title>Yevamot 16</title>
       <description>Daf Hayomi — Yevamot 16, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-16</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-16</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-16.mp3" length="34182919" type="audio/mpeg" />
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -979,7 +992,7 @@
     <item>
       <title>Yevamot 15</title>
       <description>Daf Hayomi — Yevamot 15, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-15</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-15</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-15.mp3" length="30036933" type="audio/mpeg" />
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -988,7 +1001,7 @@
     <item>
       <title>Yevamot 14</title>
       <description>Daf Hayomi — Yevamot 14, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-14</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-14</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-14.mp3" length="32865616" type="audio/mpeg" />
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -997,7 +1010,7 @@
     <item>
       <title>Yevamot 13</title>
       <description>Daf Hayomi — Yevamot 13, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-13</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-13</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-13.mp3" length="29716432" type="audio/mpeg" />
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1006,7 +1019,7 @@
     <item>
       <title>Yevamot 12</title>
       <description>Daf Hayomi — Yevamot 12, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-12</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-12</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-12.mp3" length="33226738" type="audio/mpeg" />
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1015,7 +1028,7 @@
     <item>
       <title>Yevamot 11</title>
       <description>Daf Hayomi — Yevamot 11, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-11</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-11</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-11.mp3" length="35833822" type="audio/mpeg" />
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1024,7 +1037,7 @@
     <item>
       <title>Yevamot 10</title>
       <description>Daf Hayomi — Yevamot 10, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-10</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-10</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-10.mp3" length="30707052" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1033,7 +1046,7 @@
     <item>
       <title>Yevamot 9</title>
       <description>Daf Hayomi — Yevamot 9, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-9</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-09.mp3" length="38566668" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1042,7 +1055,7 @@
     <item>
       <title>Yevamot 8</title>
       <description>Daf Hayomi — Yevamot 8, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-8</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-08.mp3" length="42083646" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1051,7 +1064,7 @@
     <item>
       <title>Yevamot 7</title>
       <description>Daf Hayomi — Yevamot 7, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-7</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-07.mp3" length="31643634" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1060,7 +1073,7 @@
     <item>
       <title>Yevamot 6</title>
       <description>Daf Hayomi — Yevamot 6, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-6</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-06.mp3" length="30422241" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1069,7 +1082,7 @@
     <item>
       <title>Yevamot 5</title>
       <description>Daf Hayomi — Yevamot 5, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-5</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-05.mp3" length="23758998" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1078,7 +1091,7 @@
     <item>
       <title>Yevamot 4</title>
       <description>Daf Hayomi — Yevamot 4, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-4</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-04.mp3" length="28783014" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1087,7 +1100,7 @@
     <item>
       <title>Yevamot 3</title>
       <description>Daf Hayomi — Yevamot 3, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-3</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-03.mp3" length="32845428" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1096,7 +1109,7 @@
     <item>
       <title>Yevamot 2</title>
       <description>Daf Hayomi — Yevamot 2, com Rav Daniel Faour.</description>
-      <guid isPermaLink="false">nascente-14-yevamot-2</guid>
+      <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-yevamot-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/14-Yevamot-02.mp3" length="36614691" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
