@@ -1,21 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Mishná Kilaim — Rav Daniel Faour</title>
     <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
-    <description>Daf Hayomi — Mishná Kilaim, com Rav Daniel Faour. Shiurim organizados daf a daf, para estudo, acompanhamento e revisão diária da Guemará.</description>
+    <description>Daf Hayomi — Mishná Kilaim, com Rav Daniel Faour. Estudo da Mishná com shiurim organizados por perek.
+משנה כלאים</description>
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:34:26 +0000</lastBuildDate>
 
 <copyright>© 2026 Rav Daniel Faour</copyright>
-<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/41-kilayim.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/41-kilayim.xml" rel="self" type="application/rss+xml"/>
 <itunes:owner>
   <itunes:name>Rav Daniel Faour</itunes:name>
   <itunes:email>refam5518@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:author>Rav Daniel Faour</itunes:author>
-<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/kilayim.jpg" />
+<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/kilayim.jpg"/>
 <image>
   <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/kilayim.jpg</url>
   <title>Daf Hayomi — Mishná Kilaim — Rav Daniel Faour</title>
@@ -28,7 +29,8 @@
     </itunes:category>
     <item>
       <title>Mishná Kilaim 10</title>
-      <description>Daf Hayomi — Mishná Kilaim 10, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק י
+Daf Hayomi — Mishná Kilaim, Perek 10, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-9</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-009.mp3" length="18973923" type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
@@ -39,7 +41,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 9</title>
-      <description>Daf Hayomi — Mishná Kilaim 9, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ט
+Daf Hayomi — Mishná Kilaim, Perek 9, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-8</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-008.mp3" length="14408189" type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
@@ -50,7 +53,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 8</title>
-      <description>Daf Hayomi — Mishná Kilaim 8, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ח
+Daf Hayomi — Mishná Kilaim, Perek 8, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-7</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-007.mp3" length="15753848" type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
@@ -61,7 +65,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 7</title>
-      <description>Daf Hayomi — Mishná Kilaim 7, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ז
+Daf Hayomi — Mishná Kilaim, Perek 7, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-6</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-006.mp3" length="19768308" type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
@@ -72,7 +77,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 6</title>
-      <description>Daf Hayomi — Mishná Kilaim 6, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ו
+Daf Hayomi — Mishná Kilaim, Perek 6, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-5</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-005.mp3" length="19752045" type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
@@ -83,7 +89,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 5</title>
-      <description>Daf Hayomi — Mishná Kilaim 5, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ה
+Daf Hayomi — Mishná Kilaim, Perek 5, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-4</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-004.mp3" length="21863316" type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
@@ -94,7 +101,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 4</title>
-      <description>Daf Hayomi — Mishná Kilaim 4, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ד
+Daf Hayomi — Mishná Kilaim, Perek 4, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-3</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-003.mp3" length="23165443" type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
@@ -105,7 +113,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 3</title>
-      <description>Daf Hayomi — Mishná Kilaim 3, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ג
+Daf Hayomi — Mishná Kilaim, Perek 3, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-2</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-002.mp3" length="31780827" type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
@@ -116,7 +125,8 @@
     </item>
     <item>
       <title>Mishná Kilaim 2</title>
-      <description>Daf Hayomi — Mishná Kilaim 2, com Rav Daniel Faour.</description>
+      <description>משנה כלאים | פרק ב
+Daf Hayomi — Mishná Kilaim, Perek 2, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-kilayim-1</guid>
       <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/41-Kilayim-001.mp3" length="16132484" type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
