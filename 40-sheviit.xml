@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daf Hayomi — Mishná Sheviit — Rav Daniel Faour</title>
     <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
@@ -8,144 +10,182 @@
     <language>pt-BR</language>
     <generator>Daf Hayomi RSS Builder</generator>
     <lastBuildDate>Fri, 28 Aug 2026 01:34:03 +0000</lastBuildDate>
+    <copyright>© 2026 Rav Daniel Faour</copyright>
 
-<copyright>© 2026 Rav Daniel Faour</copyright>
-<atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/40-sheviit.xml" rel="self" type="application/rss+xml"/>
-<itunes:owner>
-  <itunes:name>Rav Daniel Faour</itunes:name>
-  <itunes:email>refam5518@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:author>Rav Daniel Faour</itunes:author>
-<itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/sheviit.jpg"/>
-<image>
-  <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/sheviit.jpg</url>
-  <title>Daf Hayomi — Mishná Sheviit — Rav Daniel Faour</title>
-  <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
-</image>
-<itunes:type>episodic</itunes:type>
+    <atom:link href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/40-sheviit.xml"
+               rel="self"
+               type="application/rss+xml" />
+
+    <itunes:owner>
+      <itunes:name>Rav Daniel Faour</itunes:name>
+      <itunes:email>refam5518@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:author>Rav Daniel Faour</itunes:author>
+    <itunes:image href="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/sheviit.jpg" />
+
+    <image>
+      <url>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/sheviit.jpg</url>
+      <title>Daf Hayomi — Mishná Sheviit — Rav Daniel Faour</title>
+      <link>https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/</link>
+    </image>
+
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
+
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism" />
     </itunes:category>
+
     <item>
       <title>Mishná Sheviit 10</title>
       <description>משנה שביעית | פרק י
 Daf Hayomi — Mishná Sheviit, Perek 10, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-10</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-010.mp3" length="25616307" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-010.mp3"
+                 length="25616307"
+                 type="audio/mpeg" />
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Mon, 26 Jul 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:26:48</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 9</title>
       <description>משנה שביעית | פרק ט
 Daf Hayomi — Mishná Sheviit, Perek 9, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-9</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-009.mp3" length="23603629" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-009.mp3"
+                 length="23603629"
+                 type="audio/mpeg" />
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 29 Jun 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:24:45</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 8</title>
       <description>משנה שביעית | פרק ח
 Daf Hayomi — Mishná Sheviit, Perek 8, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-8</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-008.mp3" length="17926002" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-008.mp3"
+                 length="17926002"
+                 type="audio/mpeg" />
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 22 Jun 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:18:45</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 7</title>
       <description>משנה שביעית | פרק ז
 Daf Hayomi — Mishná Sheviit, Perek 7, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-7</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-007.mp3" length="20216583" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-007.mp3"
+                 length="20216583"
+                 type="audio/mpeg" />
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 15 Jun 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:21:10</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 6</title>
       <description>משנה שביעית | פרק ו
 Daf Hayomi — Mishná Sheviit, Perek 6, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-6</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-006.mp3" length="16733381" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-006.mp3"
+                 length="16733381"
+                 type="audio/mpeg" />
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 08 Jun 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:17:25</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 5</title>
       <description>משנה שביעית | פרק ה
 Daf Hayomi — Mishná Sheviit, Perek 5, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-5</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-005.mp3" length="22638519" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-005.mp3"
+                 length="22638519"
+                 type="audio/mpeg" />
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Mon, 31 May 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:23:37</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 4</title>
       <description>משנה שביעית | פרק ד
 Daf Hayomi — Mishná Sheviit, Perek 4, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-4</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-004.mp3" length="22833675" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-004.mp3"
+                 length="22833675"
+                 type="audio/mpeg" />
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 18 May 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:23:46</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 3</title>
       <description>משנה שביעית | פרק ג
 Daf Hayomi — Mishná Sheviit, Perek 3, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-3</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-003.mp3" length="21238233" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-003.mp3"
+                 length="21238233"
+                 type="audio/mpeg" />
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 11 May 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:22:11</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 2</title>
       <description>משנה שביעית | פרק ב
 Daf Hayomi — Mishná Sheviit, Perek 2, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-2</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-002.mp3" length="25592964" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-002.mp3"
+                 length="25592964"
+                 type="audio/mpeg" />
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 20 Apr 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:26:42</itunes:duration>
     </item>
+
     <item>
       <title>Mishná Sheviit 1</title>
       <description>משנה שביעית | פרק א
 Daf Hayomi — Mishná Sheviit, Perek 1, com Rav Daniel Faour.</description>
       <guid isPermaLink="false">daf-hayomi-rav-daniel-faour-sheviit-1</guid>
-      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-001.mp3" length="23492118" type="audio/mpeg" />
+      <enclosure url="https://www.revistanascente.com.br/Audio/player/faour/Daf-Hayomi/som/40-Sheviit-001.mp3"
+                 length="23492118"
+                 type="audio/mpeg" />
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <pubDate>Tue, 13 Apr 2021 12:00:00 -0300</pubDate>
       <itunes:duration>00:24:31</itunes:duration>
     </item>
+
   </channel>
 </rss>
