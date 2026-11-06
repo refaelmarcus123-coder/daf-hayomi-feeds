@@ -1,0 +1,178 @@
+html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daf Hayomi - Rav Daniel Faour</title>
+
+<style>
+
+body{
+    margin:0;
+    background:#f5f5f5;
+    font-family:Arial,sans-serif;
+}
+
+.banner img{
+    width:100%;
+    display:block;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
+    gap:20px;
+    padding:20px;
+}
+
+.card{
+    display:block;
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:scale(1.05);
+}
+
+.card img{
+    width:100%;
+    display:block;
+    border-radius:12px;
+    box-shadow:0 4px 12px rgba(0,0,0,.25);
+}
+
+.loading{
+    text-align:center;
+    padding:30px;
+    color:#666;
+}
+
+</style>
+</head>
+<body>
+
+<div class="banner">
+    <img src="https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/artist.jpg" alt="Rav Daniel Faour">
+</div>
+
+<div id="feeds" class="grid"></div>
+
+<script>
+
+const feeds = [
+
+"01-berachot.xml",
+"02-shabat.xml",
+"03-eruvin.xml",
+"04-pessachim.xml",
+"05-shekalim.xml",
+"06-yoma.xml",
+"07-suca.xml",
+"08-betsa.xml",
+"09-rosh-hashana.xml",
+"10-taanit.xml",
+"11-meguila.xml",
+"12-moed-catan.xml",
+"13-chaguiga.xml",
+"14-yevamot.xml",
+"15-ketubot.xml",
+"16-nedarim.xml",
+"17-nazir.xml",
+"18-sota.xml",
+"19-guitin.xml",
+"20-kidushin.xml",
+"21-bava-cama.xml",
+"22-bava-metsia.xml",
+"23-bava-batra.xml",
+"24-san-hedrin.xml",
+"25-macot.xml",
+"26-shevuot.xml",
+"27-avoda-zara.xml",
+"28-horayot.xml",
+"29-zevachim.xml",
+"30-menachot.xml",
+"31-chulin.xml",
+"32-bechorot.xml",
+"33-arachin.xml",
+"34-temura.xml",
+"35-keretot.xml",
+"36-meila.xml",
+"37-nida.xml",
+"38-pea.xml",
+"39-demai.xml",
+"40-sheviit.xml",
+"41-kilayim.xml"
+
+];
+
+const base =
+"https://refaelmarcus123-coder.github.io/daf-hayomi-feeds/";
+
+const container =
+document.getElementById("feeds");
+
+async function carregar(feed){
+
+    try{
+
+        const resposta =
+            await fetch(base + feed);
+
+        const texto =
+            await resposta.text();
+
+        const xml =
+            new DOMParser()
+            .parseFromString(texto,"text/xml");
+
+        let imagem = "";
+
+        const itunes =
+            xml.querySelector("itunes\\:image");
+
+        if(itunes){
+            imagem =
+              itunes.getAttribute("href");
+        }
+
+        if(!imagem){
+
+            imagem =
+              xml.querySelector("image url")
+              ?.textContent || "";
+        }
+
+        if(imagem){
+
+            const card = document.createElement("a");
+
+            card.href = base + feed;
+            card.target = "_blank";
+            card.className = "card";
+
+            card.innerHTML =
+            `<img src="${imagem}" loading="lazy">`;
+
+            container.appendChild(card);
+
+        }
+
+    }catch(erro){
+
+        console.log(
+            "Erro:",
+            feed,
+            erro
+        );
+
+    }
+
+}
+
+feeds.forEach(carregar);
+
+</script>
+
+</body>
+</html>
